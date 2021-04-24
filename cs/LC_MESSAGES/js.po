@@ -1,16 +1,21 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-04-24 11:29+0000\n"
+"Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: packages/braiins-os/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
 msgid "Page Not Found"
-msgstr ""
+msgstr "Stránka nenalezena"
 
 #: packages/braiins-os/src/pages/E404.tsx:10 /checksum/Dk+8tl62KG
 msgctxt "UI"
@@ -56,7 +61,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/Root/Root.tsx:379 /checksum/NQ9P0/+U9s
 msgctxt "UI"
 msgid "Download"
-msgstr ""
+msgstr "Stáhnout"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:380
 #: packages/braiins-os/src/pages/Root/Root.tsx:569
@@ -65,7 +70,7 @@ msgstr ""
 #: shared/components/carbon/DataTable/DataTable.tsx:273 /checksum/1r/fx4e7T/
 msgctxt "UI"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:383 /checksum/GaZFyR/F1K
 msgctxt "UI"
@@ -95,18 +100,18 @@ msgstr ""
 #: packages/braiins-os/src/pages/Root/Root.tsx:566 /checksum/mmKc43T7WX
 msgctxt "UI"
 msgid "Confirm"
-msgstr ""
+msgstr "Potvrdit"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1056
 #: packages/braiins-os/src/pages/Root/Root.tsx:632 /checksum/y7+MJmFo6l
 msgctxt "UI"
 msgid "Dashboard"
-msgstr ""
+msgstr "Přehled"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:633 /checksum/4rTQE18CBV
 msgctxt "UI"
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:652 /checksum/bnu0gS+6om
 msgctxt "UI"
@@ -146,7 +151,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/Root/Root.tsx:803 /checksum/2aHLMgAwI1
 msgctxt "UI"
 msgid "Login"
-msgstr ""
+msgstr "Přihlášení"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:798 /checksum/7hGrkD4HWF
 msgctxt "UI"
@@ -246,7 +251,7 @@ msgstr ""
 #: /checksum/hjYnsGxl+R
 msgctxt "UI"
 msgid "Failed"
-msgstr ""
+msgstr "Chyba"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:177
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:678
@@ -254,7 +259,7 @@ msgstr ""
 #: /checksum/mNp+r9gd5E
 msgctxt "UI"
 msgid "Disabled"
-msgstr ""
+msgstr "Vypnuto"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:187
 #: /checksum/rGh6T8gPti
@@ -476,7 +481,7 @@ msgstr ""
 #: /checksum/7IuH7NFCQ4
 msgctxt "UI"
 msgid "Rejected"
-msgstr ""
+msgstr "Zamítnuto"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:704
 #: /checksum/5uFjzlbzid
@@ -653,7 +658,7 @@ msgstr ""
 #: /checksum/159JcZalFp
 msgctxt "UI"
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:686
 #: /checksum/mlEFyf9178
@@ -839,7 +844,7 @@ msgstr ""
 #: /checksum/fDfAhk+6Iv
 msgctxt "UI"
 msgid "Saving…"
-msgstr ""
+msgstr "Ukládám…"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1864
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2349
@@ -996,7 +1001,7 @@ msgstr ""
 #: /checksum/AfRegejHzO
 msgctxt "UI"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2821
 #: /checksum/nwcMk+oisr
@@ -1185,7 +1190,7 @@ msgstr ""
 #: shared/components/format/Interval/Interval.tsx:57 /checksum/vkQ1giC8GS
 msgctxt "UI"
 msgid "Now"
-msgstr ""
+msgstr "Teď"
 
 #: shared/components/format/Timesince/Timesince.tsx:19 /checksum/nuTJ8lQ6oY
 msgctxt "UI"
