@@ -1,11 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-04-24 11:29+0000\n"
+"Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: packages/braiins-os/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -146,7 +151,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/Root/Root.tsx:803 /checksum/2aHLMgAwI1
 msgctxt "UI"
 msgid "Login"
-msgstr ""
+msgstr "Einloggen"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:798 /checksum/7hGrkD4HWF
 msgctxt "UI"
@@ -246,7 +251,7 @@ msgstr ""
 #: /checksum/hjYnsGxl+R
 msgctxt "UI"
 msgid "Failed"
-msgstr ""
+msgstr "Fehlgeschlagen"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:177
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:678
@@ -254,7 +259,7 @@ msgstr ""
 #: /checksum/mNp+r9gd5E
 msgctxt "UI"
 msgid "Disabled"
-msgstr ""
+msgstr "Deaktiviert"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:187
 #: /checksum/rGh6T8gPti
@@ -476,7 +481,7 @@ msgstr ""
 #: /checksum/7IuH7NFCQ4
 msgctxt "UI"
 msgid "Rejected"
-msgstr ""
+msgstr "Angelehnt"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:704
 #: /checksum/5uFjzlbzid
