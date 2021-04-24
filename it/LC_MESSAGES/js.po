@@ -1,11 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2021-04-24 11:29+0000\n"
+"Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: packages/braiins-os/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -246,7 +251,7 @@ msgstr ""
 #: /checksum/hjYnsGxl+R
 msgctxt "UI"
 msgid "Failed"
-msgstr ""
+msgstr "Falliti"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:177
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:678
@@ -254,7 +259,7 @@ msgstr ""
 #: /checksum/mNp+r9gd5E
 msgctxt "UI"
 msgid "Disabled"
-msgstr ""
+msgstr "Dei disabili"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:187
 #: /checksum/rGh6T8gPti
@@ -653,7 +658,7 @@ msgstr ""
 #: /checksum/159JcZalFp
 msgctxt "UI"
 msgid "Save"
-msgstr ""
+msgstr "Salvare"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:686
 #: /checksum/mlEFyf9178
@@ -996,7 +1001,7 @@ msgstr ""
 #: /checksum/AfRegejHzO
 msgctxt "UI"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2821
 #: /checksum/nwcMk+oisr
@@ -1185,7 +1190,7 @@ msgstr ""
 #: shared/components/format/Interval/Interval.tsx:57 /checksum/vkQ1giC8GS
 msgctxt "UI"
 msgid "Now"
-msgstr ""
+msgstr "Adesso"
 
 #: shared/components/format/Timesince/Timesince.tsx:19 /checksum/nuTJ8lQ6oY
 msgctxt "UI"
