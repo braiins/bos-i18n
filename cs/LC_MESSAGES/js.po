@@ -320,7 +320,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:447
 #: /checksum/1N81/507D4
 msgctxt "UI"
-msgid "Dangerours"
+msgid "Dangerous"
 msgstr ""
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:464
