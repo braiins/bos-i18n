@@ -1,13 +1,193 @@
+# Italian translations for boser package.
+# Copyright (C) 2021 THE boser'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the boser package.
+# Libor Vasicek <libor.vasicek@braiins.cz>, 2021.
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-24 11:29+0000\n"
-"Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/slushpool/"
-"braiins-os/it/>\n"
+"Project-Id-Version: boser 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-05 13:55+0000\n"
+"PO-Revision-Date: 2021-05-05 15:55+0200\n"
+"Last-Translator: Libor Vasicek <libor.vasicek@braiins.cz>\n"
+"Language-Team: Italian\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:144
+#: src/web/graphql/bosminer/configurator/performance.rs:146
+msgid "Hash chain settings is not supported"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:149
+msgid "Autotuning is not supported"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:154
+msgid "Power scaling is not supported"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:156
+#: src/web/graphql/bosminer/configurator/performance.rs:152
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
+#: src/web/graphql/bosminer/configurator.rs:587
+msgid "Invalid input values!"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:162
+msgid "Invalid PSU power limit"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:170
+msgid "Invalid power step in power scaling"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:177
+msgid "Invalid minimal PSU power limit"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:184
+msgid "Invalid shutdown duration in power scaling"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/performance.rs:149
+msgid "ASIC Boost overriding is not supported"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/performance.rs:156
+msgid "Invalid global frequency"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/performance.rs:159
+msgid "Invalid global voltage"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/performance.rs:186
+msgid "Invalid hash chain frequency"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/performance.rs:191
+msgid "Invalid hash chain voltage"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/performance.rs:212
+msgid "Invalid hash chain name or hash chain order"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:121
+msgid "The {} cannot be set in '{}' mode"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:128
+msgid "Temperature control is not supported"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:133
+msgid "Fan control is not supported"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:152
+msgid "fun speed"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:160
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:167
+msgid "target temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:171
+msgid "hot temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:175
+msgid "dangerous temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:187
+msgid "Invalid target temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:190
+msgid "Invalid hot temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:196
+msgid "Invalid dangerous temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:199
+msgid "Invalid fan speed"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:202
+msgid "Invalid minimal number of fans"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:227
+msgid "Target temperature must be lower then hot and dangerous temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:236
+msgid ""
+"Hot temperature must be higher then target and lower then dangerous "
+"temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:240
+msgid "Hot temperature must be lower then dangerous temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:248
+msgid "Dangerous temperature must be higher then target and hot temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:250
+msgid "Dangerous temperature must be higher then hot temperature"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:340
+msgid "Missing pool with id '{}'!"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:495
+msgid "Missing group with id '{}'"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:526
+msgid "Ambiguous attributes for 'strategy'"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:531
+msgid "Duplicate use of the identifier '{}'"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:548
+msgid "Missing mandatory attribute 'name'"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:588
+msgid "Group name cannot be empty"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:590
+msgid "Load balancing strategies cannot be empty!"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:593
+msgid "The sum of fixed share ratios {} exceeds 1"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:598
+msgid ""
+"At least one group with quota must be present when sum of all fixed share "
+"ratios is less then 1!"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:602
+msgid ""
+"You cannot have any quota-based load balancing entries because sum of all "
+"fixed share ratios is 1!"
+msgstr ""
