@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-05 13:55+0000\n"
+"POT-Creation-Date: 2021-05-07 19:13+0000\n"
 "PO-Revision-Date: 2021-05-05 15:55+0200\n"
 "Last-Translator: Libor Vasicek <libor.vasicek@braiins.cz>\n"
 "Language-Team: Russian\n"
@@ -34,7 +34,7 @@ msgstr ""
 #: src/web/graphql/bosminer/configurator/autotuning.rs:156
 #: src/web/graphql/bosminer/configurator/performance.rs:152
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
-#: src/web/graphql/bosminer/configurator.rs:587
+#: src/web/graphql/bosminer/configurator.rs:603
 msgid "Invalid input values!"
 msgstr ""
 
@@ -149,45 +149,45 @@ msgstr ""
 msgid "Dangerous temperature must be higher then hot temperature"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:340
+#: src/web/graphql/bosminer/configurator.rs:344
 msgid "Missing pool with id '{}'!"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:495
+#: src/web/graphql/bosminer/configurator.rs:503
 msgid "Missing group with id '{}'"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:526
+#: src/web/graphql/bosminer/configurator.rs:536
 msgid "Ambiguous attributes for 'strategy'"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:531
+#: src/web/graphql/bosminer/configurator.rs:544
 msgid "Duplicate use of the identifier '{}'"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:548
+#: src/web/graphql/bosminer/configurator.rs:563
 msgid "Missing mandatory attribute 'name'"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:588
+#: src/web/graphql/bosminer/configurator.rs:604
 msgid "Group name cannot be empty"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:590
+#: src/web/graphql/bosminer/configurator.rs:609
 msgid "Load balancing strategies cannot be empty!"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:593
+#: src/web/graphql/bosminer/configurator.rs:614
 msgid "The sum of fixed share ratios {} exceeds 1"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:598
+#: src/web/graphql/bosminer/configurator.rs:620
 msgid ""
 "At least one group with quota must be present when sum of all fixed share "
 "ratios is less then 1!"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:602
+#: src/web/graphql/bosminer/configurator.rs:626
 msgid ""
 "You cannot have any quota-based load balancing entries because sum of all "
 "fixed share ratios is 1!"
