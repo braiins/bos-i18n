@@ -1,9 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-24 11:29+0000\n"
+"PO-Revision-Date: 2021-05-28 10:09+0000\n"
 "Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/slushpool/braiins-os/cs/>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os-frontend/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,44 +20,44 @@ msgstr "Stránka nenalezena"
 #: packages/braiins-os/src/pages/E404.tsx:10 /checksum/Dk+8tl62KG
 msgctxt "UI"
 msgid "We couldn't find the page or file you're looking for."
-msgstr ""
+msgstr "Stranka kterou hledáte nebyla nalezena."
 
 #: packages/braiins-os/src/components/StatusPage/StatusPage.tsx:49
 #: /checksum/3nCmoeStAW
 msgctxt "UI"
 msgid "Go to Homepage"
-msgstr ""
+msgstr "Přejít na domovskou stránku"
 
 #: shared/lib/router/misc.tsx:59 /checksum/DI3eXXShyd
 msgctxt "UI"
 msgid "An error has occurred while loading the page!"
-msgstr ""
+msgstr "Při načítání stránky došlo k chybě!"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:277 /checksum/vlLD7ZTxZi
 msgctxt "UI"
 msgid "Device is unreachable!"
-msgstr ""
+msgstr "Zařízení je nedostupné!"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:384 /checksum/JJz6xGI8Qq
 msgctxt "UI"
 msgid "Reboot error!"
-msgstr ""
+msgstr "Chyba restartu!"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:384 /checksum/R5Ch7DlpAH
 msgctxt "UI"
 msgid "Rebooting"
-msgstr ""
+msgstr "Restartuji"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:392 /checksum/BjtLKD3Q3z
 msgctxt "UI"
 msgid "Please wait until it becomes responsive…"
-msgstr ""
+msgstr "Vyčkejte prosím, dokud se nestane responsivním…"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:417
 #: packages/braiins-os/src/pages/Root/Root.tsx:1021 /checksum/WI6YRVTA/7
 msgctxt "UI"
 msgid "Get help"
-msgstr ""
+msgstr "Získat pomoc"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:422 /checksum/NQ9P0/+U9s
 msgctxt "UI"
@@ -81,16 +82,21 @@ msgid ""
 "team.</p><p>These logs will help our team to faster investigate your issues."
 " Generating the archive can take up to 1 minute.</p>"
 msgstr ""
+"<p>Kliknutím na tlačítko \"Stáhnout\" systém automaticky posbírá všechny "
+"systémové záznamy a vytvoří jeden <strong>.zip archiv</strong>, který "
+"následně můžete zaslat naší technické podpoře.</p><p>Tyto záznamy nám "
+"pomohou rychleji zjistit váš problém. Vygenerování archivu může trvat až 1 "
+"minutu.</p>"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:437 /checksum/WZnIDgUEc4
 msgctxt "UI"
 msgid "<a>Submit a Support ticket</a>{br}(or send email to {email})"
-msgstr ""
+msgstr "<a>Odeslat žádost o pomoc</a>{br}(nebo zaslat email na adresu {email})"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:587 /checksum/ISzLqSZMJH
 msgctxt "UI"
 msgid "Your session has expired. Please login again."
-msgstr ""
+msgstr "Vaše uživatelská relace vypršela. Přihlaste se prosím znovu."
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:601 /checksum/wtNl/szg7C
 msgctxt "UI"
@@ -119,7 +125,7 @@ msgstr "Nastavení"
 #: packages/braiins-os/src/pages/Root/Root.tsx:720 /checksum/bnu0gS+6om
 msgctxt "UI"
 msgid "Required value!"
-msgstr ""
+msgstr "Povinná hodnota!"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:853 /checksum/MXDH238HKb
 msgctxt "UI"
@@ -131,14 +137,14 @@ msgstr ""
 #: /checksum/UMApAywi/y
 msgctxt "UI"
 msgid "Username"
-msgstr ""
+msgstr "Uživatelské jméno"
 
 #: packages/braiins-os/src/components/standalone/Login/Login.tsx:97
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1312
 #: /checksum/cM6eWbvdlw
 msgctxt "UI"
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:858 /checksum/2aHLMgAwI1
 msgctxt "UI"
@@ -148,38 +154,38 @@ msgstr "Přihlášení"
 #: packages/braiins-os/src/pages/Root/Root.tsx:945 /checksum/CYAkeY00Qq
 msgctxt "UI"
 msgid "Open menu"
-msgstr ""
+msgstr "Otevřít navigaci"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:960 /checksum//LSuT3WRuQ
 msgctxt "UI"
 msgid "profile menu"
-msgstr ""
+msgstr "profilová navigace"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:962
 #: packages/braiins-os/src/pages/Root/Root.tsx:970 /checksum/w21s46x9aH
 msgctxt "UI"
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentace"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:992 /checksum/m3cwix1oqh
 msgctxt "UI"
 msgid "Reboot device"
-msgstr ""
+msgstr "Restartovat zařízení"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:999 /checksum/nDhVn1oJvX
 msgctxt "UI"
 msgid "Start BOSminer"
-msgstr ""
+msgstr "Spustit BOSminer"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:1006 /checksum/7oLBsBE6BO
 msgctxt "UI"
 msgid "Stop BOSminer"
-msgstr ""
+msgstr "Zastavit BOSminer"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:1013 /checksum/d+nFKBWX5d
 msgctxt "UI"
 msgid "Restart BOSminer"
-msgstr ""
+msgstr "Restartovat BOSminer"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:1062 /checksum/uxqc6sfqLo
 msgctxt "UI"
@@ -194,13 +200,13 @@ msgstr ""
 #: shared/lib/layout/components/Layout.tsx:225 /checksum/i76utv7wDD
 msgctxt "UI"
 msgid "An error has happened!"
-msgstr ""
+msgstr "Nastala chyba!"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:98
 #: /checksum/URX7pTSzY1
 msgctxt "UI"
 msgid "Get Braiins OS+"
-msgstr ""
+msgstr "Získat Braiins OS+"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:125
 #: /checksum/hjYnsGxl+R
@@ -239,75 +245,75 @@ msgstr ""
 #: /checksum/Ua8wzWenph
 msgctxt "UI"
 msgid "Real Hashrate"
-msgstr ""
+msgstr "Skutečný Hashrate"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:378
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:557
 #: /checksum/QbuuYC3zT6
 msgctxt "UI"
 msgid "Temperature"
-msgstr ""
+msgstr "Teplota"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:420
 #: /checksum/4iL8GttnT8
 msgctxt "UI"
 msgid "Nominal Average Hashrate"
-msgstr ""
+msgstr "Nominální Průmerný Hashrate"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:430
 #: /checksum/C6PaEVEbQr
 msgctxt "UI"
 msgid "{id} Real Hashrate"
-msgstr ""
+msgstr "{id} Skutečný Hashrate"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:476
 #: /checksum/SGPQi/vIm2
 msgctxt "UI"
 msgid "Target"
-msgstr ""
+msgstr "Cílová"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:480
 #: /checksum/1qs1sqvedY
 msgctxt "UI"
 msgid "Hot"
-msgstr ""
+msgstr "Vysoká"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:483
 #: /checksum/p3n1GlA2rf
 msgctxt "UI"
 msgid "Dangerous"
-msgstr ""
+msgstr "Nebezpečná"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:500
 #: /checksum/Iw4aMms6iM
 msgctxt "UI"
 msgid "Board {id}"
-msgstr ""
+msgstr "Deska {id}"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:508
 #: /checksum/7Hvv/9q0/m
 msgctxt "UI"
 msgid "Chip {id}"
-msgstr ""
+msgstr "Čip {id}"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:524
 #: /checksum/ajjN8b1EDC
 msgctxt "UI"
 msgid "Fan {id}"
-msgstr ""
+msgstr "Vent. {id}"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:555
 #: /checksum/laId6n5bj6
 msgctxt "UI"
 msgid "Overall Status"
-msgstr ""
+msgstr "Celkový Status"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:191
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:556
 #: /checksum/KwuybsWn+f
 msgctxt "UI"
 msgid "Hashrate"
-msgstr ""
+msgstr "Hashrate"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:574
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:729
@@ -315,26 +321,26 @@ msgstr ""
 #: /checksum/LlgQaskXjK
 msgctxt "UI"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:579
 #: /checksum/TaaCpByfgf
 msgctxt "UI"
 msgid "Real{br}Hashrate"
-msgstr ""
+msgstr "Skutečný{br}Hashrate"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:584
 #: /checksum/llOSf/xWp9
 msgctxt "UI"
 msgid "Nominal{br}Hashrate"
-msgstr ""
+msgstr "Nominální{br}Hashrate"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:589
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2232
 #: /checksum/1KObi88eX6
 msgctxt "UI"
 msgid "Voltage"
-msgstr ""
+msgstr "Napětí"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:594
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2207
@@ -342,25 +348,25 @@ msgstr ""
 #: /checksum/FHiQCAYQHe
 msgctxt "UI"
 msgid "Frequency"
-msgstr ""
+msgstr "Frekvence"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:599
 #: /checksum/+V+cV1J5tF
 msgctxt "UI"
 msgid "Board{br}Temp"
-msgstr ""
+msgstr "Teplota{br}desky"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:604
 #: /checksum/pxwmGLvHBk
 msgctxt "UI"
 msgid "Chip{br}Temp"
-msgstr ""
+msgstr "Teplota{br}čipu"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:609
 #: /checksum/PHTCjFEOEY
 msgctxt "UI"
 msgid "ASIC#"
-msgstr ""
+msgstr "ASIC#"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:614
 #: /checksum/3C9D/knoS5
@@ -404,13 +410,13 @@ msgstr ""
 #: /checksum/9PQ5DfQLsj
 msgctxt "UI"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:737
 #: /checksum/yXV3Wqrjmt
 msgctxt "UI"
 msgid "User"
-msgstr ""
+msgstr "Uživatel"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:738
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:818
@@ -418,7 +424,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/System/System.tsx:1068 /checksum/ZmjnBnQzo4
 msgctxt "UI"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:739
 #: /checksum/H4Ac6x57kf
@@ -456,13 +462,13 @@ msgstr ""
 #: /checksum/Y7ap4TcIHX
 msgctxt "UI"
 msgid "Yes"
-msgstr ""
+msgstr "Ano"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:759
 #: /checksum/ORONQigkHI
 msgctxt "UI"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:771
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1601
@@ -482,49 +488,49 @@ msgstr ""
 #: /checksum/cbeihW/QBs
 msgctxt "UI"
 msgid "Tuner{br}Uptime"
-msgstr ""
+msgstr "Čas běhu{br}tuneru"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:806
 #: /checksum/BdiTsDLQM3
 msgctxt "UI"
 msgid "Stage{br}Duration"
-msgstr ""
+msgstr "Trvání{br}etapy"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:812
 #: /checksum/x8IveHV2vz
 msgctxt "UI"
 msgid "Approx.{br}Watts"
-msgstr ""
+msgstr "Přibl.{br}výkon"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:836
 #: /checksum/4eVU0IUDGA
 msgctxt "UI"
 msgid "Loaded profile created on {time}"
-msgstr ""
+msgstr "Načtený profil vytvořen v {time}"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:871
 #: /checksum/PhsBNHnrXs
 msgctxt "UI"
 msgid "Tuner Status"
-msgstr ""
+msgstr "Status tuneru"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:950
 #: /checksum/QZe+w0RsWu
 msgctxt "UI"
 msgid "Chip Temperature"
-msgstr ""
+msgstr "Teplota čipu"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:964
 #: /checksum/UVHEPWzRYZ
 msgctxt "UI"
 msgid "Power Limit"
-msgstr ""
+msgstr "Limit výkonu"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:966
 #: /checksum/v6830rj8ta
 msgctxt "UI"
 msgid "Appr. Total Watts"
-msgstr ""
+msgstr "Přibl. celkový výkon"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:967
 #: /checksum/Umbv6C4HNl
@@ -548,19 +554,19 @@ msgstr ""
 #: /checksum/NtBIDAIMZH
 msgctxt "UI"
 msgid "Hashrate 1M"
-msgstr ""
+msgstr "Hashrate 1M"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1057
 #: /checksum/Tz/XXN5S3z
 msgctxt "UI"
 msgid "Hashrate 15M"
-msgstr ""
+msgstr "Hashrate 15M"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1058
 #: /checksum/kLRqZWW/Uy
 msgctxt "UI"
 msgid "Hashrate 24H"
-msgstr ""
+msgstr "Hashrate 24H"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1060
 #: /checksum/nQjJ5yBHPK
@@ -590,25 +596,25 @@ msgstr ""
 #: /checksum/tHbM+CnkW7
 msgctxt "UI"
 msgid "Error fetching metadata!"
-msgstr ""
+msgstr "Chyba načítání meta-dat!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:572
 #: packages/braiins-os/src/pages/System/System.tsx:236 /checksum/gPVm1gpE9r
 msgctxt "UI"
 msgid "Invalid reponse received!"
-msgstr ""
+msgstr "Přijata neplatná odpověď!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:576
 #: packages/braiins-os/src/pages/System/System.tsx:240 /checksum/+ozkGmJC0+
 msgctxt "UI"
 msgid "Changes saved"
-msgstr ""
+msgstr "Změny uloženy"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:585
 #: packages/braiins-os/src/pages/System/System.tsx:316 /checksum/UB9Ih30unX
 msgctxt "UI"
 msgid "Submiting changes…"
-msgstr ""
+msgstr "Ukládání změn…"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:592
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1465
@@ -633,7 +639,7 @@ msgstr ""
 #: /checksum/+gcrfEN0IL
 msgctxt "UI"
 msgid "Missing \"__typename\" in group edit!"
-msgstr ""
+msgstr "Chybějící \"__typename\" při editaci skupin!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:742
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:900
@@ -674,13 +680,13 @@ msgstr ""
 #: packages/braiins-os/src/pages/System/System.tsx:1010 /checksum/S4S7JYdGGx
 msgctxt "UI"
 msgid "Actions"
-msgstr ""
+msgstr "Akce"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1390
 #: /checksum/Jyp8+YDWdi
 msgctxt "UI"
 msgid "Saving changes…"
-msgstr ""
+msgstr "Ukládání změn…"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1448
 #: /checksum/Mwh4OSe57n
@@ -692,20 +698,20 @@ msgstr ""
 #: /checksum/T4EdQJ5Hik
 msgctxt "UI"
 msgid "Move Up"
-msgstr ""
+msgstr "Přesunout nahoru"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1491
 #: /checksum/UyUe9sUfcX
 msgctxt "UI"
 msgid "Move Down"
-msgstr ""
+msgstr "Přesunout dolů"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1502
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1756
 #: /checksum/mOQPUnzQyj
 msgctxt "UI"
 msgid "Remove"
-msgstr ""
+msgstr "Odstranit"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1533
 #: /checksum/H7LqDSds7I
@@ -717,7 +723,7 @@ msgstr ""
 #: /checksum/9DC3+6PJeA
 msgctxt "UI"
 msgid "Quota: {value}"
-msgstr ""
+msgstr "Kvóta: {value}"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1574
 #: /checksum/kLS2qiLInM
@@ -741,26 +747,26 @@ msgstr ""
 #: /checksum/6s3JTItf+9
 msgctxt "UI"
 msgid "Group Name"
-msgstr ""
+msgstr "Název skupiny"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1623
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2694
 #: /checksum/JBNGeL8E9f
 msgctxt "UI"
 msgid "Mode"
-msgstr ""
+msgstr "Mód"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1624
 #: /checksum/MHJKan1fxa
 msgctxt "UI"
 msgid "Value"
-msgstr ""
+msgstr "Hodnota"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1705
 #: /checksum/Gs7aU0IDK3
 msgctxt "UI"
 msgid "Quota"
-msgstr ""
+msgstr "Kvóta"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1708
 #: /checksum/B5HHuJeRBo
@@ -772,37 +778,37 @@ msgstr ""
 #: /checksum/rQWw/NnpNN
 msgctxt "UI"
 msgid "Cancel Removal"
-msgstr ""
+msgstr "Zrušit odstranění"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1799
 #: /checksum//l2m0XFnFz
 msgctxt "UI"
 msgid "No groups added yet…"
-msgstr ""
+msgstr "Nemáte dosud žádné skupiny…"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1811
 #: /checksum/xl692sCSZQ
 msgctxt "UI"
 msgid "Save Changes"
-msgstr ""
+msgstr "Uložit změny"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1825
 #: /checksum/LUTg1L5u9u
 msgctxt "UI"
 msgid "No groups yet…"
-msgstr ""
+msgstr "Žádné skupy…"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1835
 #: /checksum/HJVKG30W0C
 msgctxt "UI"
 msgid "Add New Group"
-msgstr ""
+msgstr "Přidat novou skupinu"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1837
 #: /checksum/fDfAhk+6Iv
 msgctxt "UI"
 msgid "Saving…"
-msgstr "Ukládám…"
+msgstr "Ukládání…"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1840
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2264
@@ -814,135 +820,135 @@ msgstr "Ukládám…"
 #: packages/braiins-os/src/pages/System/System.tsx:1038 /checksum/dxZiJKP6dx
 msgctxt "UI"
 msgid "{title} Settings"
-msgstr ""
+msgstr "Nastavení / {title}"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1962
 #: /checksum/FuG7rR3KXd
 msgctxt "UI"
 msgid "Missing \"__typename\" in Autotuning edit!"
-msgstr ""
+msgstr "Chybí \"__typename\" v editaci autotuning!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2071
 #: /checksum/SjWExVdHX+
 msgctxt "UI"
 msgid "Missing \"__typename\" in Performance edit!"
-msgstr ""
+msgstr "Chybí \"__typename\" v editaci výkonu!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2123
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2911
 #: /checksum/XcM3y0zqT+
 msgctxt "UI"
 msgid "Performance"
-msgstr ""
+msgstr "Výkon"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2197
 #: /checksum/Bq4q2RDBzi
 msgctxt "UI"
 msgid "Enable Hashboard {name}"
-msgstr ""
+msgstr "Zapnout hashboard {name}"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2268
 #: /checksum/r3UBOOEDl9
 msgctxt "UI"
 msgid "Overclocking may damage your device. Proceed at your own risk!"
-msgstr ""
+msgstr "Přetaktování může poškodit zařízení. Postupujte na vlastní nebezpečí!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2278
 #: /checksum/Y+am5Yp1ex
 msgctxt "UI"
 msgid "Autotuning"
-msgstr ""
+msgstr "Autotuning"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2290
 #: /checksum/A/68UrRtvm
 msgctxt "UI"
 msgid "Enable Autotuning"
-msgstr ""
+msgstr "Zapnout Autotuning"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2294
 #: /checksum/ELr3MkI4t4
 msgctxt "UI"
 msgid "PSU Power Limit (for all hashboards)"
-msgstr ""
+msgstr "Limit výkonu zdroje (pro všechny desky)"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2327
 #: /checksum/q/JGTmnHz5
 msgctxt "UI"
 msgid "Dynamic Power Scaling"
-msgstr ""
+msgstr "Dynamické škálování výkonu"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2336
 #: /checksum/dTWY1dWvpE
 msgctxt "UI"
 msgid "Enable Dynamic Power Scaling"
-msgstr ""
+msgstr "Zapnout dynamické škálování výkonu"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2340
 #: /checksum/8VufGUagdV
 msgctxt "UI"
 msgid "Power to Decrease by in One Step"
-msgstr ""
+msgstr "Velikost kroku při snižování výkonu"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2371
 #: /checksum/P0xdwgtFnA
 msgctxt "UI"
 msgid "Minimal PSU Power Limit"
-msgstr ""
+msgstr "Spodní limit výkonu zdroje"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2415
 #: /checksum/YZ9WDwOtr+
 msgctxt "UI"
 msgid "Shutdown When Minimal PSU Power Limit is Reached"
-msgstr ""
+msgstr "Vypnout při dosažení spodního limitu výkonu zdroje"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2419
 #: /checksum/jLtrVoarMe
 msgctxt "UI"
 msgid "Shutdown Duration"
-msgstr ""
+msgstr "Doba vypnutí"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2445
 #: /checksum/BPYXmgKNbW
 msgctxt "UI"
 msgid "Hours"
-msgstr ""
+msgstr "Hodiny"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2452
 #: /checksum/9OVd+18ZJx
 msgctxt "UI"
 msgid "Global Hash Chain Settings"
-msgstr ""
+msgstr "Globální nastavení hash-chainů"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2513
 #: /checksum/dm9m0P2XzD
 msgctxt "UI"
 msgid "Override Global Hash Chain Settings"
-msgstr ""
+msgstr "Přetížení nastavení hash-chainů"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2601
 #: /checksum/LoQv8WtO2w
 msgctxt "UI"
 msgid "Missing \"__typename\" in Temperature & Fans edit!"
-msgstr ""
+msgstr "Chybí \"__typename\" v editaci teplot a ventilátorů!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2680
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2916
 #: /checksum/GZH00sZURY
 msgctxt "UI"
 msgid "Temperature & Fans"
-msgstr ""
+msgstr "Teplota a ventilátory"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2690
 #: /checksum//hxmhkmfOO
 msgctxt "UI"
 msgid "Temperature Control"
-msgstr ""
+msgstr "Regulace teploty"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2702
 #: /checksum/VZZ5iZyMWK
 msgctxt "UI"
 msgid "Temperature Control Mode"
-msgstr ""
+msgstr "Režim regulace teploty"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2705
 #: /checksum/hKRrZSrtWx
@@ -952,12 +958,15 @@ msgid ""
 "overheating problems which can result in shutdown of the system or even "
 "irreversible hardware damage.</p><p>Proceed at your own risk!</p>"
 msgstr ""
+"<p><strong>Upozornění:</strong> Změna výchozí hodnoty může způsobit problémy "
+"s přehříváním, vypnutí systému a/nebo nevratné poškození zařízení.</"
+"p><p>Postupujte na vlastní nebezpečí!</p>"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2717
 #: /checksum/YBpDY4Q3Mo
 msgctxt "UI"
 msgid "Understood"
-msgstr ""
+msgstr "Rozumím"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2724
 #: packages/braiins-os/src/pages/System/System.tsx:443 /checksum/AfRegejHzO
@@ -969,61 +978,61 @@ msgstr "Auto"
 #: /checksum/nwcMk+oisr
 msgctxt "UI"
 msgid "Manual"
-msgstr ""
+msgstr "Manuální"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2738
 #: /checksum/ngUotbg/9o
 msgctxt "UI"
 msgid "Target Temperature"
-msgstr ""
+msgstr "Cílová teplota"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2769
 #: /checksum/rO78UQpn89
 msgctxt "UI"
 msgid "Hot Temperature"
-msgstr ""
+msgstr "Vysoká teplota"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2800
 #: /checksum/i3CO+1NiqB
 msgctxt "UI"
 msgid "Dangerous Temperature"
-msgstr ""
+msgstr "Nebezpečná teplota"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2831
 #: /checksum/bvxtZg/iYt
 msgctxt "UI"
 msgid "Fan Control"
-msgstr ""
+msgstr "Regulace ventilátorů"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2835
 #: /checksum/spvsqjswya
 msgctxt "UI"
 msgid "Speed"
-msgstr ""
+msgstr "Rychlost"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2866
 #: /checksum/Lv4HEzTYCQ
 msgctxt "UI"
 msgid "Minimum Running Fans"
-msgstr ""
+msgstr "Min. počet běžících ventilátorů"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2869
 #: /checksum/i63CruQTgB
 msgctxt "UI"
 msgid "Number of fans required for system to run."
-msgstr ""
+msgstr "Počet běžících ventilátorů vyžadovaný pro běh systému."
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2873
 #: /checksum/vucOFpS+4o
 msgctxt "UI"
 msgid "Use <strong>0 for immersion cooling</strong>."
-msgstr ""
+msgstr "Nastavte <strong>0 pro ponorné chlazení</strong>."
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2877
 #: /checksum/aFVcDmup83
 msgctxt "UI"
 msgid "Fans count unknown!"
-msgstr ""
+msgstr "Neznámý počet ventilátorů!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2942
 #: /checksum/VG/L/KobzN
@@ -1035,7 +1044,7 @@ msgstr ""
 #: shared/charts/MultiLine/MultiLine.tsx:120 /checksum/AMBWvayRmY
 msgctxt "UI"
 msgid "An error has occurred in the chart!"
-msgstr ""
+msgstr "Nastala chyba při vykreslování grafu!"
 
 #: shared/components/DidCatch/DidCatch.tsx:26 /checksum/XEa29O/eL/
 msgctxt "UI"
@@ -1312,7 +1321,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/System/System.tsx:418 /checksum/ELNEVEcuq5
 msgctxt "UI"
 msgid "Change Password"
-msgstr ""
+msgstr "Změnit heslo"
 
 #: packages/braiins-os/src/pages/System/System.tsx:432 /checksum/M+TAJXHcvY
 msgctxt "UI"
@@ -1333,7 +1342,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/System/System.tsx:505 /checksum/cJ2lbra2o4
 msgctxt "UI"
 msgid "Current Password"
-msgstr ""
+msgstr "Aktuální heslo"
 
 #: packages/braiins-os/src/pages/System/System.tsx:521
 #: packages/braiins-os/src/pages/System/System.tsx:525 /checksum/bgQK+TLYyY
@@ -1360,7 +1369,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/System/System.tsx:625 /checksum/Uy+QtbFTN6
 msgctxt "UI"
 msgid "IP Address"
-msgstr ""
+msgstr "IP adresa"
 
 #: packages/braiins-os/src/pages/System/System.tsx:644 /checksum/RGEEiZn9SO
 msgctxt "UI"
@@ -1536,7 +1545,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/System/System.tsx:1054 /checksum/8lnFStJQyT
 msgctxt "UI"
 msgid "Enabled"
-msgstr ""
+msgstr "Zapnuto"
 
 #: packages/braiins-os/src/pages/System/System.tsx:1076
 #: packages/braiins-os/src/pages/System/System.tsx:1077 /checksum/lEXXuDtuML
