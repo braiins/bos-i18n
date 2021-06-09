@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-28 22:15+0000\n"
+"POT-Creation-Date: 2021-06-09 17:00+0000\n"
 "PO-Revision-Date: 2021-05-05 15:55+0200\n"
 "Last-Translator: Libor Vasicek <libor.vasicek@braiins.cz>\n"
 "Language-Team: Language zh-hans\n"
@@ -191,10 +191,34 @@ msgid ""
 "fixed share ratios is 1!"
 msgstr ""
 
-#: src/web/graphql/bosminer.rs:186
+#: src/web/graphql/bosminer/info.rs:113
+msgid "Testing performance profile"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:116
+msgid "Tuning individual chips"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:118
+msgid "Stable"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:119
+msgid "Tuner not running"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:121
+msgid "Running with fixed settings"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:124
+msgid "Hashchain refused to start"
+msgstr ""
+
+#: src/web/graphql/bosminer.rs:188
 msgid "Restart BOSminer to apply configuration changes!"
 msgstr ""
 
-#: src/web/graphql/storage.rs:161
+#: src/web/graphql/storage.rs:172
 msgid "Cannot save web data to persistent storage"
 msgstr ""
