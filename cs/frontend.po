@@ -50,7 +50,7 @@ msgstr "Restartuji"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:392 /checksum/BjtLKD3Q3z
 msgctxt "UI"
-msgid "Please wait until it becomes responsive…"
+msgid "Please wait until the device is responsive…"
 msgstr "Vyčkejte prosím, dokud se nestane responsivním…"
 
 #: packages/braiins-os/src/pages/Root/Root.tsx:417
@@ -78,8 +78,8 @@ msgctxt "UI"
 msgid ""
 "<p>When you click the \"Download\" button, the system will automatically "
 "gather all the system logs and package them into one <strong>.zip "
-"file</strong> so that you can send the whole package easily to our support "
-"team.</p><p>These logs will help our team to faster investigate your issues."
+"file</strong> so that you can easily send the package to our support "
+"team.</p><p>These logs will help our team investigate your issues."
 " Generating the archive can take up to 1 minute.</p>"
 msgstr ""
 "<p>Kliknutím na tlačítko \"Stáhnout\" systém automaticky posbírá všechny "
@@ -199,7 +199,7 @@ msgstr ""
 
 #: shared/lib/layout/components/Layout.tsx:225 /checksum/i76utv7wDD
 msgctxt "UI"
-msgid "An error has happened!"
+msgid "An error has occured!"
 msgstr "Nastala chyba!"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:98
@@ -583,7 +583,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1063
 #: /checksum/7jDoBomL4r
 msgctxt "UI"
-msgid "Found Blocks"
+msgid "Blocks Found"
 msgstr "Nalezené bloky"
 
 #: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1100
@@ -627,7 +627,7 @@ msgstr "Uložit"
 #: /checksum/mlEFyf9178
 msgctxt "UI"
 msgid ""
-"No pool for saving found! Probably an invalid combination of group ID & Pool"
+"No pool found! Probably an invalid combination of group ID & Pool"
 " ID"
 msgstr ""
 
@@ -638,7 +638,7 @@ msgstr ""
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1244
 #: /checksum/+gcrfEN0IL
 msgctxt "UI"
-msgid "Missing \"__typename\" in group edit!"
+msgid "Missing \"__typename\" in group feild!"
 msgstr "Chybějící \"__typename\" při editaci skupin!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:742
@@ -647,7 +647,7 @@ msgstr "Chybějící \"__typename\" při editaci skupin!"
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1118
 #: /checksum//pdiqVCB36
 msgctxt "UI"
-msgid "Missing \"__typename\" in pool edit!"
+msgid "Missing \"__typename\" in pool feild!"
 msgstr ""
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:763
@@ -716,7 +716,7 @@ msgstr "Odstranit"
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1533
 #: /checksum/H7LqDSds7I
 msgctxt "UI"
-msgid "No pools added yet…"
+msgid "No pools added…"
 msgstr ""
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1569
@@ -783,7 +783,7 @@ msgstr "Zrušit odstranění"
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1799
 #: /checksum//l2m0XFnFz
 msgctxt "UI"
-msgid "No groups added yet…"
+msgid "No groups added…"
 msgstr "Nemáte dosud žádné skupiny…"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1811
@@ -795,7 +795,7 @@ msgstr "Uložit změny"
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1825
 #: /checksum/LUTg1L5u9u
 msgctxt "UI"
-msgid "No groups yet…"
+msgid "No groups added…"
 msgstr "Žádné skupy…"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1835
@@ -825,13 +825,13 @@ msgstr "Nastavení / {title}"
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:1962
 #: /checksum/FuG7rR3KXd
 msgctxt "UI"
-msgid "Missing \"__typename\" in Autotuning edit!"
+msgid "Missing \"__typename\" in Autotuning feild!"
 msgstr "Chybí \"__typename\" v editaci autotuning!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2071
 #: /checksum/SjWExVdHX+
 msgctxt "UI"
-msgid "Missing \"__typename\" in Performance edit!"
+msgid "Missing \"__typename\" in Performance feild!"
 msgstr "Chybí \"__typename\" v editaci výkonu!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2123
@@ -850,7 +850,7 @@ msgstr "Zapnout hashboard {name}"
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2268
 #: /checksum/r3UBOOEDl9
 msgctxt "UI"
-msgid "Overclocking may damage your device. Proceed at your own risk!"
+msgid "WARNING: Overclocking may damage your device. Proceed at your own risk!"
 msgstr "Přetaktování může poškodit zařízení. Postupujte na vlastní nebezpečí!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2278
@@ -886,7 +886,7 @@ msgstr "Zapnout dynamické škálování výkonu"
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2340
 #: /checksum/8VufGUagdV
 msgctxt "UI"
-msgid "Power to Decrease by in One Step"
+msgid "Decrease Power Limit Value."
 msgstr "Velikost kroku při snižování výkonu"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2371
@@ -954,8 +954,8 @@ msgstr "Režim regulace teploty"
 #: /checksum/hKRrZSrtWx
 msgctxt "UI"
 msgid ""
-"<p><strong>Caution:</strong> Changing the default settings may cause "
-"overheating problems which can result in shutdown of the system or even "
+"<p><strong>WARNING:</strong> Changing the default settings may cause "
+"overheating which can result in system shutdown or even "
 "irreversible hardware damage.</p><p>Proceed at your own risk!</p>"
 msgstr ""
 "<p><strong>Upozornění:</strong> Změna výchozí hodnoty může způsobit problémy "
@@ -1013,7 +1013,7 @@ msgstr "Rychlost"
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2866
 #: /checksum/Lv4HEzTYCQ
 msgctxt "UI"
-msgid "Minimum Running Fans"
+msgid "Minimum Required Fans"
 msgstr "Min. počet běžících ventilátorů"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2869
@@ -1031,7 +1031,7 @@ msgstr "Nastavte <strong>0 pro ponorné chlazení</strong>."
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2877
 #: /checksum/aFVcDmup83
 msgctxt "UI"
-msgid "Fans count unknown!"
+msgid "Fan count unknown!"
 msgstr "Neznámý počet ventilátorů!"
 
 #: packages/braiins-os/src/pages/Settings/Settings.tsx:2942
@@ -1053,12 +1053,12 @@ msgstr ""
 
 #: shared/components/DidCatch/DidCatch.tsx:27 /checksum/9RN9hrzIxV
 msgctxt "UI"
-msgid "Please contact our technical support."
+msgid "Please contact our technical support team."
 msgstr ""
 
 #: shared/components/DidCatch/DidCatch.tsx:30 /checksum/FCn4igDlz4
 msgctxt "UI"
-msgid "We have been notified about the issue and are working on the fix."
+msgid "We have been notified about the issue and are working on a fix."
 msgstr ""
 
 #: shared/components/DidCatch/DidCatch.tsx:31 /checksum/hav+RWLOY7
@@ -1079,7 +1079,7 @@ msgstr ""
 
 #: shared/components/DidCatch/DidCatch.tsx:37 /checksum/fva7Ai+/Ke
 msgctxt "UI"
-msgid "Please reload the page to get the latest version of our service."
+msgid "Please reload the page to get the latest version."
 msgstr ""
 
 #: shared/components/DidCatch/DidCatch.tsx:56 /checksum/W5XZYVGZrq
@@ -1120,7 +1120,7 @@ msgstr ""
 
 #: shared/components/carbon/OtpInput/OtpInput.tsx:53 /checksum/k6H9lPjFMy
 msgctxt "UI"
-msgid "Enter one-time password<br/>generated by your OTP app"
+msgid "Enter the one-time password<br/>generated by your OTP app"
 msgstr ""
 
 #: shared/components/carbon/Select/Select.tsx:18 /checksum/kgY4Q7Zflg
@@ -1237,7 +1237,7 @@ msgstr ""
 #: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:37
 #: /checksum/KDzdA+5W6b
 msgctxt "UI"
-msgid "Please confirm the request by following the included link."
+msgid "Please confirm the request by following the link included."
 msgstr ""
 
 #: shared/components/carbon/Panel/ProgressTable/ProgressTable.tsx:59
@@ -1506,7 +1506,7 @@ msgstr "Obnovit zálohu:"
 #: packages/braiins-os/src/pages/System/System.tsx:950 /checksum/47fTKdw6qz
 msgctxt "UI"
 msgid ""
-"To restore configuration files, you can upload a previously generated backup"
+"To restore configuration data, upload a previously generated backup"
 " archive here."
 msgstr "Zde můžete nahrát dříve vygenerovanou zálohu nastavení pro jeho obnovu."
 
@@ -1541,8 +1541,7 @@ msgstr "Automatická aktualizace"
 #: packages/braiins-os/src/pages/System/System.tsx:1042 /checksum/Ka5AjuDW8V
 msgctxt "UI"
 msgid ""
-"Configure the firmware to monitor our feeds server for new releases and "
-"automatically install them."
+"Configure the firmware to automatically install new releases "
 msgstr ""
 "Systém bude monitorovat naše zdroje aktualizací a automaticky je nainstaluje "
 "při nalezení nové verze."
@@ -1738,6 +1737,8 @@ msgctxt "CAL"
 msgid "April"
 msgstr "Duben"
 
+###MISSING MAY
+
 #: shared/components/carbon/Calendar/Calendar.tsx:126 /checksum/cTBXFqUBZZ
 msgctxt "CAL"
 msgid "June"
@@ -1823,6 +1824,8 @@ msgstr ""
 #~ msgctxt "UI"
 #~ msgid "Utils"
 #~ msgstr ""
+
+# NOT SURE WHAT UTILS is?
 
 #~ msgctxt "UI"
 #~ msgid "Theme: Light"
