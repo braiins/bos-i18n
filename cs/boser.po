@@ -23,11 +23,11 @@ msgid "Hash chain settings is not supported"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:142
-msgid "Autotuning is not supported"
+msgid "Autotuning not supported"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:145
-msgid "Power scaling is not supported"
+msgid "Power scaling not supported"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:148
@@ -54,7 +54,7 @@ msgid "Invalid shutdown duration in power scaling"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/performance.rs:147
-msgid "ASIC Boost overriding is not supported"
+msgid "ASIC Boost override not supported"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/performance.rs:156
@@ -82,11 +82,11 @@ msgid "The {} cannot be set in '{}' mode"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:129
-msgid "Temperature control is not supported"
+msgid "Temperature control not supported"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:132
-msgid "Fan control is not supported"
+msgid "Fan control not supported"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:154
@@ -127,25 +127,25 @@ msgid "Invalid minimal number of fans"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:243
-msgid "Target temperature must be lower then hot and dangerous temperature"
+msgid "Target temperature must be lower than hot and dangerous temperatures"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
 msgid ""
-"Hot temperature must be higher then target and lower then dangerous "
+"Hot temperature must be higher than target and lower than dangerous "
 "temperature"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:258
-msgid "Hot temperature must be lower then dangerous temperature"
+msgid "Hot temperature must be lower than dangerous temperature"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:269
-msgid "Dangerous temperature must be higher then target and hot temperature"
+msgid "Dangerous temperature must be higher than target and hot temperature"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:274
-msgid "Dangerous temperature must be higher then hot temperature"
+msgid "Dangerous temperature must be higher than hot temperature"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator.rs:344
@@ -175,6 +175,8 @@ msgstr ""
 #: src/web/graphql/bosminer/configurator.rs:609
 msgid "Load balancing strategies cannot be empty!"
 msgstr ""
+
+#May need to be strategy
 
 #: src/web/graphql/bosminer/configurator.rs:614
 msgid "The sum of fixed share ratios {} exceeds 1"
