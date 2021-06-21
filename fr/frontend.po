@@ -11,17 +11,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.7-dev\n"
 
-#: packages/braiins-os/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
+#: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
 msgid "Page Not Found"
 msgstr "Page introuvable"
 
-#: packages/braiins-os/src/pages/E404.tsx:10 /checksum/Dk+8tl62KG
+#: packages/boser/src/pages/E404.tsx:10 /checksum/Dk+8tl62KG
 msgctxt "UI"
 msgid "We couldn't find the page or file you're looking for."
 msgstr ""
 
-#: packages/braiins-os/src/components/StatusPage/StatusPage.tsx:49
+#: packages/boser/src/components/StatusPage/StatusPage.tsx:49
 #: /checksum/3nCmoeStAW
 msgctxt "UI"
 msgid "Go to Homepage"
@@ -32,801 +32,675 @@ msgctxt "UI"
 msgid "An error has occurred while loading the page!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:609 /checksum/vlLD7ZTxZi
+#: packages/boser/src/pages/Root/Root.tsx:660 /checksum/vlLD7ZTxZi
 msgctxt "UI"
 msgid "Device is unreachable!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:720 /checksum/JJz6xGI8Qq
+#: packages/boser/src/pages/Root/Root.tsx:771 /checksum/JJz6xGI8Qq
 msgctxt "UI"
 msgid "Reboot error!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:720 /checksum/R5Ch7DlpAH
+#: packages/boser/src/pages/Root/Root.tsx:771 /checksum/R5Ch7DlpAH
 msgctxt "UI"
 msgid "Rebooting"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:755
-#: packages/braiins-os/src/pages/Root/Root.tsx:1424 /checksum/WI6YRVTA/7
+#: packages/boser/src/pages/Root/Root.tsx:806 /checksum/WI6YRVTA/7
 msgctxt "UI"
 msgid "Get help"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:760 /checksum/NQ9P0/+U9s
+#: packages/boser/src/pages/Root/Root.tsx:811 /checksum/NQ9P0/+U9s
 msgctxt "UI"
 msgid "Download"
 msgstr "Télécharger"
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:761
-#: packages/braiins-os/src/pages/Root/Root.tsx:991
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1726
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2638
+#: packages/boser/src/pages/Root/Root.tsx:812
+#: packages/boser/src/pages/Root/Root.tsx:1042
+#: packages/boser/src/pages/Settings/Settings.tsx:293
 #: shared/components/carbon/DataTable/DataTable.tsx:273 /checksum/1r/fx4e7T/
 msgctxt "UI"
 msgid "Cancel"
 msgstr "Annuler"
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:775 /checksum/WZnIDgUEc4
+#: packages/boser/src/pages/Root/Root.tsx:826 /checksum/WZnIDgUEc4
 msgctxt "UI"
 msgid "<a>Submit a Support ticket</a>{br}(or send email to {email})"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:926 /checksum/ISzLqSZMJH
+#: packages/boser/src/pages/Root/Root.tsx:977 /checksum/ISzLqSZMJH
 msgctxt "UI"
 msgid "Your session has expired. Please login again."
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:988 /checksum/mmKc43T7WX
+#: packages/boser/src/pages/Root/Root.tsx:1039 /checksum/mmKc43T7WX
 msgctxt "UI"
 msgid "Confirm"
 msgstr "Confirmer"
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1179
-#: packages/braiins-os/src/pages/Root/Root.tsx:1057 /checksum/y7+MJmFo6l
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1211
+#: packages/boser/src/pages/Root/Root.tsx:1108 /checksum/y7+MJmFo6l
 msgctxt "UI"
 msgid "Dashboard"
 msgstr "Tableau de bord"
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1058
-#: packages/braiins-os/src/pages/System/System.tsx:423
-#: packages/braiins-os/src/pages/System/System.tsx:840
-#: packages/braiins-os/src/pages/System/System.tsx:1067 /checksum/4rTQE18CBV
+#: packages/boser/src/pages/System/System.tsx:424
+#: packages/boser/src/pages/System/System.tsx:841
+#: packages/boser/src/pages/System/System.tsx:1068 /checksum/4rTQE18CBV
 msgctxt "UI"
 msgid "Settings"
 msgstr "Paramètres"
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1081 /checksum/bnu0gS+6om
+#: packages/boser/src/pages/Root/Root.tsx:1132 /checksum/bnu0gS+6om
 msgctxt "UI"
 msgid "Required value!"
 msgstr ""
 
-#: packages/braiins-os/src/components/standalone/Login/Login.tsx:83
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1225
-#: /checksum/UMApAywi/y
+#: packages/boser/src/components/standalone/Login/Login.tsx:83
+#: packages/boser/src/pages/Settings/Settings.tsx:1284 /checksum/UMApAywi/y
 msgctxt "UI"
 msgid "Username"
 msgstr "Nom d'utilisateur"
 
-#: packages/braiins-os/src/components/standalone/Login/Login.tsx:97
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1226
-#: /checksum/cM6eWbvdlw
+#: packages/boser/src/components/standalone/Login/Login.tsx:97
+#: packages/boser/src/pages/Settings/Settings.tsx:1285 /checksum/cM6eWbvdlw
 msgctxt "UI"
 msgid "Password"
 msgstr "Mot de passe"
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1332 /checksum/CYAkeY00Qq
+#: packages/boser/src/pages/Root/Root.tsx:1420 /checksum/CYAkeY00Qq
 msgctxt "UI"
 msgid "Open menu"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1348 /checksum//LSuT3WRuQ
+#: packages/boser/src/pages/Root/Root.tsx:1436 /checksum//LSuT3WRuQ
 msgctxt "UI"
 msgid "profile menu"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1365
-#: packages/braiins-os/src/pages/Root/Root.tsx:1373 /checksum/w21s46x9aH
+#: packages/boser/src/pages/Root/Root.tsx:1453
+#: packages/boser/src/pages/Root/Root.tsx:1461 /checksum/w21s46x9aH
 msgctxt "UI"
 msgid "Documentation"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1395 /checksum/m3cwix1oqh
-msgctxt "UI"
-msgid "Reboot device"
-msgstr ""
-
-#: packages/braiins-os/src/pages/Root/Root.tsx:1402 /checksum/nDhVn1oJvX
+#: packages/boser/src/pages/Root/Root.tsx:257 /checksum/nDhVn1oJvX
 msgctxt "UI"
 msgid "Start BOSminer"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1409 /checksum/7oLBsBE6BO
+#: packages/boser/src/pages/Root/Root.tsx:263 /checksum/7oLBsBE6BO
 msgctxt "UI"
 msgid "Stop BOSminer"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1416 /checksum/d+nFKBWX5d
+#: packages/boser/src/pages/Root/Root.tsx:251 /checksum/d+nFKBWX5d
 msgctxt "UI"
 msgid "Restart BOSminer"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1468 /checksum/uxqc6sfqLo
+#: packages/boser/src/pages/Root/Root.tsx:1522 /checksum/uxqc6sfqLo
 msgctxt "UI"
 msgid "Braiins | Bitcoin mining full stack company"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1473 /checksum/Gx++QgwM/G
+#: packages/boser/src/pages/Root/Root.tsx:1527 /checksum/Gx++QgwM/G
 msgctxt "UI"
 msgid "Bitcoin Mining Fullstack Company"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:919
-#: /checksum/URX7pTSzY1
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:924 /checksum/URX7pTSzY1
 msgctxt "UI"
 msgid "Get Braiins OS+"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:738
-#: /checksum/hjYnsGxl+R
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:726 /checksum/hjYnsGxl+R
 msgctxt "UI"
 msgid "Failed"
 msgstr "erroné"
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:663
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:750
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2646
-#: packages/braiins-os/src/pages/System/System.tsx:1057 /checksum/mNp+r9gd5E
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:651
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:738
+#: packages/boser/src/pages/Settings/Settings.tsx:2706
+#: packages/boser/src/pages/System/System.tsx:1058 /checksum/mNp+r9gd5E
 msgctxt "UI"
 msgid "Disabled"
 msgstr "Désactivé"
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:742
-#: /checksum/rGh6T8gPti
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:730 /checksum/rGh6T8gPti
 msgctxt "UI"
 msgid "Running"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:746
-#: /checksum/uXQCP5acYr
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:734 /checksum/uXQCP5acYr
 msgctxt "UI"
 msgid "Stable"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:360
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:929
-#: /checksum/Ua8wzWenph
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:348
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:934 /checksum/Ua8wzWenph
 msgctxt "UI"
 msgid "Real Hashrate"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:370
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:524
-#: /checksum/QbuuYC3zT6
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:358
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:512 /checksum/QbuuYC3zT6
 msgctxt "UI"
 msgid "Temperature"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:412
-#: /checksum/4iL8GttnT8
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:400 /checksum/4iL8GttnT8
 msgctxt "UI"
 msgid "Nominal Average Hashrate"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:422
-#: /checksum/C6PaEVEbQr
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:410 /checksum/C6PaEVEbQr
 msgctxt "UI"
 msgid "{id} Real Hashrate"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:466
-#: /checksum/SGPQi/vIm2
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:454 /checksum/SGPQi/vIm2
 msgctxt "UI"
 msgid "Target"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:467
-#: /checksum/1qs1sqvedY
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:455 /checksum/1qs1sqvedY
 msgctxt "UI"
 msgid "Hot"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:468
-#: /checksum/p3n1GlA2rf
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:456 /checksum/p3n1GlA2rf
 msgctxt "UI"
 msgid "Dangerous"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:522
-#: /checksum/laId6n5bj6
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:510 /checksum/laId6n5bj6
 msgctxt "UI"
 msgid "Overall Status"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:127
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:523
-#: /checksum/KwuybsWn+f
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:119
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:511 /checksum/KwuybsWn+f
 msgctxt "UI"
 msgid "Hashrate"
 msgstr "Taux de hachage"
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:541
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:764
-#: /checksum/LlgQaskXjK
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:529
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:752 /checksum/LlgQaskXjK
 msgctxt "UI"
 msgid "ID"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:546
-#: /checksum/TaaCpByfgf
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:534 /checksum/TaaCpByfgf
 msgctxt "UI"
 msgid "Real{br}Hashrate"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:551
-#: /checksum/llOSf/xWp9
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:539 /checksum/llOSf/xWp9
 msgctxt "UI"
 msgid "Nominal{br}Hashrate"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:556
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2148
-#: /checksum/1KObi88eX6
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:544
+#: packages/boser/src/pages/Settings/Settings.tsx:2207 /checksum/1KObi88eX6
 msgctxt "UI"
 msgid "Voltage"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:561
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2123
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2375
-#: /checksum/FHiQCAYQHe
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:549
+#: packages/boser/src/pages/Settings/Settings.tsx:2182
+#: packages/boser/src/pages/Settings/Settings.tsx:2434 /checksum/FHiQCAYQHe
 msgctxt "UI"
 msgid "Frequency"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:567
-#: /checksum/PHTCjFEOEY
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:555 /checksum/PHTCjFEOEY
 msgctxt "UI"
 msgid "ASIC#"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:572
-#: /checksum/3C9D/knoS5
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:560 /checksum/3C9D/knoS5
 msgctxt "UI"
 msgid "HW Error{br}Hashrate"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:631
-#: /checksum/9R2KZWEjHA
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:619 /checksum/9R2KZWEjHA
 msgctxt "UI"
 msgid "Hash Boards"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:655
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:880
-#: /checksum/vBvHfOvuYV
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:643
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:892 /checksum/vBvHfOvuYV
 msgctxt "UI"
 msgid "Alive"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:659
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:890
-#: /checksum/KD83wub/U7
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:647
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:902 /checksum/KD83wub/U7
 msgctxt "UI"
 msgid "Dead"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:671
-#: /checksum/9PQ5DfQLsj
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:659 /checksum/9PQ5DfQLsj
 msgctxt "UI"
 msgid "URL"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:676
-#: /checksum/yXV3Wqrjmt
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:664 /checksum/yXV3Wqrjmt
 msgctxt "UI"
 msgid "User"
 msgstr "Utilisateur"
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:677
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:797
-#: packages/braiins-os/src/pages/System/System.tsx:589
-#: packages/braiins-os/src/pages/System/System.tsx:1070 /checksum/ZmjnBnQzo4
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:665
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:785
+#: packages/boser/src/pages/System/System.tsx:590
+#: packages/boser/src/pages/System/System.tsx:1071 /checksum/ZmjnBnQzo4
 msgctxt "UI"
 msgid "Status"
 msgstr "État"
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:678
-#: /checksum/H4Ac6x57kf
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:666 /checksum/H4Ac6x57kf
 msgctxt "UI"
 msgid "Active"
 msgstr "Actif"
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:679
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1035
-#: /checksum/OBxGNwxRuK
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:667
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1053 /checksum/OBxGNwxRuK
 msgctxt "UI"
 msgid "Accepted"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:680
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1037
-#: /checksum/7IuH7NFCQ4
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:668
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1055 /checksum/7IuH7NFCQ4
 msgctxt "UI"
 msgid "Rejected"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:681
-#: /checksum/5uFjzlbzid
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:669 /checksum/5uFjzlbzid
 msgctxt "UI"
 msgid "Stale"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:682
-#: /checksum/i0AxsylYA9
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:670 /checksum/i0AxsylYA9
 msgctxt "UI"
 msgid "Last Difficulty"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:698
-#: /checksum/Y7ap4TcIHX
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:686 /checksum/Y7ap4TcIHX
 msgctxt "UI"
 msgid "Yes"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:698
-#: /checksum/ORONQigkHI
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:686 /checksum/ORONQigkHI
 msgctxt "UI"
 msgid "No"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:713
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1515
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2826
-#: /checksum/wYtUJroRcc
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:701
+#: packages/boser/src/pages/Settings/Settings.tsx:1574
+#: packages/boser/src/pages/Settings/Settings.tsx:3086 /checksum/wYtUJroRcc
 msgctxt "UI"
 msgid "Pools"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:769
-#: /checksum/sHlVTFJ2M9
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:757 /checksum/sHlVTFJ2M9
 msgctxt "UI"
 msgid "Iteration"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:831
-#: /checksum/PhsBNHnrXs
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:833 /checksum/PhsBNHnrXs
 msgctxt "UI"
 msgid "Tuner Status"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:948
-#: /checksum/UVHEPWzRYZ
-msgctxt "UI"
-msgid "Power Limit"
-msgstr ""
-
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:950
-#: /checksum/v6830rj8ta
-msgctxt "UI"
-msgid "Appr. Total Watts"
-msgstr ""
-
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:951
-#: /checksum/Umbv6C4HNl
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:962 /checksum/Umbv6C4HNl
 msgctxt "UI"
 msgid "Pool Status"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1000
-#: /checksum/I7OKe/xP5o
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1011 /checksum/I7OKe/xP5o
 msgctxt "UI"
 msgid "Fan Monitor"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1031
-#: /checksum/c5MOunW+1i
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1047 /checksum/c5MOunW+1i
 msgctxt "UI"
 msgid "Rejection Ratio"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1032
-#: /checksum/NtBIDAIMZH
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1050 /checksum/NtBIDAIMZH
 msgctxt "UI"
 msgid "Hashrate 1M"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1033
-#: /checksum/Tz/XXN5S3z
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1051 /checksum/Tz/XXN5S3z
 msgctxt "UI"
 msgid "Hashrate 15M"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1034
-#: /checksum/kLRqZWW/Uy
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1052 /checksum/kLRqZWW/Uy
 msgctxt "UI"
 msgid "Hashrate 24H"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1036
-#: /checksum/nQjJ5yBHPK
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1054 /checksum/nQjJ5yBHPK
 msgctxt "UI"
 msgid "Difficulty Accepted"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1038
-#: /checksum/GOap/fcQ2G
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1056 /checksum/GOap/fcQ2G
 msgctxt "UI"
 msgid "Difficulty Rejected"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1141
-#: /checksum/ObMNQOSIWm
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1161 /checksum/ObMNQOSIWm
 msgctxt "UI"
 msgid "Miner Overview"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:469
-#: /checksum/tHbM+CnkW7
+#: packages/boser/src/pages/Settings/Settings.tsx:516 /checksum/tHbM+CnkW7
 msgctxt "UI"
 msgid "Error fetching metadata!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:213
-#: packages/braiins-os/src/pages/Root/Root.tsx:917
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:480
-#: packages/braiins-os/src/pages/System/System.tsx:248 /checksum/gPVm1gpE9r
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:206
+#: packages/boser/src/pages/Root/Root.tsx:968
+#: packages/boser/src/pages/Settings/Settings.tsx:527
+#: packages/boser/src/pages/System/System.tsx:249 /checksum/gPVm1gpE9r
 msgctxt "UI"
 msgid "Invalid reponse received!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:484
-#: packages/braiins-os/src/pages/System/System.tsx:252 /checksum/+ozkGmJC0+
+#: packages/boser/src/pages/Settings/Settings.tsx:531
+#: packages/boser/src/pages/System/System.tsx:253 /checksum/+ozkGmJC0+
 msgctxt "UI"
 msgid "Changes saved"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:493
-#: packages/braiins-os/src/pages/System/System.tsx:323 /checksum/UB9Ih30unX
+#: packages/boser/src/pages/Settings/Settings.tsx:540
+#: packages/boser/src/pages/System/System.tsx:324 /checksum/UB9Ih30unX
 msgctxt "UI"
 msgid "Submiting changes…"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:500
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1379
-#: packages/braiins-os/src/pages/System/System.tsx:308 /checksum/159JcZalFp
+#: packages/boser/src/pages/Settings/Settings.tsx:548
+#: packages/boser/src/pages/Settings/Settings.tsx:1438
+#: packages/boser/src/pages/System/System.tsx:309 /checksum/159JcZalFp
 msgctxt "UI"
 msgid "Save"
 msgstr "Sauvegarder"
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:569
-#: /checksum/mlEFyf9178
+#: packages/boser/src/pages/Settings/Settings.tsx:628 /checksum/mlEFyf9178
 msgctxt "UI"
 msgid ""
 "No pool for saving found! Probably an invalid combination of group ID & Pool"
 " ID"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:672
-#: /checksum/WmfyW/UelX
+#: packages/boser/src/pages/Settings/Settings.tsx:731 /checksum/WmfyW/UelX
 msgctxt "UI"
 msgid "Pool \"{url}\" Added"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1040
-#: /checksum/F7rzHr4TBU
+#: packages/boser/src/pages/Settings/Settings.tsx:1099 /checksum/F7rzHr4TBU
 msgctxt "UI"
 msgid "Pool Moved"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1182
-#: /checksum/u1Ln9Oss+6
+#: packages/boser/src/pages/Settings/Settings.tsx:1241 /checksum/u1Ln9Oss+6
 msgctxt "UI"
 msgid "Duplicate names: {names}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1224
-#: /checksum/8VAHSSn7+5
+#: packages/boser/src/pages/Settings/Settings.tsx:1283 /checksum/8VAHSSn7+5
 msgctxt "UI"
 msgid "Pool URL"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1227
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1539
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2840
-#: packages/braiins-os/src/pages/System/System.tsx:1017 /checksum/S4S7JYdGGx
+#: packages/boser/src/pages/Settings/Settings.tsx:1286
+#: packages/boser/src/pages/Settings/Settings.tsx:1598
+#: packages/boser/src/pages/Settings/Settings.tsx:2915
+#: packages/boser/src/pages/Settings/Settings.tsx:2933
+#: packages/boser/src/pages/Settings/Settings.tsx:3102
+#: packages/boser/src/pages/Settings/Settings.tsx:3105
+#: packages/boser/src/pages/System/System.tsx:1018 /checksum/S4S7JYdGGx
 msgctxt "UI"
 msgid "Actions"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1304
-#: /checksum/Jyp8+YDWdi
+#: packages/boser/src/pages/Settings/Settings.tsx:1363 /checksum/Jyp8+YDWdi
 msgctxt "UI"
 msgid "Saving changes…"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1362
-#: /checksum/Mwh4OSe57n
+#: packages/boser/src/pages/Settings/Settings.tsx:1421 /checksum/Mwh4OSe57n
 msgctxt "UI"
 msgid "Cancel Pool Creation"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1395
-#: /checksum/T4EdQJ5Hik
+#: packages/boser/src/pages/Settings/Settings.tsx:1454 /checksum/T4EdQJ5Hik
 msgctxt "UI"
 msgid "Move Up"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1405
-#: /checksum/UyUe9sUfcX
+#: packages/boser/src/pages/Settings/Settings.tsx:1464 /checksum/UyUe9sUfcX
 msgctxt "UI"
 msgid "Move Down"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1416
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1670
-#: /checksum/mOQPUnzQyj
+#: packages/boser/src/pages/Settings/Settings.tsx:1475
+#: packages/boser/src/pages/Settings/Settings.tsx:1729 /checksum/mOQPUnzQyj
 msgctxt "UI"
 msgid "Remove"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1483
-#: /checksum/9DC3+6PJeA
+#: packages/boser/src/pages/Settings/Settings.tsx:1542 /checksum/9DC3+6PJeA
 msgctxt "UI"
 msgid "Quota: {value}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1488
-#: /checksum/kLS2qiLInM
+#: packages/boser/src/pages/Settings/Settings.tsx:1547 /checksum/kLS2qiLInM
 msgctxt "UI"
 msgid "Fixed Share Ratio: {value}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1503
-#: /checksum/FKc/oBeC4z
+#: packages/boser/src/pages/Settings/Settings.tsx:1562 /checksum/FKc/oBeC4z
 msgctxt "UI"
 msgid "Add New Pool"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1516
-#: /checksum/TKsdO1ZCTM
+#: packages/boser/src/pages/Settings/Settings.tsx:1575 /checksum/TKsdO1ZCTM
 msgctxt "UI"
 msgid "Pool Groups"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1536
-#: /checksum/6s3JTItf+9
+#: packages/boser/src/pages/Settings/Settings.tsx:1595 /checksum/6s3JTItf+9
 msgctxt "UI"
 msgid "Group Name"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1537
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2614
-#: /checksum/JBNGeL8E9f
+#: packages/boser/src/pages/Settings/Settings.tsx:1596
+#: packages/boser/src/pages/Settings/Settings.tsx:2674 /checksum/JBNGeL8E9f
 msgctxt "UI"
 msgid "Mode"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1538
-#: /checksum/MHJKan1fxa
+#: packages/boser/src/pages/Settings/Settings.tsx:1597 /checksum/MHJKan1fxa
 msgctxt "UI"
 msgid "Value"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1619
-#: /checksum/Gs7aU0IDK3
+#: packages/boser/src/pages/Settings/Settings.tsx:1678 /checksum/Gs7aU0IDK3
 msgctxt "UI"
 msgid "Quota"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1622
-#: /checksum/B5HHuJeRBo
+#: packages/boser/src/pages/Settings/Settings.tsx:1681 /checksum/B5HHuJeRBo
 msgctxt "UI"
 msgid "Fixed Share Ratio"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1657
-#: /checksum/rQWw/NnpNN
+#: packages/boser/src/pages/Settings/Settings.tsx:1716 /checksum/rQWw/NnpNN
 msgctxt "UI"
 msgid "Cancel Removal"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1725
-#: /checksum/xl692sCSZQ
+#: packages/boser/src/pages/Settings/Settings.tsx:1784 /checksum/xl692sCSZQ
 msgctxt "UI"
 msgid "Save Changes"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1739
-#: /checksum/LUTg1L5u9u
+#: packages/boser/src/pages/Settings/Settings.tsx:1798 /checksum/LUTg1L5u9u
 msgctxt "UI"
 msgid "No groups yet…"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1749
-#: /checksum/HJVKG30W0C
+#: packages/boser/src/pages/Settings/Settings.tsx:1808 /checksum/HJVKG30W0C
 msgctxt "UI"
 msgid "Add New Group"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1751
-#: /checksum/fDfAhk+6Iv
+#: packages/boser/src/pages/Settings/Settings.tsx:1810 /checksum/fDfAhk+6Iv
 msgctxt "UI"
 msgid "Saving…"
 msgstr "Enregistrement…"
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1754
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2180
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2606
-#: packages/braiins-os/src/pages/System/System.tsx:432
-#: packages/braiins-os/src/pages/System/System.tsx:832
-#: packages/braiins-os/src/pages/System/System.tsx:868
-#: packages/braiins-os/src/pages/System/System.tsx:1009
-#: packages/braiins-os/src/pages/System/System.tsx:1045 /checksum/dxZiJKP6dx
+#: packages/boser/src/pages/System/System.tsx:433
+#: packages/boser/src/pages/System/System.tsx:833
+#: packages/boser/src/pages/System/System.tsx:869
+#: packages/boser/src/pages/System/System.tsx:1010
+#: packages/boser/src/pages/System/System.tsx:1046 /checksum/dxZiJKP6dx
 msgctxt "UI"
 msgid "{title} Settings"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2039
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2831
-#: /checksum/XcM3y0zqT+
+#: packages/boser/src/pages/Settings/Settings.tsx:2098
+#: packages/boser/src/pages/Settings/Settings.tsx:3091 /checksum/XcM3y0zqT+
 msgctxt "UI"
 msgid "Performance"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2113
-#: /checksum/Bq4q2RDBzi
+#: packages/boser/src/pages/Settings/Settings.tsx:2172 /checksum/Bq4q2RDBzi
 msgctxt "UI"
 msgid "Enable Hashboard {name}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2197
-#: /checksum/Y+am5Yp1ex
+#: packages/boser/src/pages/Settings/Settings.tsx:2256 /checksum/Y+am5Yp1ex
 msgctxt "UI"
 msgid "Autotuning"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2209
-#: /checksum/A/68UrRtvm
+#: packages/boser/src/pages/Settings/Settings.tsx:2268 /checksum/A/68UrRtvm
 msgctxt "UI"
 msgid "Enable Autotuning"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2213
-#: /checksum/ELr3MkI4t4
+#: packages/boser/src/pages/Settings/Settings.tsx:2272 /checksum/ELr3MkI4t4
 msgctxt "UI"
 msgid "PSU Power Limit (for all hashboards)"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2246
-#: /checksum/q/JGTmnHz5
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:960
+#: packages/boser/src/pages/Settings/Settings.tsx:2305 /checksum/q/JGTmnHz5
 msgctxt "UI"
 msgid "Dynamic Power Scaling"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2255
-#: /checksum/dTWY1dWvpE
+#: packages/boser/src/pages/Settings/Settings.tsx:2314 /checksum/dTWY1dWvpE
 msgctxt "UI"
 msgid "Enable Dynamic Power Scaling"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2290
-#: /checksum/P0xdwgtFnA
+#: packages/boser/src/pages/Settings/Settings.tsx:2349 /checksum/P0xdwgtFnA
 msgctxt "UI"
 msgid "Minimal PSU Power Limit"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2334
-#: /checksum/YZ9WDwOtr+
+#: packages/boser/src/pages/Settings/Settings.tsx:2393 /checksum/YZ9WDwOtr+
 msgctxt "UI"
 msgid "Shutdown When Minimal PSU Power Limit is Reached"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2338
-#: /checksum/jLtrVoarMe
+#: packages/boser/src/pages/Settings/Settings.tsx:2397 /checksum/jLtrVoarMe
 msgctxt "UI"
 msgid "Shutdown Duration"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2364
-#: /checksum/BPYXmgKNbW
+#: packages/boser/src/pages/Settings/Settings.tsx:2423 /checksum/BPYXmgKNbW
 msgctxt "UI"
 msgid "Hours"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2371
-#: /checksum/9OVd+18ZJx
-msgctxt "UI"
-msgid "Global Hash Chain Settings"
-msgstr ""
-
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2432
-#: /checksum/dm9m0P2XzD
-msgctxt "UI"
-msgid "Override Global Hash Chain Settings"
-msgstr ""
-
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2600
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2836
-#: /checksum/GZH00sZURY
+#: packages/boser/src/pages/Settings/Settings.tsx:2660
+#: packages/boser/src/pages/Settings/Settings.tsx:3096 /checksum/GZH00sZURY
 msgctxt "UI"
 msgid "Temperature & Fans"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2610
-#: /checksum//hxmhkmfOO
+#: packages/boser/src/pages/Settings/Settings.tsx:2670 /checksum//hxmhkmfOO
 msgctxt "UI"
 msgid "Temperature Control"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2622
-#: /checksum/VZZ5iZyMWK
+#: packages/boser/src/pages/Settings/Settings.tsx:2682 /checksum/VZZ5iZyMWK
 msgctxt "UI"
 msgid "Temperature Control Mode"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2637
-#: /checksum/YBpDY4Q3Mo
+#: packages/boser/src/pages/Settings/Settings.tsx:2697 /checksum/YBpDY4Q3Mo
 msgctxt "UI"
 msgid "Understood"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2644
-#: packages/braiins-os/src/pages/System/System.tsx:450 /checksum/AfRegejHzO
+#: packages/boser/src/pages/Settings/Settings.tsx:2704
+#: packages/boser/src/pages/System/System.tsx:451 /checksum/AfRegejHzO
 msgctxt "UI"
 msgid "Auto"
 msgstr "Auto"
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2645
-#: /checksum/nwcMk+oisr
+#: packages/boser/src/pages/Settings/Settings.tsx:2705 /checksum/nwcMk+oisr
 msgctxt "UI"
 msgid "Manual"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2658
-#: /checksum/ngUotbg/9o
+#: packages/boser/src/pages/Settings/Settings.tsx:2718 /checksum/ngUotbg/9o
 msgctxt "UI"
 msgid "Target Temperature"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2689
-#: /checksum/rO78UQpn89
+#: packages/boser/src/pages/Settings/Settings.tsx:2749 /checksum/rO78UQpn89
 msgctxt "UI"
 msgid "Hot Temperature"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2720
-#: /checksum/i3CO+1NiqB
+#: packages/boser/src/pages/Settings/Settings.tsx:2780 /checksum/i3CO+1NiqB
 msgctxt "UI"
 msgid "Dangerous Temperature"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2751
-#: /checksum/bvxtZg/iYt
+#: packages/boser/src/pages/Settings/Settings.tsx:2811 /checksum/bvxtZg/iYt
 msgctxt "UI"
 msgid "Fan Control"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2755
-#: /checksum/spvsqjswya
+#: packages/boser/src/pages/Settings/Settings.tsx:2815 /checksum/spvsqjswya
 msgctxt "UI"
 msgid "Speed"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2789
-#: /checksum/i63CruQTgB
+#: packages/boser/src/pages/Settings/Settings.tsx:2849 /checksum/i63CruQTgB
 msgctxt "UI"
 msgid "Number of fans required for system to run."
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2793
-#: /checksum/vucOFpS+4o
+#: packages/boser/src/pages/Settings/Settings.tsx:2853 /checksum/vucOFpS+4o
 msgctxt "UI"
 msgid "Use <strong>0 for immersion cooling</strong>."
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2862
-#: /checksum/VG/L/KobzN
+#: packages/boser/src/pages/Settings/Settings.tsx:3125 /checksum/VG/L/KobzN
 msgctxt "UI"
 msgid ""
 "Braiins OS+ Manager connection is active, local settings have been disabled."
@@ -894,7 +768,7 @@ msgctxt "UI"
 msgid "Next"
 msgstr ""
 
-#: shared/components/carbon/Select/Select.tsx:18 /checksum/kgY4Q7Zflg
+#: shared/components/carbon/Select/Select.tsx:19 /checksum/kgY4Q7Zflg
 msgctxt "UI"
 msgid "Choose an option"
 msgstr ""
@@ -982,7 +856,7 @@ msgctxt "UI"
 msgid "{a} and {b}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:458
+#: packages/boser/src/pages/System/System.tsx:459
 #: shared/components/app/LinksBar/LinksBar.tsx:39 /checksum/4arFVhx+6a
 msgctxt "UI"
 msgid "Language"
@@ -1006,193 +880,182 @@ msgctxt "UI"
 msgid "No data…"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:135
-#: /checksum/bfoSyK7BVZ
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:127 /checksum/bfoSyK7BVZ
 msgctxt "UI"
 msgid "Temperature [°C]"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:172
-#: /checksum/2xRmtV0C3E
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:164 /checksum/2xRmtV0C3E
 msgctxt "UI"
 msgid "Speed [%]"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:634
-#: /checksum/3QbPh156Lp
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:622 /checksum/3QbPh156Lp
 msgctxt "UI"
 msgid "Configure Hash Boards"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:714
-#: /checksum/W53swCvJSV
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:702 /checksum/W53swCvJSV
 msgctxt "UI"
 msgid "Edit Pools"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:832
-#: /checksum/zQwnxNWdSp
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:834 /checksum/zQwnxNWdSp
 msgctxt "UI"
 msgid "Edit Performance"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1152
-#: /checksum/CIdbaoSmIz
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1184 /checksum/CIdbaoSmIz
 msgctxt "UI"
 msgid "Default View"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1157
-#: /checksum/78lSyW3pq2
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1189 /checksum/78lSyW3pq2
 msgctxt "UI"
 msgid "Compact View"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:317 /checksum/5Tt8uiv/Xa
-msgctxt "UI"
-msgid "Failed to load settings"
-msgstr ""
-
-#: packages/braiins-os/src/pages/Root/Root.tsx:1059 /checksum/hKtPf5G2Fk
+#: packages/boser/src/pages/Root/Root.tsx:1110 /checksum/hKtPf5G2Fk
 msgctxt "UI"
 msgid "System"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1388 /checksum/9oc2ve6vcL
+#: packages/boser/src/pages/Root/Root.tsx:1477 /checksum/9oc2ve6vcL
 msgctxt "UI"
 msgid "Quick Actions"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:424 /checksum/muaF9Al0Cz
+#: packages/boser/src/pages/System/System.tsx:425 /checksum/muaF9Al0Cz
 msgctxt "UI"
 msgid "Personal"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:425 /checksum/ELNEVEcuq5
+#: packages/boser/src/pages/System/System.tsx:426 /checksum/ELNEVEcuq5
 msgctxt "UI"
 msgid "Change Password"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:439 /checksum/M+TAJXHcvY
+#: packages/boser/src/pages/System/System.tsx:440 /checksum/M+TAJXHcvY
 msgctxt "UI"
 msgid "Color Theme"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:451 /checksum/6kaaCthlHI
+#: packages/boser/src/pages/System/System.tsx:452 /checksum/6kaaCthlHI
 msgctxt "UI"
 msgid "Dark"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:452 /checksum/SI8R9Qz3Qy
+#: packages/boser/src/pages/System/System.tsx:453 /checksum/SI8R9Qz3Qy
 msgctxt "UI"
 msgid "Light"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:508
-#: packages/braiins-os/src/pages/System/System.tsx:512 /checksum/cJ2lbra2o4
+#: packages/boser/src/pages/System/System.tsx:509
+#: packages/boser/src/pages/System/System.tsx:513 /checksum/cJ2lbra2o4
 msgctxt "UI"
 msgid "Current Password"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:528
-#: packages/braiins-os/src/pages/System/System.tsx:532 /checksum/bgQK+TLYyY
+#: packages/boser/src/pages/System/System.tsx:529
+#: packages/boser/src/pages/System/System.tsx:533 /checksum/bgQK+TLYyY
 msgctxt "UI"
 msgid "New Password"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:548
-#: packages/braiins-os/src/pages/System/System.tsx:552 /checksum/Ew/98dkban
+#: packages/boser/src/pages/System/System.tsx:549
+#: packages/boser/src/pages/System/System.tsx:553 /checksum/Ew/98dkban
 msgctxt "UI"
 msgid "Repeat New Password"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:609 /checksum/0qw8bLcUo+
+#: packages/boser/src/pages/System/System.tsx:610 /checksum/0qw8bLcUo+
 msgctxt "UI"
 msgid "Hostname"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:616 /checksum/pPtQGDxScb
+#: packages/boser/src/pages/System/System.tsx:617 /checksum/pPtQGDxScb
 msgctxt "UI"
 msgid "Protocol"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:632 /checksum/Uy+QtbFTN6
+#: packages/boser/src/pages/System/System.tsx:633 /checksum/Uy+QtbFTN6
 msgctxt "UI"
 msgid "IP Address"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:651 /checksum/RGEEiZn9SO
+#: packages/boser/src/pages/System/System.tsx:652 /checksum/RGEEiZn9SO
 msgctxt "UI"
 msgid "Netmask"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:670 /checksum/GrDFKuRJr6
+#: packages/boser/src/pages/System/System.tsx:671 /checksum/GrDFKuRJr6
 msgctxt "UI"
 msgid "Gateway"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:689 /checksum/lzLp4ElqUa
+#: packages/boser/src/pages/System/System.tsx:690 /checksum/lzLp4ElqUa
 msgctxt "UI"
 msgid "DNS Servers"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:690 /checksum/BT48x/PSfG
+#: packages/boser/src/pages/System/System.tsx:691 /checksum/BT48x/PSfG
 msgctxt "UI"
 msgid "Comma separated values"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:772 /checksum/Bz8BKhUk6c
+#: packages/boser/src/pages/System/System.tsx:773 /checksum/Bz8BKhUk6c
 msgctxt "UI"
 msgid "Ping"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:774 /checksum/QHymHw4Qn9
+#: packages/boser/src/pages/System/System.tsx:775 /checksum/QHymHw4Qn9
 msgctxt "UI"
 msgid "Pinging {target}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:789
-#: packages/braiins-os/src/pages/System/System.tsx:806 /checksum/7P11akNbrc
+#: packages/boser/src/pages/System/System.tsx:790
+#: packages/boser/src/pages/System/System.tsx:807 /checksum/7P11akNbrc
 msgctxt "UI"
 msgid "Traceroute"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:791 /checksum/DfdsDQ6xaQ
+#: packages/boser/src/pages/System/System.tsx:792 /checksum/DfdsDQ6xaQ
 msgctxt "UI"
 msgid "Tracerouting {target}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:808 /checksum/0yqNduEU3L
+#: packages/boser/src/pages/System/System.tsx:809 /checksum/0yqNduEU3L
 msgctxt "UI"
 msgid "Looking up {target}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:826
-#: packages/braiins-os/src/pages/System/System.tsx:1072
-#: packages/braiins-os/src/pages/System/System.tsx:1073 /checksum/TFOwsqD2M5
+#: packages/boser/src/pages/System/System.tsx:827
+#: packages/boser/src/pages/System/System.tsx:1073
+#: packages/boser/src/pages/System/System.tsx:1074 /checksum/TFOwsqD2M5
 msgctxt "UI"
 msgid "Network"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:845 /checksum/SLv7iooY3y
+#: packages/boser/src/pages/System/System.tsx:846 /checksum/SLv7iooY3y
 msgctxt "UI"
 msgid "Diagnostics"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:862
-#: packages/braiins-os/src/pages/System/System.tsx:1003
-#: packages/braiins-os/src/pages/System/System.tsx:1075
-#: packages/braiins-os/src/pages/System/System.tsx:1076 /checksum/jeX/hNle4b
+#: packages/boser/src/pages/Settings/Settings.tsx:3035
+#: packages/boser/src/pages/System/System.tsx:863
+#: packages/boser/src/pages/System/System.tsx:1004
+#: packages/boser/src/pages/System/System.tsx:1076
+#: packages/boser/src/pages/System/System.tsx:1077 /checksum/jeX/hNle4b
 msgctxt "UI"
 msgid "Log"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:887 /checksum/ywHyF9SM71
+#: packages/boser/src/pages/System/System.tsx:888 /checksum/ywHyF9SM71
 msgctxt "UI"
 msgid "Flash New Firmware Image"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:890 /checksum/Sc0f4hE3RH
+#: packages/boser/src/pages/System/System.tsx:891 /checksum/Sc0f4hE3RH
 msgctxt "UI"
 msgid ""
 "Upload a sysupgrade-compatible image here to replace the running "
@@ -1200,39 +1063,39 @@ msgid ""
 "(requires a compatible firmware image)."
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:902 /checksum/HhJPMWHFsh
+#: packages/boser/src/pages/System/System.tsx:903 /checksum/HhJPMWHFsh
 msgctxt "UI"
 msgid "Keep Settings"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:907
-#: packages/braiins-os/src/pages/System/System.tsx:966 /checksum/Mdv907pyN1
+#: packages/boser/src/pages/System/System.tsx:908
+#: packages/boser/src/pages/System/System.tsx:967 /checksum/Mdv907pyN1
 msgctxt "UI"
 msgid "Choose File"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:912
-#: packages/braiins-os/src/pages/System/System.tsx:971 /checksum/AToGojMl6i
+#: packages/boser/src/pages/System/System.tsx:913
+#: packages/boser/src/pages/System/System.tsx:972 /checksum/AToGojMl6i
 msgctxt "UI"
 msgid "Clear file"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:926 /checksum/A6nxkpy6YZ
+#: packages/boser/src/pages/System/System.tsx:927 /checksum/A6nxkpy6YZ
 msgctxt "UI"
 msgid "Flash Image"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:930 /checksum/M57hBgk9Tz
+#: packages/boser/src/pages/System/System.tsx:931 /checksum/M57hBgk9Tz
 msgctxt "UI"
 msgid "Backup / Restore"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:931 /checksum/S33FPpY0Aa
+#: packages/boser/src/pages/System/System.tsx:932 /checksum/S33FPpY0Aa
 msgctxt "UI"
 msgid "Download Backup:"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:934 /checksum/Rb5vVz3Bz5
+#: packages/boser/src/pages/System/System.tsx:935 /checksum/Rb5vVz3Bz5
 msgctxt "UI"
 msgid ""
 "Click \"<strong>Generate archive</strong>\" to download a tar archive of the"
@@ -1240,56 +1103,57 @@ msgid ""
 " click \"Perform reset\" (only possible with squashfs images)."
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:948 /checksum/1QT3w2yBnS
+#: packages/boser/src/pages/System/System.tsx:949 /checksum/1QT3w2yBnS
 msgctxt "UI"
 msgid "Generate Archive"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:955 /checksum/2gSwpDnLtM
+#: packages/boser/src/pages/System/System.tsx:956 /checksum/2gSwpDnLtM
 msgctxt "UI"
 msgid "Restore Backup:"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:982 /checksum/G5kf0LdF6C
+#: packages/boser/src/pages/System/System.tsx:983 /checksum/G5kf0LdF6C
 msgctxt "UI"
 msgid "Upload Archive"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:987 /checksum/loTWykynay
+#: packages/boser/src/pages/System/System.tsx:988 /checksum/loTWykynay
 msgctxt "UI"
 msgid "Reset to Factory Settings"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:993 /checksum/VJ2+lVgrYE
+#: packages/boser/src/pages/System/System.tsx:994 /checksum/VJ2+lVgrYE
 msgctxt "UI"
 msgid "Reset Settings"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:1022 /checksum/5BBIF6XGaw
+#: packages/boser/src/pages/Root/Root.tsx:1109
+#: packages/boser/src/pages/System/System.tsx:1023 /checksum/5BBIF6XGaw
 msgctxt "UI"
 msgid "Configuration"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:1039
-#: packages/braiins-os/src/pages/System/System.tsx:1055
-#: packages/braiins-os/src/pages/System/System.tsx:1081
-#: packages/braiins-os/src/pages/System/System.tsx:1082 /checksum/Wn3AZwruJJ
+#: packages/boser/src/pages/System/System.tsx:1040
+#: packages/boser/src/pages/System/System.tsx:1056
+#: packages/boser/src/pages/System/System.tsx:1082
+#: packages/boser/src/pages/System/System.tsx:1083 /checksum/Wn3AZwruJJ
 msgctxt "UI"
 msgid "Auto Upgrade"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:1056 /checksum/8lnFStJQyT
+#: packages/boser/src/pages/System/System.tsx:1057 /checksum/8lnFStJQyT
 msgctxt "UI"
 msgid "Enabled"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:1078
-#: packages/braiins-os/src/pages/System/System.tsx:1079 /checksum/lEXXuDtuML
+#: packages/boser/src/pages/System/System.tsx:1079
+#: packages/boser/src/pages/System/System.tsx:1080 /checksum/lEXXuDtuML
 msgctxt "UI"
 msgid "Firmware Backup / Flash"
 msgstr ""
 
-#: packages/braiins-os/src/components/standalone/Login/Login.tsx:64
+#: packages/boser/src/components/standalone/Login/Login.tsx:64
 #: /checksum/GQtehkPHy9
 msgctxt "UI"
 msgid "Log In"
@@ -1300,19 +1164,17 @@ msgctxt "UI"
 msgid "Unknown Error"
 msgstr ""
 
-#: packages/braiins-os/src/components/standalone/Dialog.tsx:88
-#: /checksum/ZYbsui/w4d
+#: packages/boser/src/components/standalone/Dialog.tsx:88 /checksum/ZYbsui/w4d
 msgctxt "UI"
 msgid "Error"
 msgstr ""
 
-#: packages/braiins-os/src/components/standalone/Dialog.tsx:97
-#: /checksum/Sok43UbB+E
+#: packages/boser/src/components/standalone/Dialog.tsx:97 /checksum/Sok43UbB+E
 msgctxt "UI"
 msgid "Warning"
 msgstr ""
 
-#: packages/braiins-os/src/components/standalone/Dialog.tsx:189
+#: packages/boser/src/components/standalone/Dialog.tsx:189
 #: /checksum/WnkE2ijB8T
 msgctxt "UI"
 msgid "loading…"
@@ -1544,49 +1406,48 @@ msgctxt "UI"
 msgid "An error has occured!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:247 /checksum/ird7S5HS0d
+#: packages/boser/src/pages/Root/Root.tsx:284 /checksum/ird7S5HS0d
 msgctxt "UI"
 msgid "Unknown graphql client error!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:395 /checksum/+jEJ3/473m
+#: packages/boser/src/pages/Root/Root.tsx:446 /checksum/+jEJ3/473m
 msgctxt "UI"
 msgid "Invalid response for backend notifications!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:467 /checksum/2TXh5qbs+d
+#: packages/boser/src/pages/Root/Root.tsx:518 /checksum/2TXh5qbs+d
 msgctxt "UI"
 msgid "Unknown event type \"{type}\" received!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:524 /checksum/mIwH74g5Z5
+#: packages/boser/src/pages/Root/Root.tsx:575 /checksum/mIwH74g5Z5
 msgctxt "UI"
 msgid "An error has occured while trying to remove an appeal!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1089
-#: packages/braiins-os/src/pages/Root/Root.tsx:529
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:632
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:791
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:912
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1011
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1158
-#: /checksum/R1Kb/maWX2
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1107
+#: packages/boser/src/pages/Root/Root.tsx:580
+#: packages/boser/src/pages/Settings/Settings.tsx:691
+#: packages/boser/src/pages/Settings/Settings.tsx:850
+#: packages/boser/src/pages/Settings/Settings.tsx:971
+#: packages/boser/src/pages/Settings/Settings.tsx:1070
+#: packages/boser/src/pages/Settings/Settings.tsx:1217 /checksum/R1Kb/maWX2
 msgctxt "UI"
 msgid "Invalid response in group edit!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:579 /checksum/aVMj99GIsQ
+#: packages/boser/src/pages/Root/Root.tsx:630 /checksum/aVMj99GIsQ
 msgctxt "UI"
 msgid "Dismiss"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:728 /checksum/JJdByNqVut
+#: packages/boser/src/pages/Root/Root.tsx:779 /checksum/JJdByNqVut
 msgctxt "UI"
 msgid "Please wait until the device is responsive…"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:764 /checksum/eaWq/AdlV1
+#: packages/boser/src/pages/Root/Root.tsx:815 /checksum/eaWq/AdlV1
 msgctxt "UI"
 msgid ""
 "<p>When you click the \"Download\" button, the system will automatically "
@@ -1596,136 +1457,118 @@ msgid ""
 "Generating the archive can take up to 1 minute.</p>"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Root/Root.tsx:1220 /checksum/fdoMfuvsV1
+#: packages/boser/src/pages/Root/Root.tsx:1271 /checksum/fdoMfuvsV1
 msgctxt "UI"
 msgid "Log In to {name}"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:381 /checksum/pt1HUAbjIh
+#: packages/boser/src/pages/System/System.tsx:382 /checksum/pt1HUAbjIh
 msgctxt "UI"
 msgid "Invalid response in Settings edit!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:957 /checksum/S+z99kLx2W
+#: packages/boser/src/pages/System/System.tsx:958 /checksum/S+z99kLx2W
 msgctxt "UI"
 msgid ""
 "To restore configuration data, you can upload a previously generated backup "
 "archive here."
 msgstr ""
 
-#: packages/braiins-os/src/pages/System/System.tsx:1048 /checksum/cVgyVd57Z3
+#: packages/boser/src/pages/System/System.tsx:1049 /checksum/cVgyVd57Z3
 msgctxt "UI"
 msgid "Configure the firmware to automatically install new releases."
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:306
-#: /checksum/sdwg+lAKHO
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:256 /checksum/sdwg+lAKHO
 msgctxt "UI"
 msgid "Invalid response when fetching dashboard data!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:599
-#: /checksum/T4/thqVuN7
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:587 /checksum/T4/thqVuN7
 msgctxt "UI"
 msgid "{name}{br}Temp"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:683
-#: /checksum/0J1HWo4YHG
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:671 /checksum/0J1HWo4YHG
 msgctxt "UI"
 msgid "Best Share"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:684
-#: /checksum/E8RyuE/A5/
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:672 /checksum/E8RyuE/A5/
 msgctxt "UI"
 msgid "Generated Work"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:776
-#: /checksum/3l+vDNMp69
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:764 /checksum/3l+vDNMp69
 msgctxt "UI"
 msgid "Tuner Uptime"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:783
-#: /checksum/mQ9wXOHu8X
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:771 /checksum/mQ9wXOHu8X
 msgctxt "UI"
 msgid "Stage Duration"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:790
-#: /checksum/yv/NeukNhq
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:778 /checksum/yv/NeukNhq
 msgctxt "UI"
 msgid "Approx. Watts"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:934
-#: /checksum//FopwGg0OA
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:939 /checksum//FopwGg0OA
 msgctxt "UI"
 msgid "Temperature ({name})"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Dashboard/Dashboard.tsx:1039
-#: /checksum/leedAJqvmO
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1057 /checksum/leedAJqvmO
 msgctxt "UI"
 msgid "Blocks Found"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:651
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:810
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:931
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1030
-#: /checksum/g4oPLTX83N
+#: packages/boser/src/pages/Settings/Settings.tsx:710
+#: packages/boser/src/pages/Settings/Settings.tsx:869
+#: packages/boser/src/pages/Settings/Settings.tsx:990
+#: packages/boser/src/pages/Settings/Settings.tsx:1089 /checksum/g4oPLTX83N
 msgctxt "UI"
 msgid "Invalid response in pool edit!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1447
-#: /checksum/XlxXADgLGP
+#: packages/boser/src/pages/Settings/Settings.tsx:1506 /checksum/XlxXADgLGP
 msgctxt "UI"
 msgid "No pools added…"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1713
-#: /checksum/jgOrR4m09l
+#: packages/boser/src/pages/Settings/Settings.tsx:1772 /checksum/jgOrR4m09l
 msgctxt "UI"
 msgid "No groups added…"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1877
-#: /checksum/351O3LPD4u
+#: packages/boser/src/pages/Settings/Settings.tsx:1936 /checksum/351O3LPD4u
 msgctxt "UI"
 msgid "Invalid response in Autotuning edit!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:1987
-#: /checksum/o/SeOwasWY
+#: packages/boser/src/pages/Settings/Settings.tsx:2046 /checksum/o/SeOwasWY
 msgctxt "UI"
 msgid "Invalid response in Performance edit!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2184
-#: /checksum/lD7zLSEe4L
+#: packages/boser/src/pages/Settings/Settings.tsx:2243 /checksum/lD7zLSEe4L
 msgctxt "UI"
 msgid ""
 "WARNING: Overclocking may damage your device. Proceed at your own risk!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2259
-#: /checksum/Bp1EDUv231
+#: packages/boser/src/pages/Settings/Settings.tsx:2318 /checksum/Bp1EDUv231
 msgctxt "UI"
 msgid "Decrease Power Limit Value."
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2521
-#: /checksum/vhOsuabIDW
+#: packages/boser/src/pages/Settings/Settings.tsx:2581 /checksum/vhOsuabIDW
 msgctxt "UI"
 msgid "Invalid response in Temperature & Fans edit!"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2625
-#: /checksum/EfjRW8GK8/
+#: packages/boser/src/pages/Settings/Settings.tsx:2685 /checksum/EfjRW8GK8/
 msgctxt "UI"
 msgid ""
 "<p><strong>WARNING:</strong> Changing the default settings may cause "
@@ -1733,14 +1576,12 @@ msgid ""
 "hardware damage.</p><p>Proceed at your own risk!</p>"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2786
-#: /checksum/FlruVXSrFe
+#: packages/boser/src/pages/Settings/Settings.tsx:2846 /checksum/FlruVXSrFe
 msgctxt "UI"
 msgid "Minimum Required Fans"
 msgstr ""
 
-#: packages/braiins-os/src/pages/Settings/Settings.tsx:2797
-#: /checksum/ngeXDYdtHm
+#: packages/boser/src/pages/Settings/Settings.tsx:2857 /checksum/ngeXDYdtHm
 msgctxt "UI"
 msgid "Fan count unknown!"
 msgstr ""
@@ -1776,25 +1617,143 @@ msgctxt "UI"
 msgid "Please confirm the request by following the link included."
 msgstr ""
 
+#: packages/boser/src/pages/Root/Root.tsx:239 /checksum/ZOzeAFtNIC
+msgctxt "UI"
+msgid "Get Help"
+msgstr ""
+
+#: packages/boser/src/pages/Root/Root.tsx:244 /checksum/uOkTarWq47
+msgctxt "UI"
+msgid "Reboot Device"
+msgstr ""
+
+#: packages/boser/src/pages/Root/Root.tsx:361 /checksum/GNZtBPJoin
+msgctxt "UI"
+msgid "Failed to load configuration"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:799 /checksum/4eVU0IUDGA
+msgctxt "UI"
+msgid "Loaded profile created on {time}"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:955 /checksum/PqRbo3tVMu
+msgctxt "UI"
+msgid "Effectivity"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:957 /checksum/RpDVLcp3JU
+msgctxt "UI"
+msgid "Power Usage"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1166 /checksum/3LVkdixLAe
+msgctxt "UI"
+msgid "Hostname: {hostName}"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:290 /checksum/nyDx464PLD
+msgctxt "UI"
+msgid "Add New Command"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:291 /checksum/PEupVYQPwf
+msgctxt "UI"
+msgid "Edit Command"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:555 /checksum/2tNXD4xU1Q
+msgctxt "UI"
+msgid "Save & Apply"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:559 /checksum/4E7MDP3+sf
+msgctxt "UI"
+msgid "Save changes & restart miner if needed."
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:1813
+#: packages/boser/src/pages/Settings/Settings.tsx:2239
+#: packages/boser/src/pages/Settings/Settings.tsx:2666
+#: packages/boser/src/pages/Settings/Settings.tsx:2996 /checksum/DMC0PZGHsG
+msgctxt "UI"
+msgid "{title} Configuration"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:2430 /checksum/E/0wMau5XV
+msgctxt "UI"
+msgid "Global Hash Chain Configuration"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:2491 /checksum/OZTDqs4W+A
+msgctxt "UI"
+msgid "Override Global Hash Chain Configuration"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:2921
+#: packages/boser/src/pages/Settings/Settings.tsx:3065 /checksum/8M5qzEvpp2
+msgctxt "UI"
+msgid "Name"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:2927
+#: packages/boser/src/pages/Settings/Settings.tsx:3073 /checksum/AOQi/+Qf1+
+msgctxt "UI"
+msgid "Command"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:2959 /checksum/+O5wkA9hxB
+msgctxt "UI"
+msgid "Run Action"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:2968 /checksum/wD9CCsmFus
+msgctxt "UI"
+msgid "Edit Action"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:2977 /checksum/ap8ezx0r3e
+msgctxt "UI"
+msgid "Delete Action"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:2999 /checksum/jwQnvkjBbe
+msgctxt "UI"
+msgid "System Commands"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3024 /checksum/9BogjkZwqY
+msgctxt "UI"
+msgid "Custom Commands"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3039 /checksum/RJqp5ULylT
+msgctxt "UI"
+msgid "No log messages yet…"
+msgstr ""
+
 #~ msgctxt "UI"
-#~ msgid "Please wait until it becomes responsive…"
+#~ msgid "Reboot device"
 #~ msgstr ""
 
 #~ msgctxt "UI"
-#~ msgid ""
-#~ "<p>When you click the \"Download\" button, the system will automatically "
-#~ "gather all the system logs and package them into one <strong>.zip "
-#~ "file</strong> so that you can send the whole package easily to our support "
-#~ "team.</p><p>These logs will help our team to faster investigate your issues."
-#~ " Generating the archive can take up to 1 minute.</p>"
+#~ msgid "Power Limit"
 #~ msgstr ""
 
 #~ msgctxt "UI"
-#~ msgid "Confirmation message needs at least a message"
+#~ msgid "Appr. Total Watts"
 #~ msgstr ""
 
 #~ msgctxt "UI"
-#~ msgid "Log in To {name}"
+#~ msgid "Global Hash Chain Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Override Global Hash Chain Settings"
+#~ msgstr ""
+
+#~ msgctxt "UI"
+#~ msgid "Failed to load settings"
 #~ msgstr ""
 
 #~ msgctxt "UI"
@@ -1802,115 +1761,8 @@ msgstr ""
 #~ msgstr "Se connecter"
 
 #~ msgctxt "UI"
-#~ msgid "An error has happened!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "unknown"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Board {id}"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Chip {id}"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Fan {id}"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Board{br}Temp"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Chip{br}Temp"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Rejecting"
-#~ msgstr ""
-
-#~ msgctxt "UI"
 #~ msgid "Unknown"
 #~ msgstr "Inconnu"
-
-#~ msgctxt "UI"
-#~ msgid "Tuner{br}Uptime"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Stage{br}Duration"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Approx.{br}Watts"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Loaded profile created on {time}"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Chip Temperature"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Found Blocks"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Missing \"__typename\" in group edit!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Missing \"__typename\" in pool edit!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "No pools added yet…"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "No groups added yet…"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Missing \"__typename\" in Autotuning edit!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Missing \"__typename\" in Performance edit!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Overclocking may damage your device. Proceed at your own risk!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Power to Decrease by in One Step"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Missing \"__typename\" in Temperature & Fans edit!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid ""
-#~ "<p><strong>Caution:</strong> Changing the default settings may cause "
-#~ "overheating problems which can result in shutdown of the system or even "
-#~ "irreversible hardware damage.</p><p>Proceed at your own risk!</p>"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Minimum Running Fans"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Fans count unknown!"
-#~ msgstr ""
 
 #~ msgctxt "UI"
 #~ msgid "Please contact our technical support."
@@ -1922,37 +1774,5 @@ msgstr ""
 #~ "Nous avons été informés du problème et nous travaillons sur le correctif."
 
 #~ msgctxt "UI"
-#~ msgid "Please reload the page to get the latest version of our service."
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Enter one-time password<br/>generated by your OTP app"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "{count, plural, =1 {# worker} other {# workers}} selected"
-#~ msgstr ""
-
-#~ msgctxt "UI"
 #~ msgid "Please confirm the request by following the included link."
 #~ msgstr "Veuillez confirmer votre demande en suivant le lien inclus."
-
-#~ msgctxt "UI"
-#~ msgid "Missing \"__typename\" in Settings!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Missing \"__typename\" in Settings edit!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid ""
-#~ "To restore configuration files, you can upload a previously generated backup"
-#~ " archive here."
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid ""
-#~ "Configure the firmware to monitor our feeds server for new releases and "
-#~ "automatically install them."
-#~ msgstr ""
