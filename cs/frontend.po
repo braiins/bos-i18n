@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-05-29 12:05+0000\n"
+"PO-Revision-Date: 2021-06-24 08:15+0000\n"
 "Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/slushpool/braiins-os-frontend/cs/>\n"
 "Language: cs\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.7.1-dev\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -791,22 +791,22 @@ msgstr "Teď"
 #: shared/components/format/Timesince/Timesince.tsx:19 /checksum/nuTJ8lQ6oY
 msgctxt "UI"
 msgid "{num} {num, plural, =1 {year} other {years} }"
-msgstr ""
+msgstr "{num} {num, plural, =1 {rok} other {let} }"
 
 #: shared/components/format/Timesince/Timesince.tsx:20 /checksum/IO+MN6nDT9
 msgctxt "UI"
 msgid "{num} {num, plural, =1 {month} other {months} }"
-msgstr ""
+msgstr "{num} {num, plural, =1 {měsíc} other {měsíců} }"
 
 #: shared/components/format/Timesince/Timesince.tsx:21 /checksum/UgMH39E77d
 msgctxt "UI"
 msgid "{num} {num, plural, =1 {week} other {weeks} }"
-msgstr ""
+msgstr "{num} {num, plural, =1 {týden} other {týdnů} }"
 
 #: shared/components/format/Timesince/Timesince.tsx:22 /checksum/9Jrmz3TB7z
 msgctxt "UI"
 msgid "{num} {num, plural, =1 {day} other {days} }"
-msgstr ""
+msgstr "{num} {num, plural, one {den} few {dny} many {dne} other {dní} }"
 
 #: shared/components/format/Timesince/Timesince.tsx:23 /checksum/0BdOuMCWOr
 msgctxt "UI"
