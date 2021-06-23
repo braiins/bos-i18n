@@ -32,40 +32,40 @@ msgctxt "UI"
 msgid "An error has occurred while loading the page!"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:660 /checksum/vlLD7ZTxZi
+#: packages/boser/src/pages/Root/Root.tsx:661 /checksum/vlLD7ZTxZi
 msgctxt "UI"
 msgid "Device is unreachable!"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:771 /checksum/JJz6xGI8Qq
+#: packages/boser/src/pages/Root/Root.tsx:772 /checksum/JJz6xGI8Qq
 msgctxt "UI"
 msgid "Reboot error!"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:771 /checksum/R5Ch7DlpAH
+#: packages/boser/src/pages/Root/Root.tsx:772 /checksum/R5Ch7DlpAH
 msgctxt "UI"
 msgid "Rebooting"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:806 /checksum/WI6YRVTA/7
+#: packages/boser/src/pages/Root/Root.tsx:809 /checksum/WI6YRVTA/7
 msgctxt "UI"
 msgid "Get help"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:811 /checksum/NQ9P0/+U9s
+#: packages/boser/src/pages/Root/Root.tsx:814 /checksum/NQ9P0/+U9s
 msgctxt "UI"
 msgid "Download"
 msgstr "دانلود"
 
-#: packages/boser/src/pages/Root/Root.tsx:812
+#: packages/boser/src/pages/Root/Root.tsx:815
 #: packages/boser/src/pages/Root/Root.tsx:1042
-#: packages/boser/src/pages/Settings/Settings.tsx:293
+#: packages/boser/src/pages/Settings/Settings.tsx:432
 #: shared/components/carbon/DataTable/DataTable.tsx:273 /checksum/1r/fx4e7T/
 msgctxt "UI"
 msgid "Cancel"
 msgstr "لغو"
 
-#: packages/boser/src/pages/Root/Root.tsx:826 /checksum/WZnIDgUEc4
+#: packages/boser/src/pages/Root/Root.tsx:830 /checksum/WZnIDgUEc4
 msgctxt "UI"
 msgid "<a>Submit a Support ticket</a>{br}(or send email to {email})"
 msgstr ""
@@ -80,7 +80,7 @@ msgctxt "UI"
 msgid "Confirm"
 msgstr "تایید"
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1211
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1250
 #: packages/boser/src/pages/Root/Root.tsx:1108 /checksum/y7+MJmFo6l
 msgctxt "UI"
 msgid "Dashboard"
@@ -93,476 +93,466 @@ msgctxt "UI"
 msgid "Settings"
 msgstr "تنظیمات"
 
-#: packages/boser/src/pages/Root/Root.tsx:1132 /checksum/bnu0gS+6om
+#: packages/boser/src/pages/Root/Root.tsx:1134 /checksum/bnu0gS+6om
 msgctxt "UI"
 msgid "Required value!"
 msgstr ""
 
 #: packages/boser/src/components/standalone/Login/Login.tsx:83
-#: packages/boser/src/pages/Settings/Settings.tsx:1284 /checksum/UMApAywi/y
+#: packages/boser/src/pages/Settings/Settings.tsx:1418 /checksum/UMApAywi/y
 msgctxt "UI"
 msgid "Username"
 msgstr "نام کاربری"
 
 #: packages/boser/src/components/standalone/Login/Login.tsx:97
-#: packages/boser/src/pages/Settings/Settings.tsx:1285 /checksum/cM6eWbvdlw
+#: packages/boser/src/pages/Settings/Settings.tsx:1419 /checksum/cM6eWbvdlw
 msgctxt "UI"
 msgid "Password"
 msgstr "رمز عبور"
 
-#: packages/boser/src/pages/Root/Root.tsx:1420 /checksum/CYAkeY00Qq
+#: packages/boser/src/pages/Root/Root.tsx:1452 /checksum/CYAkeY00Qq
 msgctxt "UI"
 msgid "Open menu"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:1436 /checksum//LSuT3WRuQ
+#: packages/boser/src/pages/Root/Root.tsx:1468 /checksum//LSuT3WRuQ
 msgctxt "UI"
 msgid "profile menu"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:1453
-#: packages/boser/src/pages/Root/Root.tsx:1461 /checksum/w21s46x9aH
+#: packages/boser/src/pages/Root/Root.tsx:1486
+#: packages/boser/src/pages/Root/Root.tsx:1494 /checksum/w21s46x9aH
 msgctxt "UI"
 msgid "Documentation"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:257 /checksum/nDhVn1oJvX
+#: packages/boser/src/pages/Root/Root.tsx:248 /checksum/nDhVn1oJvX
 msgctxt "UI"
 msgid "Start BOSminer"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:263 /checksum/7oLBsBE6BO
+#: packages/boser/src/pages/Root/Root.tsx:254 /checksum/7oLBsBE6BO
 msgctxt "UI"
 msgid "Stop BOSminer"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:251 /checksum/d+nFKBWX5d
+#: packages/boser/src/pages/Root/Root.tsx:242 /checksum/d+nFKBWX5d
 msgctxt "UI"
 msgid "Restart BOSminer"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:1522 /checksum/uxqc6sfqLo
-msgctxt "UI"
-msgid "Braiins | Bitcoin mining full stack company"
-msgstr ""
-
-#: packages/boser/src/pages/Root/Root.tsx:1527 /checksum/Gx++QgwM/G
-msgctxt "UI"
-msgid "Bitcoin Mining Fullstack Company"
-msgstr ""
-
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:924 /checksum/URX7pTSzY1
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:978 /checksum/URX7pTSzY1
 msgctxt "UI"
 msgid "Get Braiins OS+"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:726 /checksum/hjYnsGxl+R
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:749 /checksum/hjYnsGxl+R
 msgctxt "UI"
 msgid "Failed"
 msgstr "ناموفق"
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:651
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:738
-#: packages/boser/src/pages/Settings/Settings.tsx:2706
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:674
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:761
+#: packages/boser/src/pages/Settings/Settings.tsx:2850
 #: packages/boser/src/pages/System/System.tsx:1058 /checksum/mNp+r9gd5E
 msgctxt "UI"
 msgid "Disabled"
 msgstr "غیرفعال شده است"
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:730 /checksum/rGh6T8gPti
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:753 /checksum/rGh6T8gPti
 msgctxt "UI"
 msgid "Running"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:734 /checksum/uXQCP5acYr
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:757 /checksum/uXQCP5acYr
 msgctxt "UI"
 msgid "Stable"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:348
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:934 /checksum/Ua8wzWenph
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:359
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:988 /checksum/Ua8wzWenph
 msgctxt "UI"
 msgid "Real Hashrate"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:358
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:512 /checksum/QbuuYC3zT6
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:369
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:535 /checksum/QbuuYC3zT6
 msgctxt "UI"
 msgid "Temperature"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:400 /checksum/4iL8GttnT8
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:417 /checksum/4iL8GttnT8
 msgctxt "UI"
 msgid "Nominal Average Hashrate"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:410 /checksum/C6PaEVEbQr
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:427 /checksum/C6PaEVEbQr
 msgctxt "UI"
 msgid "{id} Real Hashrate"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:454 /checksum/SGPQi/vIm2
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:471 /checksum/SGPQi/vIm2
 msgctxt "UI"
 msgid "Target"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:455 /checksum/1qs1sqvedY
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:472 /checksum/1qs1sqvedY
 msgctxt "UI"
 msgid "Hot"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:456 /checksum/p3n1GlA2rf
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:473 /checksum/p3n1GlA2rf
 msgctxt "UI"
 msgid "Dangerous"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:510 /checksum/laId6n5bj6
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:533 /checksum/laId6n5bj6
 msgctxt "UI"
 msgid "Overall Status"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:119
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:511 /checksum/KwuybsWn+f
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:196
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:534 /checksum/KwuybsWn+f
 msgctxt "UI"
 msgid "Hashrate"
 msgstr "نرخ هش"
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:529
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:752 /checksum/LlgQaskXjK
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:552
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:775 /checksum/LlgQaskXjK
 msgctxt "UI"
 msgid "ID"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:534 /checksum/TaaCpByfgf
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:557 /checksum/TaaCpByfgf
 msgctxt "UI"
 msgid "Real{br}Hashrate"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:539 /checksum/llOSf/xWp9
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:562 /checksum/llOSf/xWp9
 msgctxt "UI"
 msgid "Nominal{br}Hashrate"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:544
-#: packages/boser/src/pages/Settings/Settings.tsx:2207 /checksum/1KObi88eX6
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:567
+#: packages/boser/src/pages/Settings/Settings.tsx:2345 /checksum/1KObi88eX6
 msgctxt "UI"
 msgid "Voltage"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:549
-#: packages/boser/src/pages/Settings/Settings.tsx:2182
-#: packages/boser/src/pages/Settings/Settings.tsx:2434 /checksum/FHiQCAYQHe
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:572
+#: packages/boser/src/pages/Settings/Settings.tsx:2320
+#: packages/boser/src/pages/Settings/Settings.tsx:2572 /checksum/FHiQCAYQHe
 msgctxt "UI"
 msgid "Frequency"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:555 /checksum/PHTCjFEOEY
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:578 /checksum/PHTCjFEOEY
 msgctxt "UI"
 msgid "ASIC#"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:560 /checksum/3C9D/knoS5
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:583 /checksum/3C9D/knoS5
 msgctxt "UI"
 msgid "HW Error{br}Hashrate"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:619 /checksum/9R2KZWEjHA
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:642 /checksum/9R2KZWEjHA
 msgctxt "UI"
 msgid "Hash Boards"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:643
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:892 /checksum/vBvHfOvuYV
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:666
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:946 /checksum/vBvHfOvuYV
 msgctxt "UI"
 msgid "Alive"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:647
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:902 /checksum/KD83wub/U7
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:670
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:956 /checksum/KD83wub/U7
 msgctxt "UI"
 msgid "Dead"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:659 /checksum/9PQ5DfQLsj
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:682 /checksum/9PQ5DfQLsj
 msgctxt "UI"
 msgid "URL"
 msgstr "URL"
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:664 /checksum/yXV3Wqrjmt
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:687 /checksum/yXV3Wqrjmt
 msgctxt "UI"
 msgid "User"
 msgstr "کاربر"
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:665
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:785
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:688
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:808
 #: packages/boser/src/pages/System/System.tsx:590
-#: packages/boser/src/pages/System/System.tsx:1071 /checksum/ZmjnBnQzo4
+#: packages/boser/src/pages/System/System.tsx:1074 /checksum/ZmjnBnQzo4
 msgctxt "UI"
 msgid "Status"
 msgstr "وضعیت"
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:666 /checksum/H4Ac6x57kf
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:689 /checksum/H4Ac6x57kf
 msgctxt "UI"
 msgid "Active"
 msgstr "فعال"
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:667
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1053 /checksum/OBxGNwxRuK
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:690
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1081 /checksum/OBxGNwxRuK
 msgctxt "UI"
 msgid "Accepted"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:668
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1055 /checksum/7IuH7NFCQ4
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:691
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1083 /checksum/7IuH7NFCQ4
 msgctxt "UI"
 msgid "Rejected"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:669 /checksum/5uFjzlbzid
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:692 /checksum/5uFjzlbzid
 msgctxt "UI"
 msgid "Stale"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:670 /checksum/i0AxsylYA9
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:693 /checksum/i0AxsylYA9
 msgctxt "UI"
 msgid "Last Difficulty"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:686 /checksum/Y7ap4TcIHX
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:709 /checksum/Y7ap4TcIHX
 msgctxt "UI"
 msgid "Yes"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:686 /checksum/ORONQigkHI
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:709 /checksum/ORONQigkHI
 msgctxt "UI"
 msgid "No"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:701
-#: packages/boser/src/pages/Settings/Settings.tsx:1574
-#: packages/boser/src/pages/Settings/Settings.tsx:3086 /checksum/wYtUJroRcc
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:724
+#: packages/boser/src/pages/Settings/Settings.tsx:1711
+#: packages/boser/src/pages/Settings/Settings.tsx:3310 /checksum/wYtUJroRcc
 msgctxt "UI"
 msgid "Pools"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:757 /checksum/sHlVTFJ2M9
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:780 /checksum/sHlVTFJ2M9
 msgctxt "UI"
 msgid "Iteration"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:833 /checksum/PhsBNHnrXs
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:856 /checksum/PhsBNHnrXs
 msgctxt "UI"
 msgid "Tuner Status"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:962 /checksum/Umbv6C4HNl
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1014 /checksum/Umbv6C4HNl
 msgctxt "UI"
 msgid "Pool Status"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1011 /checksum/I7OKe/xP5o
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1039 /checksum/I7OKe/xP5o
 msgctxt "UI"
 msgid "Fan Monitor"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1047 /checksum/c5MOunW+1i
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1075 /checksum/c5MOunW+1i
 msgctxt "UI"
 msgid "Rejection Ratio"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1050 /checksum/NtBIDAIMZH
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1078 /checksum/NtBIDAIMZH
 msgctxt "UI"
 msgid "Hashrate 1M"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1051 /checksum/Tz/XXN5S3z
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1079 /checksum/Tz/XXN5S3z
 msgctxt "UI"
 msgid "Hashrate 15M"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1052 /checksum/kLRqZWW/Uy
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1080 /checksum/kLRqZWW/Uy
 msgctxt "UI"
 msgid "Hashrate 24H"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1054 /checksum/nQjJ5yBHPK
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1082 /checksum/nQjJ5yBHPK
 msgctxt "UI"
 msgid "Difficulty Accepted"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1056 /checksum/GOap/fcQ2G
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1084 /checksum/GOap/fcQ2G
 msgctxt "UI"
 msgid "Difficulty Rejected"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1161 /checksum/ObMNQOSIWm
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1200 /checksum/ObMNQOSIWm
 msgctxt "UI"
 msgid "Miner Overview"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:516 /checksum/tHbM+CnkW7
+#: packages/boser/src/pages/Settings/Settings.tsx:649 /checksum/tHbM+CnkW7
 msgctxt "UI"
 msgid "Error fetching metadata!"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:206
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:143
 #: packages/boser/src/pages/Root/Root.tsx:968
-#: packages/boser/src/pages/Settings/Settings.tsx:527
+#: packages/boser/src/pages/Settings/Settings.tsx:660
 #: packages/boser/src/pages/System/System.tsx:249 /checksum/gPVm1gpE9r
 msgctxt "UI"
 msgid "Invalid reponse received!"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:531
+#: packages/boser/src/pages/Settings/Settings.tsx:664
 #: packages/boser/src/pages/System/System.tsx:253 /checksum/+ozkGmJC0+
 msgctxt "UI"
 msgid "Changes saved"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:540
+#: packages/boser/src/pages/Settings/Settings.tsx:673
 #: packages/boser/src/pages/System/System.tsx:324 /checksum/UB9Ih30unX
 msgctxt "UI"
 msgid "Submiting changes…"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:548
-#: packages/boser/src/pages/Settings/Settings.tsx:1438
+#: packages/boser/src/pages/Settings/Settings.tsx:681
+#: packages/boser/src/pages/Settings/Settings.tsx:1572
 #: packages/boser/src/pages/System/System.tsx:309 /checksum/159JcZalFp
 msgctxt "UI"
 msgid "Save"
 msgstr "ذخیره"
 
-#: packages/boser/src/pages/Settings/Settings.tsx:628 /checksum/mlEFyf9178
+#: packages/boser/src/pages/Settings/Settings.tsx:761 /checksum/mlEFyf9178
 msgctxt "UI"
 msgid ""
 "No pool for saving found! Probably an invalid combination of group ID & Pool"
 " ID"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:731 /checksum/WmfyW/UelX
+#: packages/boser/src/pages/Settings/Settings.tsx:864 /checksum/WmfyW/UelX
 msgctxt "UI"
 msgid "Pool \"{url}\" Added"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1099 /checksum/F7rzHr4TBU
+#: packages/boser/src/pages/Settings/Settings.tsx:1232 /checksum/F7rzHr4TBU
 msgctxt "UI"
 msgid "Pool Moved"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1241 /checksum/u1Ln9Oss+6
+#: packages/boser/src/pages/Settings/Settings.tsx:1374 /checksum/u1Ln9Oss+6
 msgctxt "UI"
 msgid "Duplicate names: {names}"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1283 /checksum/8VAHSSn7+5
+#: packages/boser/src/pages/Settings/Settings.tsx:1417 /checksum/8VAHSSn7+5
 msgctxt "UI"
 msgid "Pool URL"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1286
-#: packages/boser/src/pages/Settings/Settings.tsx:1598
-#: packages/boser/src/pages/Settings/Settings.tsx:2915
-#: packages/boser/src/pages/Settings/Settings.tsx:2933
-#: packages/boser/src/pages/Settings/Settings.tsx:3102
-#: packages/boser/src/pages/Settings/Settings.tsx:3105
+#: packages/boser/src/pages/Settings/Settings.tsx:1420
+#: packages/boser/src/pages/Settings/Settings.tsx:1735
+#: packages/boser/src/pages/Settings/Settings.tsx:3059
+#: packages/boser/src/pages/Settings/Settings.tsx:3077
+#: packages/boser/src/pages/Settings/Settings.tsx:3326
+#: packages/boser/src/pages/Settings/Settings.tsx:3329
 #: packages/boser/src/pages/System/System.tsx:1018 /checksum/S4S7JYdGGx
 msgctxt "UI"
 msgid "Actions"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1363 /checksum/Jyp8+YDWdi
+#: packages/boser/src/pages/Settings/Settings.tsx:1497 /checksum/Jyp8+YDWdi
 msgctxt "UI"
 msgid "Saving changes…"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1421 /checksum/Mwh4OSe57n
+#: packages/boser/src/pages/Settings/Settings.tsx:1555 /checksum/Mwh4OSe57n
 msgctxt "UI"
 msgid "Cancel Pool Creation"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1454 /checksum/T4EdQJ5Hik
+#: packages/boser/src/pages/Settings/Settings.tsx:1588 /checksum/T4EdQJ5Hik
 msgctxt "UI"
 msgid "Move Up"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1464 /checksum/UyUe9sUfcX
+#: packages/boser/src/pages/Settings/Settings.tsx:1598 /checksum/UyUe9sUfcX
 msgctxt "UI"
 msgid "Move Down"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1475
-#: packages/boser/src/pages/Settings/Settings.tsx:1729 /checksum/mOQPUnzQyj
+#: packages/boser/src/pages/Settings/Settings.tsx:1609
+#: packages/boser/src/pages/Settings/Settings.tsx:1866 /checksum/mOQPUnzQyj
 msgctxt "UI"
 msgid "Remove"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1542 /checksum/9DC3+6PJeA
+#: packages/boser/src/pages/Settings/Settings.tsx:1678 /checksum/9DC3+6PJeA
 msgctxt "UI"
 msgid "Quota: {value}"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1547 /checksum/kLS2qiLInM
+#: packages/boser/src/pages/Settings/Settings.tsx:1683 /checksum/kLS2qiLInM
 msgctxt "UI"
 msgid "Fixed Share Ratio: {value}"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1562 /checksum/FKc/oBeC4z
+#: packages/boser/src/pages/Settings/Settings.tsx:1698 /checksum/FKc/oBeC4z
 msgctxt "UI"
 msgid "Add New Pool"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1575 /checksum/TKsdO1ZCTM
+#: packages/boser/src/pages/Settings/Settings.tsx:1712 /checksum/TKsdO1ZCTM
 msgctxt "UI"
 msgid "Pool Groups"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1595 /checksum/6s3JTItf+9
+#: packages/boser/src/pages/Settings/Settings.tsx:1732 /checksum/6s3JTItf+9
 msgctxt "UI"
 msgid "Group Name"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1596
-#: packages/boser/src/pages/Settings/Settings.tsx:2674 /checksum/JBNGeL8E9f
+#: packages/boser/src/pages/Settings/Settings.tsx:1733
+#: packages/boser/src/pages/Settings/Settings.tsx:2818 /checksum/JBNGeL8E9f
 msgctxt "UI"
 msgid "Mode"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1597 /checksum/MHJKan1fxa
+#: packages/boser/src/pages/Settings/Settings.tsx:1734 /checksum/MHJKan1fxa
 msgctxt "UI"
 msgid "Value"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1678 /checksum/Gs7aU0IDK3
+#: packages/boser/src/pages/Settings/Settings.tsx:1815 /checksum/Gs7aU0IDK3
 msgctxt "UI"
 msgid "Quota"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1681 /checksum/B5HHuJeRBo
+#: packages/boser/src/pages/Settings/Settings.tsx:1818 /checksum/B5HHuJeRBo
 msgctxt "UI"
 msgid "Fixed Share Ratio"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1716 /checksum/rQWw/NnpNN
+#: packages/boser/src/pages/Settings/Settings.tsx:1853 /checksum/rQWw/NnpNN
 msgctxt "UI"
 msgid "Cancel Removal"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1784 /checksum/xl692sCSZQ
+#: packages/boser/src/pages/Settings/Settings.tsx:1921 /checksum/xl692sCSZQ
 msgctxt "UI"
 msgid "Save Changes"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1798 /checksum/LUTg1L5u9u
+#: packages/boser/src/pages/Settings/Settings.tsx:1935 /checksum/LUTg1L5u9u
 msgctxt "UI"
 msgid "No groups yet…"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1808 /checksum/HJVKG30W0C
+#: packages/boser/src/pages/Settings/Settings.tsx:1945 /checksum/HJVKG30W0C
 msgctxt "UI"
 msgid "Add New Group"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1810 /checksum/fDfAhk+6Iv
+#: packages/boser/src/pages/Settings/Settings.tsx:1947 /checksum/fDfAhk+6Iv
 msgctxt "UI"
 msgid "Saving…"
 msgstr "درحال ذخیره…"
@@ -576,134 +566,128 @@ msgctxt "UI"
 msgid "{title} Settings"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2098
-#: packages/boser/src/pages/Settings/Settings.tsx:3091 /checksum/XcM3y0zqT+
+#: packages/boser/src/pages/Settings/Settings.tsx:2236
+#: packages/boser/src/pages/Settings/Settings.tsx:3315 /checksum/XcM3y0zqT+
 msgctxt "UI"
 msgid "Performance"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2172 /checksum/Bq4q2RDBzi
+#: packages/boser/src/pages/Settings/Settings.tsx:2310 /checksum/Bq4q2RDBzi
 msgctxt "UI"
 msgid "Enable Hashboard {name}"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2256 /checksum/Y+am5Yp1ex
+#: packages/boser/src/pages/Settings/Settings.tsx:2394 /checksum/Y+am5Yp1ex
 msgctxt "UI"
 msgid "Autotuning"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2268 /checksum/A/68UrRtvm
+#: packages/boser/src/pages/Settings/Settings.tsx:2406 /checksum/A/68UrRtvm
 msgctxt "UI"
 msgid "Enable Autotuning"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2272 /checksum/ELr3MkI4t4
+#: packages/boser/src/pages/Settings/Settings.tsx:2410 /checksum/ELr3MkI4t4
 msgctxt "UI"
 msgid "PSU Power Limit (for all hashboards)"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:960
-#: packages/boser/src/pages/Settings/Settings.tsx:2305 /checksum/q/JGTmnHz5
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1011
+#: packages/boser/src/pages/Settings/Settings.tsx:2443 /checksum/q/JGTmnHz5
 msgctxt "UI"
 msgid "Dynamic Power Scaling"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2314 /checksum/dTWY1dWvpE
+#: packages/boser/src/pages/Settings/Settings.tsx:2452 /checksum/dTWY1dWvpE
 msgctxt "UI"
 msgid "Enable Dynamic Power Scaling"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2349 /checksum/P0xdwgtFnA
+#: packages/boser/src/pages/Settings/Settings.tsx:2487 /checksum/P0xdwgtFnA
 msgctxt "UI"
 msgid "Minimal PSU Power Limit"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2393 /checksum/YZ9WDwOtr+
+#: packages/boser/src/pages/Settings/Settings.tsx:2531 /checksum/YZ9WDwOtr+
 msgctxt "UI"
 msgid "Shutdown When Minimal PSU Power Limit is Reached"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2397 /checksum/jLtrVoarMe
+#: packages/boser/src/pages/Settings/Settings.tsx:2535 /checksum/jLtrVoarMe
 msgctxt "UI"
 msgid "Shutdown Duration"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2423 /checksum/BPYXmgKNbW
+#: packages/boser/src/pages/Settings/Settings.tsx:2561 /checksum/BPYXmgKNbW
 msgctxt "UI"
 msgid "Hours"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2660
-#: packages/boser/src/pages/Settings/Settings.tsx:3096 /checksum/GZH00sZURY
+#: packages/boser/src/pages/Settings/Settings.tsx:2804
+#: packages/boser/src/pages/Settings/Settings.tsx:3320 /checksum/GZH00sZURY
 msgctxt "UI"
 msgid "Temperature & Fans"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2670 /checksum//hxmhkmfOO
+#: packages/boser/src/pages/Settings/Settings.tsx:2814 /checksum//hxmhkmfOO
 msgctxt "UI"
 msgid "Temperature Control"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2682 /checksum/VZZ5iZyMWK
+#: packages/boser/src/pages/Settings/Settings.tsx:2826 /checksum/VZZ5iZyMWK
 msgctxt "UI"
 msgid "Temperature Control Mode"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2697 /checksum/YBpDY4Q3Mo
+#: packages/boser/src/pages/Settings/Settings.tsx:2841 /checksum/YBpDY4Q3Mo
 msgctxt "UI"
 msgid "Understood"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2704
+#: packages/boser/src/pages/Settings/Settings.tsx:2848
 #: packages/boser/src/pages/System/System.tsx:451 /checksum/AfRegejHzO
 msgctxt "UI"
 msgid "Auto"
 msgstr "خودکار"
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2705 /checksum/nwcMk+oisr
+#: packages/boser/src/pages/Settings/Settings.tsx:2849 /checksum/nwcMk+oisr
 msgctxt "UI"
 msgid "Manual"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2718 /checksum/ngUotbg/9o
+#: packages/boser/src/pages/Settings/Settings.tsx:2862 /checksum/ngUotbg/9o
 msgctxt "UI"
 msgid "Target Temperature"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2749 /checksum/rO78UQpn89
+#: packages/boser/src/pages/Settings/Settings.tsx:2893 /checksum/rO78UQpn89
 msgctxt "UI"
 msgid "Hot Temperature"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2780 /checksum/i3CO+1NiqB
+#: packages/boser/src/pages/Settings/Settings.tsx:2924 /checksum/i3CO+1NiqB
 msgctxt "UI"
 msgid "Dangerous Temperature"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2811 /checksum/bvxtZg/iYt
+#: packages/boser/src/pages/Settings/Settings.tsx:2955 /checksum/bvxtZg/iYt
 msgctxt "UI"
 msgid "Fan Control"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2815 /checksum/spvsqjswya
+#: packages/boser/src/pages/Settings/Settings.tsx:2959 /checksum/spvsqjswya
 msgctxt "UI"
 msgid "Speed"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2849 /checksum/i63CruQTgB
+#: packages/boser/src/pages/Settings/Settings.tsx:2993 /checksum/i63CruQTgB
 msgctxt "UI"
 msgid "Number of fans required for system to run."
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2853 /checksum/vucOFpS+4o
+#: packages/boser/src/pages/Settings/Settings.tsx:2997 /checksum/vucOFpS+4o
 msgctxt "UI"
 msgid "Use <strong>0 for immersion cooling</strong>."
-msgstr ""
-
-#: packages/boser/src/pages/Settings/Settings.tsx:3125 /checksum/VG/L/KobzN
-msgctxt "UI"
-msgid ""
-"Braiins OS+ Manager connection is active, local settings have been disabled."
 msgstr ""
 
 #: shared/charts/MultiLine/MultiLine.tsx:120 /checksum/AMBWvayRmY
@@ -711,34 +695,34 @@ msgctxt "UI"
 msgid "An error has occurred in the chart!"
 msgstr ""
 
-#: shared/components/DidCatch/DidCatch.tsx:26 /checksum/XEa29O/eL/
+#: shared/components/DidCatch/DidCatch.tsx:29 /checksum/XEa29O/eL/
 msgctxt "UI"
 msgid "We've failed to report the issue (you might have a connection issues)."
 msgstr ""
 
-#: shared/components/DidCatch/DidCatch.tsx:31 /checksum/hav+RWLOY7
+#: shared/components/DidCatch/DidCatch.tsx:34 /checksum/hav+RWLOY7
 msgctxt "UI"
 msgid "For further information please contact our technical support."
 msgstr "برای کسب اطلاعات بیشتر با پشتیبانی فنی ما تماس بگیرید."
 
-#: shared/components/DidCatch/DidCatch.tsx:34 /checksum/ia/LtU7xYZ
+#: shared/components/DidCatch/DidCatch.tsx:37 /checksum/ia/LtU7xYZ
 msgctxt "UI"
 msgid "There's a new version of this page available"
 msgstr "یک نسخه جدید از این صفحه در دسترس است"
 
-#: shared/components/DidCatch/DidCatch.tsx:36 /checksum/nLnO+1+HEd
+#: shared/components/DidCatch/DidCatch.tsx:39 /checksum/nLnO+1+HEd
 msgctxt "UI"
 msgid ""
 "This is not an error, we have just released a new version of this page."
 msgstr ""
 "این یک خطا نیست ، ما به تازگی نسخه جدیدی از این صفحه را منتشر کرده ایم."
 
-#: shared/components/DidCatch/DidCatch.tsx:56 /checksum/W5XZYVGZrq
+#: shared/components/DidCatch/DidCatch.tsx:59 /checksum/W5XZYVGZrq
 msgctxt "UI"
 msgid "Reload the page to continue"
 msgstr "بارگذاری مجدد صفحه برای ادامه"
 
-#: shared/components/DidCatch/DidCatch.tsx:66 /checksum/sM67mb+aX6
+#: shared/components/DidCatch/DidCatch.tsx:69 /checksum/sM67mb+aX6
 msgctxt "UI"
 msgid "Technical support"
 msgstr "پشتیبانی فنی"
@@ -799,7 +783,7 @@ msgctxt "UI"
 msgid "of {total} pages"
 msgstr ""
 
-#: shared/components/format/Interval/Interval.tsx:57 /checksum/vkQ1giC8GS
+#: shared/components/format/Interval/Interval.tsx:84 /checksum/vkQ1giC8GS
 msgctxt "UI"
 msgid "Now"
 msgstr "اکنون"
@@ -881,37 +865,37 @@ msgctxt "UI"
 msgid "No data…"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:127 /checksum/bfoSyK7BVZ
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:205 /checksum/bfoSyK7BVZ
 msgctxt "UI"
 msgid "Temperature [°C]"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:164 /checksum/2xRmtV0C3E
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:246 /checksum/2xRmtV0C3E
 msgctxt "UI"
 msgid "Speed [%]"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:622 /checksum/3QbPh156Lp
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:645 /checksum/3QbPh156Lp
 msgctxt "UI"
 msgid "Configure Hash Boards"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:702 /checksum/W53swCvJSV
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:725 /checksum/W53swCvJSV
 msgctxt "UI"
 msgid "Edit Pools"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:834 /checksum/zQwnxNWdSp
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:857 /checksum/zQwnxNWdSp
 msgctxt "UI"
 msgid "Edit Performance"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1184 /checksum/CIdbaoSmIz
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1223 /checksum/CIdbaoSmIz
 msgctxt "UI"
 msgid "Default View"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1189 /checksum/78lSyW3pq2
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1228 /checksum/78lSyW3pq2
 msgctxt "UI"
 msgid "Compact View"
 msgstr ""
@@ -921,7 +905,7 @@ msgctxt "UI"
 msgid "System"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:1477 /checksum/9oc2ve6vcL
+#: packages/boser/src/pages/Root/Root.tsx:1511 /checksum/9oc2ve6vcL
 msgctxt "UI"
 msgid "Quick Actions"
 msgstr ""
@@ -931,7 +915,8 @@ msgctxt "UI"
 msgid "Personal"
 msgstr ""
 
-#: packages/boser/src/pages/System/System.tsx:426 /checksum/ELNEVEcuq5
+#: packages/boser/src/pages/System/System.tsx:426
+#: packages/boser/src/pages/System/System.tsx:1072 /checksum/ELNEVEcuq5
 msgctxt "UI"
 msgid "Change Password"
 msgstr ""
@@ -1031,8 +1016,8 @@ msgid "Looking up {target}"
 msgstr ""
 
 #: packages/boser/src/pages/System/System.tsx:827
-#: packages/boser/src/pages/System/System.tsx:1073
-#: packages/boser/src/pages/System/System.tsx:1074 /checksum/TFOwsqD2M5
+#: packages/boser/src/pages/System/System.tsx:1076
+#: packages/boser/src/pages/System/System.tsx:1077 /checksum/TFOwsqD2M5
 msgctxt "UI"
 msgid "Network"
 msgstr ""
@@ -1042,11 +1027,11 @@ msgctxt "UI"
 msgid "Diagnostics"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:3035
+#: packages/boser/src/pages/Settings/Settings.tsx:3179
 #: packages/boser/src/pages/System/System.tsx:863
 #: packages/boser/src/pages/System/System.tsx:1004
-#: packages/boser/src/pages/System/System.tsx:1076
-#: packages/boser/src/pages/System/System.tsx:1077 /checksum/jeX/hNle4b
+#: packages/boser/src/pages/System/System.tsx:1079
+#: packages/boser/src/pages/System/System.tsx:1080 /checksum/jeX/hNle4b
 msgctxt "UI"
 msgid "Log"
 msgstr ""
@@ -1137,8 +1122,8 @@ msgstr ""
 
 #: packages/boser/src/pages/System/System.tsx:1040
 #: packages/boser/src/pages/System/System.tsx:1056
-#: packages/boser/src/pages/System/System.tsx:1082
-#: packages/boser/src/pages/System/System.tsx:1083 /checksum/Wn3AZwruJJ
+#: packages/boser/src/pages/System/System.tsx:1085
+#: packages/boser/src/pages/System/System.tsx:1086 /checksum/Wn3AZwruJJ
 msgctxt "UI"
 msgid "Auto Upgrade"
 msgstr ""
@@ -1148,8 +1133,8 @@ msgctxt "UI"
 msgid "Enabled"
 msgstr ""
 
-#: packages/boser/src/pages/System/System.tsx:1079
-#: packages/boser/src/pages/System/System.tsx:1080 /checksum/lEXXuDtuML
+#: packages/boser/src/pages/System/System.tsx:1082
+#: packages/boser/src/pages/System/System.tsx:1083 /checksum/lEXXuDtuML
 msgctxt "UI"
 msgid "Firmware Backup / Flash"
 msgstr ""
@@ -1160,22 +1145,17 @@ msgctxt "UI"
 msgid "Log In"
 msgstr ""
 
-#: shared/components/DidCatch/DidCatch.tsx:93 /checksum/VyMUPIZMk2
+#: shared/components/DidCatch/DidCatch.tsx:96 /checksum/VyMUPIZMk2
 msgctxt "UI"
 msgid "Unknown Error"
 msgstr ""
 
-#: packages/boser/src/components/standalone/Dialog.tsx:88 /checksum/ZYbsui/w4d
-msgctxt "UI"
-msgid "Error"
-msgstr ""
-
-#: packages/boser/src/components/standalone/Dialog.tsx:97 /checksum/Sok43UbB+E
+#: packages/boser/src/components/standalone/Dialog.tsx:93 /checksum/Sok43UbB+E
 msgctxt "UI"
 msgid "Warning"
 msgstr ""
 
-#: packages/boser/src/components/standalone/Dialog.tsx:189
+#: packages/boser/src/components/standalone/Dialog.tsx:185
 #: /checksum/WnkE2ijB8T
 msgctxt "UI"
 msgid "loading…"
@@ -1407,48 +1387,48 @@ msgctxt "UI"
 msgid "An error has occured!"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:284 /checksum/ird7S5HS0d
+#: packages/boser/src/pages/Root/Root.tsx:275 /checksum/ird7S5HS0d
 msgctxt "UI"
 msgid "Unknown graphql client error!"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:446 /checksum/+jEJ3/473m
+#: packages/boser/src/pages/Root/Root.tsx:447 /checksum/+jEJ3/473m
 msgctxt "UI"
 msgid "Invalid response for backend notifications!"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:518 /checksum/2TXh5qbs+d
+#: packages/boser/src/pages/Root/Root.tsx:519 /checksum/2TXh5qbs+d
 msgctxt "UI"
 msgid "Unknown event type \"{type}\" received!"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:575 /checksum/mIwH74g5Z5
+#: packages/boser/src/pages/Root/Root.tsx:576 /checksum/mIwH74g5Z5
 msgctxt "UI"
 msgid "An error has occured while trying to remove an appeal!"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1107
-#: packages/boser/src/pages/Root/Root.tsx:580
-#: packages/boser/src/pages/Settings/Settings.tsx:691
-#: packages/boser/src/pages/Settings/Settings.tsx:850
-#: packages/boser/src/pages/Settings/Settings.tsx:971
-#: packages/boser/src/pages/Settings/Settings.tsx:1070
-#: packages/boser/src/pages/Settings/Settings.tsx:1217 /checksum/R1Kb/maWX2
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1146
+#: packages/boser/src/pages/Root/Root.tsx:581
+#: packages/boser/src/pages/Settings/Settings.tsx:824
+#: packages/boser/src/pages/Settings/Settings.tsx:983
+#: packages/boser/src/pages/Settings/Settings.tsx:1104
+#: packages/boser/src/pages/Settings/Settings.tsx:1203
+#: packages/boser/src/pages/Settings/Settings.tsx:1350 /checksum/R1Kb/maWX2
 msgctxt "UI"
 msgid "Invalid response in group edit!"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:630 /checksum/aVMj99GIsQ
+#: packages/boser/src/pages/Root/Root.tsx:631 /checksum/aVMj99GIsQ
 msgctxt "UI"
 msgid "Dismiss"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:779 /checksum/JJdByNqVut
+#: packages/boser/src/pages/Root/Root.tsx:780 /checksum/JJdByNqVut
 msgctxt "UI"
 msgid "Please wait until the device is responsive…"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:815 /checksum/eaWq/AdlV1
+#: packages/boser/src/pages/Root/Root.tsx:818 /checksum/eaWq/AdlV1
 msgctxt "UI"
 msgid ""
 "<p>When you click the \"Download\" button, the system will automatically "
@@ -1458,7 +1438,7 @@ msgid ""
 "Generating the archive can take up to 1 minute.</p>"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:1271 /checksum/fdoMfuvsV1
+#: packages/boser/src/pages/Root/Root.tsx:1295 /checksum/fdoMfuvsV1
 msgctxt "UI"
 msgid "Log In to {name}"
 msgstr ""
@@ -1480,96 +1460,97 @@ msgctxt "UI"
 msgid "Configure the firmware to automatically install new releases."
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:256 /checksum/sdwg+lAKHO
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:267 /checksum/sdwg+lAKHO
 msgctxt "UI"
 msgid "Invalid response when fetching dashboard data!"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:587 /checksum/T4/thqVuN7
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:610 /checksum/T4/thqVuN7
 msgctxt "UI"
 msgid "{name}{br}Temp"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:671 /checksum/0J1HWo4YHG
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:694
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1086 /checksum/0J1HWo4YHG
 msgctxt "UI"
 msgid "Best Share"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:672 /checksum/E8RyuE/A5/
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:695 /checksum/E8RyuE/A5/
 msgctxt "UI"
 msgid "Generated Work"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:764 /checksum/3l+vDNMp69
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:787 /checksum/3l+vDNMp69
 msgctxt "UI"
 msgid "Tuner Uptime"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:771 /checksum/mQ9wXOHu8X
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:794 /checksum/mQ9wXOHu8X
 msgctxt "UI"
 msgid "Stage Duration"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:778 /checksum/yv/NeukNhq
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:801 /checksum/yv/NeukNhq
 msgctxt "UI"
 msgid "Approx. Watts"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:939 /checksum//FopwGg0OA
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:993 /checksum//FopwGg0OA
 msgctxt "UI"
 msgid "Temperature ({name})"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1057 /checksum/leedAJqvmO
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1085 /checksum/leedAJqvmO
 msgctxt "UI"
 msgid "Blocks Found"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:710
-#: packages/boser/src/pages/Settings/Settings.tsx:869
-#: packages/boser/src/pages/Settings/Settings.tsx:990
-#: packages/boser/src/pages/Settings/Settings.tsx:1089 /checksum/g4oPLTX83N
+#: packages/boser/src/pages/Settings/Settings.tsx:843
+#: packages/boser/src/pages/Settings/Settings.tsx:1002
+#: packages/boser/src/pages/Settings/Settings.tsx:1123
+#: packages/boser/src/pages/Settings/Settings.tsx:1222 /checksum/g4oPLTX83N
 msgctxt "UI"
 msgid "Invalid response in pool edit!"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1506 /checksum/XlxXADgLGP
+#: packages/boser/src/pages/Settings/Settings.tsx:1640 /checksum/XlxXADgLGP
 msgctxt "UI"
 msgid "No pools added…"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1772 /checksum/jgOrR4m09l
+#: packages/boser/src/pages/Settings/Settings.tsx:1909 /checksum/jgOrR4m09l
 msgctxt "UI"
 msgid "No groups added…"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1936 /checksum/351O3LPD4u
+#: packages/boser/src/pages/Settings/Settings.tsx:2073 /checksum/351O3LPD4u
 msgctxt "UI"
 msgid "Invalid response in Autotuning edit!"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2046 /checksum/o/SeOwasWY
+#: packages/boser/src/pages/Settings/Settings.tsx:2183 /checksum/o/SeOwasWY
 msgctxt "UI"
 msgid "Invalid response in Performance edit!"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2243 /checksum/lD7zLSEe4L
+#: packages/boser/src/pages/Settings/Settings.tsx:2381 /checksum/lD7zLSEe4L
 msgctxt "UI"
 msgid ""
 "WARNING: Overclocking may damage your device. Proceed at your own risk!"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2318 /checksum/Bp1EDUv231
+#: packages/boser/src/pages/Settings/Settings.tsx:2456 /checksum/Bp1EDUv231
 msgctxt "UI"
 msgid "Decrease Power Limit Value."
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2581 /checksum/vhOsuabIDW
+#: packages/boser/src/pages/Settings/Settings.tsx:2719 /checksum/vhOsuabIDW
 msgctxt "UI"
 msgid "Invalid response in Temperature & Fans edit!"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2685 /checksum/EfjRW8GK8/
+#: packages/boser/src/pages/Settings/Settings.tsx:2829 /checksum/EfjRW8GK8/
 msgctxt "UI"
 msgid ""
 "<p><strong>WARNING:</strong> Changing the default settings may cause "
@@ -1577,27 +1558,27 @@ msgid ""
 "hardware damage.</p><p>Proceed at your own risk!</p>"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2846 /checksum/FlruVXSrFe
+#: packages/boser/src/pages/Settings/Settings.tsx:2990 /checksum/FlruVXSrFe
 msgctxt "UI"
 msgid "Minimum Required Fans"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2857 /checksum/ngeXDYdtHm
+#: packages/boser/src/pages/Settings/Settings.tsx:3001 /checksum/ngeXDYdtHm
 msgctxt "UI"
 msgid "Fan count unknown!"
 msgstr ""
 
-#: shared/components/DidCatch/DidCatch.tsx:27 /checksum/WuIghnzgG1
+#: shared/components/DidCatch/DidCatch.tsx:30 /checksum/WuIghnzgG1
 msgctxt "UI"
 msgid "Please contact our technical support team team."
 msgstr ""
 
-#: shared/components/DidCatch/DidCatch.tsx:30 /checksum/ez5/u4BQ64
+#: shared/components/DidCatch/DidCatch.tsx:33 /checksum/ez5/u4BQ64
 msgctxt "UI"
 msgid "We have been notified about the issue and are working on a fix."
 msgstr ""
 
-#: shared/components/DidCatch/DidCatch.tsx:37 /checksum/RSadH9RTI2
+#: shared/components/DidCatch/DidCatch.tsx:40 /checksum/RSadH9RTI2
 msgctxt "UI"
 msgid "Please reload the page to get the latest version."
 msgstr ""
@@ -1618,143 +1599,256 @@ msgctxt "UI"
 msgid "Please confirm the request by following the link included."
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:239 /checksum/ZOzeAFtNIC
+#: packages/boser/src/pages/Root/Root.tsx:230 /checksum/ZOzeAFtNIC
 msgctxt "UI"
 msgid "Get Help"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:244 /checksum/uOkTarWq47
+#: packages/boser/src/pages/Root/Root.tsx:235 /checksum/uOkTarWq47
 msgctxt "UI"
 msgid "Reboot Device"
 msgstr ""
 
-#: packages/boser/src/pages/Root/Root.tsx:361 /checksum/GNZtBPJoin
+#: packages/boser/src/pages/Root/Root.tsx:360 /checksum/GNZtBPJoin
 msgctxt "UI"
 msgid "Failed to load configuration"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:799 /checksum/4eVU0IUDGA
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:822 /checksum/4eVU0IUDGA
 msgctxt "UI"
 msgid "Loaded profile created on {time}"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:955 /checksum/PqRbo3tVMu
-msgctxt "UI"
-msgid "Effectivity"
-msgstr ""
-
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:957 /checksum/RpDVLcp3JU
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1008 /checksum/RpDVLcp3JU
 msgctxt "UI"
 msgid "Power Usage"
 msgstr ""
 
-#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1166 /checksum/3LVkdixLAe
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1205 /checksum/3LVkdixLAe
 msgctxt "UI"
 msgid "Hostname: {hostName}"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:290 /checksum/nyDx464PLD
+#: packages/boser/src/pages/Settings/Settings.tsx:429 /checksum/nyDx464PLD
 msgctxt "UI"
 msgid "Add New Command"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:291 /checksum/PEupVYQPwf
+#: packages/boser/src/pages/Settings/Settings.tsx:430 /checksum/PEupVYQPwf
 msgctxt "UI"
 msgid "Edit Command"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:555 /checksum/2tNXD4xU1Q
+#: packages/boser/src/pages/Settings/Settings.tsx:688 /checksum/2tNXD4xU1Q
 msgctxt "UI"
 msgid "Save & Apply"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:559 /checksum/4E7MDP3+sf
+#: packages/boser/src/pages/Settings/Settings.tsx:692 /checksum/4E7MDP3+sf
 msgctxt "UI"
 msgid "Save changes & restart miner if needed."
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:1813
-#: packages/boser/src/pages/Settings/Settings.tsx:2239
-#: packages/boser/src/pages/Settings/Settings.tsx:2666
-#: packages/boser/src/pages/Settings/Settings.tsx:2996 /checksum/DMC0PZGHsG
+#: packages/boser/src/pages/Settings/Settings.tsx:1950
+#: packages/boser/src/pages/Settings/Settings.tsx:2377
+#: packages/boser/src/pages/Settings/Settings.tsx:2810
+#: packages/boser/src/pages/Settings/Settings.tsx:3140
+#: packages/boser/src/pages/Settings/Settings.tsx:3249 /checksum/DMC0PZGHsG
 msgctxt "UI"
 msgid "{title} Configuration"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2430 /checksum/E/0wMau5XV
+#: packages/boser/src/pages/Settings/Settings.tsx:2568 /checksum/E/0wMau5XV
 msgctxt "UI"
 msgid "Global Hash Chain Configuration"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2491 /checksum/OZTDqs4W+A
+#: packages/boser/src/pages/Settings/Settings.tsx:2629 /checksum/OZTDqs4W+A
 msgctxt "UI"
 msgid "Override Global Hash Chain Configuration"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2921
-#: packages/boser/src/pages/Settings/Settings.tsx:3065 /checksum/8M5qzEvpp2
+#: packages/boser/src/pages/Settings/Settings.tsx:3065
+#: packages/boser/src/pages/Settings/Settings.tsx:3209 /checksum/8M5qzEvpp2
 msgctxt "UI"
 msgid "Name"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2927
-#: packages/boser/src/pages/Settings/Settings.tsx:3073 /checksum/AOQi/+Qf1+
+#: packages/boser/src/pages/Settings/Settings.tsx:3071
+#: packages/boser/src/pages/Settings/Settings.tsx:3217 /checksum/AOQi/+Qf1+
 msgctxt "UI"
 msgid "Command"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2959 /checksum/+O5wkA9hxB
+#: packages/boser/src/pages/Settings/Settings.tsx:3103 /checksum/+O5wkA9hxB
 msgctxt "UI"
 msgid "Run Action"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2968 /checksum/wD9CCsmFus
+#: packages/boser/src/pages/Settings/Settings.tsx:3112 /checksum/wD9CCsmFus
 msgctxt "UI"
 msgid "Edit Action"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2977 /checksum/ap8ezx0r3e
+#: packages/boser/src/pages/Settings/Settings.tsx:3121 /checksum/ap8ezx0r3e
 msgctxt "UI"
 msgid "Delete Action"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:2999 /checksum/jwQnvkjBbe
+#: packages/boser/src/pages/Settings/Settings.tsx:3143 /checksum/jwQnvkjBbe
 msgctxt "UI"
 msgid "System Commands"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:3024 /checksum/9BogjkZwqY
+#: packages/boser/src/pages/Settings/Settings.tsx:3168 /checksum/9BogjkZwqY
 msgctxt "UI"
 msgid "Custom Commands"
 msgstr ""
 
-#: packages/boser/src/pages/Settings/Settings.tsx:3039 /checksum/RJqp5ULylT
+#: packages/boser/src/pages/Settings/Settings.tsx:3183 /checksum/RJqp5ULylT
 msgctxt "UI"
 msgid "No log messages yet…"
 msgstr ""
 
+#: packages/boser/src/pages/Root/Root.tsx:1163 /checksum/KzokuMFcaw
+msgctxt "UI"
+msgid "Invalid login response!"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:904 /checksum//uACcOzfn5
+msgctxt "UI"
+msgid "N/A"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1007 /checksum/MpMsvhhk3X
+msgctxt "UI"
+msgid "Efficiency"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1019
+#: packages/boser/src/pages/Settings/Settings.tsx:3240
+#: packages/boser/src/pages/Settings/Settings.tsx:3332 /checksum/cwbhtXnYq+
+msgctxt "UI"
+msgid "Braiins OS+ Manager"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1024 /checksum/SWDAe6zn55
+msgctxt "UI"
+msgid "Connected to {farmID}"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1031 /checksum/eR/aGyCpLK
+msgctxt "UI"
+msgid "Last configuration obtained {time} ago"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1088 /checksum/otyEaNjp/7
+msgctxt "UI"
+msgid "System Uptime"
+msgstr ""
+
+#: packages/boser/src/pages/Dashboard/Dashboard.tsx:1093 /checksum/tI8pnTsiF9
+msgctxt "UI"
+msgid "System Status"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3254 /checksum/HrxwJqx93z
+msgctxt "UI"
+msgid ""
+"Batch configure and monitor your devices conveniently over the internet with"
+" Braiins OS+ for free."
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3261 /checksum//MORD5I0xI
+msgctxt "UI"
+msgid ""
+"The platform is currently in the beta stage. Please use with caution and as "
+"always, scale responsibly!"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3268 /checksum/MG4lIFVWQ2
+msgctxt "UI"
+msgid "Enterprise Features"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3272 /checksum/482irpYJNW
+msgctxt "UI"
+msgid "Ready out of the box"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3273 /checksum/4btQUOYs9G
+msgctxt "UI"
+msgid ""
+"Every device using Braiins OS+ 21.04 or later can easily connect to the "
+"cloud-based platform."
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3280 /checksum/qfLjzcll5y
+msgctxt "UI"
+msgid "One-time setup"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3281 /checksum/E7kHBbVa01
+msgctxt "UI"
+msgid ""
+"Connect your devices to the platform once, manage them remotely forever."
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3285 /checksum/hQqITNBtwq
+msgctxt "UI"
+msgid "Efficient"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3286 /checksum/ql8v2SfNoU
+msgctxt "UI"
+msgid ""
+"The telemetry data are efficiently being sent over the next-gen Stratum V2 "
+"protocol, using the same channel as for dev fee collection."
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3293 /checksum/X133GlZ5EX
+msgctxt "UI"
+msgid "Encrypted and safe"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3294 /checksum/HEwJnZGR4k
+msgctxt "UI"
+msgid ""
+"All the config and telemetry data sent over the internet are encrypted, "
+"effectively stopping possible eavesdropping or man-in-the-middle attacks."
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3301 /checksum/fodJYlFrz3
+msgctxt "UI"
+msgid "How to Connect"
+msgstr ""
+
+#: packages/boser/src/pages/Settings/Settings.tsx:3380 /checksum/RK9QGcPCrp
+msgctxt "UI"
+msgid ""
+"Braiins OS+ Manager connection is active, many local settings have been "
+"disabled."
+msgstr ""
+
 #~ msgctxt "UI"
-#~ msgid "Reboot device"
+#~ msgid "Braiins | Bitcoin mining full stack company"
 #~ msgstr ""
 
 #~ msgctxt "UI"
-#~ msgid "Power Limit"
+#~ msgid "Bitcoin Mining Fullstack Company"
 #~ msgstr ""
 
 #~ msgctxt "UI"
-#~ msgid "Appr. Total Watts"
+#~ msgid ""
+#~ "Braiins OS+ Manager connection is active, local settings have been disabled."
 #~ msgstr ""
 
 #~ msgctxt "UI"
-#~ msgid "Global Hash Chain Settings"
+#~ msgid "Error"
 #~ msgstr ""
 
 #~ msgctxt "UI"
-#~ msgid "Override Global Hash Chain Settings"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Failed to load settings"
+#~ msgid "Effectivity"
 #~ msgstr ""
 
 #~ msgctxt "UI"
