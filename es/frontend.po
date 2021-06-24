@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2021-06-25 13:43+0000\n"
-"Last-Translator: Estarossa <lpusoldier14@gmail.com>\n"
+"Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-frontend/es/>\n"
 "Language: es\n"
@@ -20,7 +20,7 @@ msgstr "Página no Encontrada"
 #: packages/boser/src/pages/E404.tsx:10 /checksum/Dk+8tl62KG
 msgctxt "UI"
 msgid "We couldn't find the page or file you're looking for."
-msgstr ""
+msgstr "No pudimos encontrar la página que está buscando."
 
 #: packages/boser/src/components/StatusPage/StatusPage.tsx:49
 #: /checksum/3nCmoeStAW
@@ -36,22 +36,22 @@ msgstr "¡Ocurrió un error mientras se cargaba la página!"
 #: packages/boser/src/pages/Root/Root.tsx:661 /checksum/vlLD7ZTxZi
 msgctxt "UI"
 msgid "Device is unreachable!"
-msgstr ""
+msgstr "¡Dispositivo inalcanzable!"
 
 #: packages/boser/src/pages/Root/Root.tsx:772 /checksum/JJz6xGI8Qq
 msgctxt "UI"
 msgid "Reboot error!"
-msgstr ""
+msgstr "¡Error de reinicio!"
 
 #: packages/boser/src/pages/Root/Root.tsx:772 /checksum/R5Ch7DlpAH
 msgctxt "UI"
 msgid "Rebooting"
-msgstr ""
+msgstr "Reiniciando"
 
 #: packages/boser/src/pages/Root/Root.tsx:809 /checksum/WI6YRVTA/7
 msgctxt "UI"
 msgid "Get help"
-msgstr ""
+msgstr "Obtener ayuda"
 
 #: packages/boser/src/pages/Root/Root.tsx:814 /checksum/NQ9P0/+U9s
 msgctxt "UI"
@@ -69,12 +69,12 @@ msgstr "Cancelar"
 #: packages/boser/src/pages/Root/Root.tsx:830 /checksum/WZnIDgUEc4
 msgctxt "UI"
 msgid "<a>Submit a Support ticket</a>{br}(or send email to {email})"
-msgstr ""
+msgstr "<a>Enviar Ticket de soporte</a>{br}(o enviar correo a {email})"
 
 #: packages/boser/src/pages/Root/Root.tsx:977 /checksum/ISzLqSZMJH
 msgctxt "UI"
 msgid "Your session has expired. Please login again."
-msgstr ""
+msgstr "Su sesión ha expirado. Favor ingrese de nuevo."
 
 #: packages/boser/src/pages/Root/Root.tsx:1039 /checksum/mmKc43T7WX
 msgctxt "UI"
@@ -97,7 +97,7 @@ msgstr "Ajustes"
 #: packages/boser/src/pages/Root/Root.tsx:1134 /checksum/bnu0gS+6om
 msgctxt "UI"
 msgid "Required value!"
-msgstr ""
+msgstr "¡Valor requerido!"
 
 #: packages/boser/src/components/standalone/Login/Login.tsx:83
 #: packages/boser/src/pages/Settings/Settings.tsx:1418 /checksum/UMApAywi/y
@@ -114,33 +114,33 @@ msgstr "Contraseña"
 #: packages/boser/src/pages/Root/Root.tsx:1452 /checksum/CYAkeY00Qq
 msgctxt "UI"
 msgid "Open menu"
-msgstr ""
+msgstr "Menú abierto"
 
 #: packages/boser/src/pages/Root/Root.tsx:1468 /checksum//LSuT3WRuQ
 msgctxt "UI"
 msgid "profile menu"
-msgstr ""
+msgstr "menú de perfil"
 
 #: packages/boser/src/pages/Root/Root.tsx:1486
 #: packages/boser/src/pages/Root/Root.tsx:1494 /checksum/w21s46x9aH
 msgctxt "UI"
 msgid "Documentation"
-msgstr ""
+msgstr "Documentación"
 
 #: packages/boser/src/pages/Root/Root.tsx:248 /checksum/nDhVn1oJvX
 msgctxt "UI"
 msgid "Start BOSminer"
-msgstr ""
+msgstr "Iniciar BOSminer"
 
 #: packages/boser/src/pages/Root/Root.tsx:254 /checksum/7oLBsBE6BO
 msgctxt "UI"
 msgid "Stop BOSminer"
-msgstr ""
+msgstr "Detener BOSminer"
 
 #: packages/boser/src/pages/Root/Root.tsx:242 /checksum/d+nFKBWX5d
 msgctxt "UI"
 msgid "Restart BOSminer"
-msgstr ""
+msgstr "Reiniciar BOSminer"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:978 /checksum/URX7pTSzY1
 msgctxt "UI"
@@ -163,54 +163,54 @@ msgstr "Deshabilitado"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:753 /checksum/rGh6T8gPti
 msgctxt "UI"
 msgid "Running"
-msgstr ""
+msgstr "Corriendo"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:757 /checksum/uXQCP5acYr
 msgctxt "UI"
 msgid "Stable"
-msgstr ""
+msgstr "Estable"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:359
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:988 /checksum/Ua8wzWenph
 msgctxt "UI"
 msgid "Real Hashrate"
-msgstr ""
+msgstr "Tasa de hash real"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:369
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:535 /checksum/QbuuYC3zT6
 msgctxt "UI"
 msgid "Temperature"
-msgstr ""
+msgstr "Temperatura"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:417 /checksum/4iL8GttnT8
 msgctxt "UI"
 msgid "Nominal Average Hashrate"
-msgstr ""
+msgstr "Tasa de hash Media Nominal"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:427 /checksum/C6PaEVEbQr
 msgctxt "UI"
 msgid "{id} Real Hashrate"
-msgstr ""
+msgstr "{id} Tasa de hash Real"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:471 /checksum/SGPQi/vIm2
 msgctxt "UI"
 msgid "Target"
-msgstr ""
+msgstr "Objetivo"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:472 /checksum/1qs1sqvedY
 msgctxt "UI"
 msgid "Hot"
-msgstr ""
+msgstr "Caliente"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:473 /checksum/p3n1GlA2rf
 msgctxt "UI"
 msgid "Dangerous"
-msgstr ""
+msgstr "Peligrosa"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:533 /checksum/laId6n5bj6
 msgctxt "UI"
 msgid "Overall Status"
-msgstr ""
+msgstr "Estado General"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:196
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:534 /checksum/KwuybsWn+f
@@ -222,23 +222,23 @@ msgstr "Tasa de hash"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:775 /checksum/LlgQaskXjK
 msgctxt "UI"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:557 /checksum/TaaCpByfgf
 msgctxt "UI"
 msgid "Real{br}Hashrate"
-msgstr ""
+msgstr "Tasa de hash{br}Real"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:562 /checksum/llOSf/xWp9
 msgctxt "UI"
 msgid "Nominal{br}Hashrate"
-msgstr ""
+msgstr "Tasa de hash{br}Nominal"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:567
 #: packages/boser/src/pages/Settings/Settings.tsx:2345 /checksum/1KObi88eX6
 msgctxt "UI"
 msgid "Voltage"
-msgstr ""
+msgstr "Voltaje"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:572
 #: packages/boser/src/pages/Settings/Settings.tsx:2320
@@ -250,29 +250,29 @@ msgstr "Frecuencia"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:578 /checksum/PHTCjFEOEY
 msgctxt "UI"
 msgid "ASIC#"
-msgstr ""
+msgstr "ASIC#"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:583 /checksum/3C9D/knoS5
 msgctxt "UI"
 msgid "HW Error{br}Hashrate"
-msgstr ""
+msgstr "Tasa de hash{br}Error HW"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:642 /checksum/9R2KZWEjHA
 msgctxt "UI"
 msgid "Hash Boards"
-msgstr ""
+msgstr "Tarjetas Hash"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:666
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:946 /checksum/vBvHfOvuYV
 msgctxt "UI"
 msgid "Alive"
-msgstr ""
+msgstr "Activo"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:670
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:956 /checksum/KD83wub/U7
 msgctxt "UI"
 msgid "Dead"
-msgstr ""
+msgstr "Inactivo"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:682 /checksum/9PQ5DfQLsj
 msgctxt "UI"
@@ -301,100 +301,100 @@ msgstr "Activo"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1081 /checksum/OBxGNwxRuK
 msgctxt "UI"
 msgid "Accepted"
-msgstr ""
+msgstr "Aceptado"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:691
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1083 /checksum/7IuH7NFCQ4
 msgctxt "UI"
 msgid "Rejected"
-msgstr ""
+msgstr "Rechazado"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:692 /checksum/5uFjzlbzid
 msgctxt "UI"
 msgid "Stale"
-msgstr ""
+msgstr "Viejo"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:693 /checksum/i0AxsylYA9
 msgctxt "UI"
 msgid "Last Difficulty"
-msgstr ""
+msgstr "Última Dificultad"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:709 /checksum/Y7ap4TcIHX
 msgctxt "UI"
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:709 /checksum/ORONQigkHI
 msgctxt "UI"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:724
 #: packages/boser/src/pages/Settings/Settings.tsx:1711
 #: packages/boser/src/pages/Settings/Settings.tsx:3310 /checksum/wYtUJroRcc
 msgctxt "UI"
 msgid "Pools"
-msgstr ""
+msgstr "Pools"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:780 /checksum/sHlVTFJ2M9
 msgctxt "UI"
 msgid "Iteration"
-msgstr ""
+msgstr "Iteración"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:856 /checksum/PhsBNHnrXs
 msgctxt "UI"
 msgid "Tuner Status"
-msgstr ""
+msgstr "Estado de Ajuste"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1014 /checksum/Umbv6C4HNl
 msgctxt "UI"
 msgid "Pool Status"
-msgstr ""
+msgstr "Estado de Pool"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1039 /checksum/I7OKe/xP5o
 msgctxt "UI"
 msgid "Fan Monitor"
-msgstr ""
+msgstr "Monitor de Ventilador"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1075 /checksum/c5MOunW+1i
 msgctxt "UI"
 msgid "Rejection Ratio"
-msgstr ""
+msgstr "Tasa de Rechazo"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1078 /checksum/NtBIDAIMZH
 msgctxt "UI"
 msgid "Hashrate 1M"
-msgstr ""
+msgstr "Tasa de hash 1M"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1079 /checksum/Tz/XXN5S3z
 msgctxt "UI"
 msgid "Hashrate 15M"
-msgstr ""
+msgstr "Tasa de hash 15M"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1080 /checksum/kLRqZWW/Uy
 msgctxt "UI"
 msgid "Hashrate 24H"
-msgstr ""
+msgstr "Tasa de hash 24H"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1082 /checksum/nQjJ5yBHPK
 msgctxt "UI"
 msgid "Difficulty Accepted"
-msgstr ""
+msgstr "Dificultad Aceptada"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1084 /checksum/GOap/fcQ2G
 msgctxt "UI"
 msgid "Difficulty Rejected"
-msgstr ""
+msgstr "Dificultad Rechazada"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1200 /checksum/ObMNQOSIWm
 msgctxt "UI"
 msgid "Miner Overview"
-msgstr ""
+msgstr "Resumen del Minero"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:649 /checksum/tHbM+CnkW7
 msgctxt "UI"
 msgid "Error fetching metadata!"
-msgstr ""
+msgstr "¡Error obteniendo metadatos!"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:143
 #: packages/boser/src/pages/Root/Root.tsx:968
@@ -402,19 +402,19 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:249 /checksum/gPVm1gpE9r
 msgctxt "UI"
 msgid "Invalid reponse received!"
-msgstr ""
+msgstr "¡Respuesta inválida recibida!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:664
 #: packages/boser/src/pages/System/System.tsx:253 /checksum/+ozkGmJC0+
 msgctxt "UI"
 msgid "Changes saved"
-msgstr ""
+msgstr "Cambios guardados"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:673
 #: packages/boser/src/pages/System/System.tsx:324 /checksum/UB9Ih30unX
 msgctxt "UI"
 msgid "Submiting changes…"
-msgstr ""
+msgstr "Enviando cambios…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:681
 #: packages/boser/src/pages/Settings/Settings.tsx:1572
