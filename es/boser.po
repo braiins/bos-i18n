@@ -8,157 +8,171 @@ msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-17 14:38+0000\n"
-"PO-Revision-Date: 2021-05-05 15:55+0200\n"
-"Last-Translator: Libor Vasicek <libor.vasicek@braiins.cz>\n"
-"Language-Team: Spanish\n"
+"PO-Revision-Date: 2021-06-24 18:47+0000\n"
+"Last-Translator: Estarossa <lpusoldier14@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os-boser/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1-dev\n"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:139
 #: src/web/graphql/bosminer/configurator/performance.rs:141
 msgid "Hash chain settings is not supported"
-msgstr ""
+msgstr "La configuración de la cadena de hash no es compatible"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:142
 msgid "Autotuning is not supported"
-msgstr ""
+msgstr "El autoajuste no es compatible"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:145
 msgid "Power scaling is not supported"
-msgstr ""
+msgstr "El escalado de potencia no es compatible"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:148
 #: src/web/graphql/bosminer/configurator/performance.rs:152
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
 #: src/web/graphql/bosminer/configurator.rs:603
 msgid "Invalid input values!"
-msgstr ""
+msgstr "¡Valores de entrada no válidos!"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:154
 msgid "Invalid PSU power limit"
-msgstr ""
+msgstr "Límite de energía de PSU no válido"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:163
 msgid "Invalid power step in power scaling"
-msgstr ""
+msgstr "Paso de potencia no válido en escalamiento de potencia"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:170
 msgid "Invalid minimal PSU power limit"
-msgstr ""
+msgstr "Límite de potencia mínimo de PSU no válido"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:178
 msgid "Invalid shutdown duration in power scaling"
-msgstr ""
+msgstr "Duración de apagado no válida en escalado de energía"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:147
 msgid "ASIC Boost overriding is not supported"
-msgstr ""
+msgstr "No se admite la anulación de ASIC Boost"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:156
 msgid "Invalid global frequency"
-msgstr ""
+msgstr "Frecuencia global no válida"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:159
 msgid "Invalid global voltage"
-msgstr ""
+msgstr "Voltaje global no válido"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:187
 msgid "Invalid hash chain frequency"
-msgstr ""
+msgstr "Frecuencia de cadena hash no válida"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:193
 msgid "Invalid hash chain voltage"
-msgstr ""
+msgstr "Voltaje de cadena hash no válido"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:215
 msgid "Invalid hash chain name or hash chain order"
-msgstr ""
+msgstr "Nombre de cadena de hash u orden de cadena de hash no válido"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:125
 msgid "The {} cannot be set in '{}' mode"
-msgstr ""
+msgstr "El {} no se puede configurar en el modo '{}'"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:129
 msgid "Temperature control is not supported"
-msgstr ""
+msgstr "El control de temperatura no es compatible"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:132
 msgid "Fan control is not supported"
-msgstr ""
+msgstr "El control del ventilador no es compatible"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:154
+#, fuzzy
 msgid "fun speed"
-msgstr ""
+msgstr "Velocidad del ventilador"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:165
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:175
 msgid "target temperature"
-msgstr ""
+msgstr "temperatura objetivo"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:182
 msgid "hot temperature"
-msgstr ""
+msgstr "temperatura caliente"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:189
 msgid "dangerous temperature"
-msgstr ""
+msgstr "temperatura peligrosa"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:203
 msgid "Invalid target temperature"
-msgstr ""
+msgstr "Temperatura objetivo no válida"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:206
 msgid "Invalid hot temperature"
-msgstr ""
+msgstr "Temperatura caliente no válida"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:212
 msgid "Invalid dangerous temperature"
-msgstr ""
+msgstr "Temperatura peligrosa no válida"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:215
 msgid "Invalid fan speed"
-msgstr ""
+msgstr "Velocidad del ventilador no válida"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:218
 msgid "Invalid minimal number of fans"
-msgstr ""
+msgstr "Número mínimo de ventiladores no válido"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:243
+#, fuzzy
 msgid "Target temperature must be lower then hot and dangerous temperature"
 msgstr ""
+"La temperatura objetivo debe ser más baja que la temperatura caliente y "
+"peligrosa"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
+#, fuzzy
 msgid ""
 "Hot temperature must be higher then target and lower then dangerous "
 "temperature"
 msgstr ""
+"La temperatura caliente debe ser más alta que la objetivo y más baja que la "
+"temperatura peligrosa"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:258
+#, fuzzy
 msgid "Hot temperature must be lower then dangerous temperature"
-msgstr ""
+msgstr "La temperatura caliente debe ser más baja que la temperatura peligrosa"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:269
+#, fuzzy
 msgid "Dangerous temperature must be higher then target and hot temperature"
 msgstr ""
+"La temperatura peligrosa debe ser más alta que la temperatura objetivo y "
+"caliente"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:274
+#, fuzzy
 msgid "Dangerous temperature must be higher then hot temperature"
-msgstr ""
+msgstr "La temperatura peligrosa debe ser más alta que la temperatura caliente"
 
 #: src/web/graphql/bosminer/configurator.rs:344
 msgid "Missing pool with id '{}'!"
-msgstr ""
+msgstr "¡Falta el pool con id '{}'!"
 
 #: src/web/graphql/bosminer/configurator.rs:503
 msgid "Missing group with id '{}'"
-msgstr ""
+msgstr "Falta el grupo con el ID '{}'"
 
 #: src/web/graphql/bosminer/configurator.rs:536
 msgid "Ambiguous attributes for 'strategy'"
-msgstr ""
+msgstr "Atributos ambiguos para 'estrategia'"
 
 #: src/web/graphql/bosminer/configurator.rs:544
 msgid "Duplicate use of the identifier '{}'"
