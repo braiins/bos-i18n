@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-25 15:42+0000\n"
 "PO-Revision-Date: 2021-06-26 09:34+0000\n"
-"Last-Translator: Estarossa <lpusoldier14@gmail.com>\n"
+"Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-boser/es/>\n"
 "Language: es\n"
@@ -97,7 +97,6 @@ msgid "Fan control not supported"
 msgstr "El control del ventilador no es compatible"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:154
-#, fuzzy
 msgid "fun speed"
 msgstr "Velocidad del ventilador"
 
@@ -138,37 +137,28 @@ msgid "Invalid minimal number of fans"
 msgstr "Número mínimo de ventiladores no válido"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
-#, fuzzy
 msgid "Target temperature must be lower than Hot and Dangerous temperature"
-msgstr ""
-"La temperatura objetivo debe ser más baja que la temperatura caliente y "
-"peligrosa"
+msgstr "La temperatura objetivo debe ser menor que la caliente y la peligrosa"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:261
-#, fuzzy
 msgid ""
 "Hot temperature must be higher than Target and lower than Dangerous "
 "temperature"
 msgstr ""
-"La temperatura caliente debe ser más alta que la objetivo y más baja que la "
-"temperatura peligrosa"
+"La temperatura caliente debe ser mayor que la objetivo y menor que la "
+"peligrosa"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:267
-#, fuzzy
 msgid "Hot temperature must be lower than Dangerous temperature"
-msgstr "La temperatura caliente debe ser más baja que la temperatura peligrosa"
+msgstr "La temperatura caliente debe ser menor que la peligrosa"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:278
-#, fuzzy
 msgid "Dangerous temperature must be higher than Target and Hot temperature"
-msgstr ""
-"La temperatura peligrosa debe ser más alta que la temperatura objetivo y "
-"caliente"
+msgstr "La temperatura peligrosa debe ser mayor que la objetivo y la caliente"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:283
-#, fuzzy
 msgid "Dangerous temperature must be Higher than Hot temperature"
-msgstr "La temperatura peligrosa debe ser más alta que la temperatura caliente"
+msgstr "La temperatura peligrosa debe ser mayor que la caliente"
 
 #: src/web/graphql/bosminer/configurator.rs:344
 msgid "Missing pool with id '{}'!"
@@ -184,19 +174,19 @@ msgstr "Atributos ambiguos para 'estrategia'"
 
 #: src/web/graphql/bosminer/configurator.rs:544
 msgid "Duplicate use of the identifier '{}'"
-msgstr ""
+msgstr "Uso duplicado del identificador '{}'"
 
 #: src/web/graphql/bosminer/configurator.rs:563
 msgid "Missing mandatory attribute 'name'"
-msgstr ""
+msgstr "Falta el atributo obligatorio 'name'"
 
 #: src/web/graphql/bosminer/configurator.rs:604
 msgid "Group name cannot be empty"
-msgstr ""
+msgstr "Nombre de grupo no puede quedar vacío"
 
 #: src/web/graphql/bosminer/configurator.rs:609
 msgid "Load balancing strategy cannot be empty!"
-msgstr ""
+msgstr "¡Estrategias de balanceo de carga no pueden quedar vacías!"
 
 #: src/web/graphql/bosminer/configurator.rs:614
 msgid "The sum of fixed share ratios {} exceeds 1"
@@ -220,27 +210,27 @@ msgstr ""
 
 #: src/web/graphql/bosminer/info.rs:102
 msgid "Testing performance profile"
-msgstr ""
+msgstr "Probando perfil de rendimiento"
 
 #: src/web/graphql/bosminer/info.rs:104
 msgid "Tuning individual chips"
-msgstr ""
+msgstr "Ajustando chips individuales"
 
 #: src/web/graphql/bosminer/info.rs:105
 msgid "Stable"
-msgstr ""
+msgstr "Estable"
 
 #: src/web/graphql/bosminer/info.rs:106
 msgid "Tuner not running"
-msgstr ""
+msgstr "Ajuste sin correr"
 
 #: src/web/graphql/bosminer/info.rs:108
 msgid "Running with fixed settings"
-msgstr ""
+msgstr "Corriendo con parámetros fijos"
 
 #: src/web/graphql/bosminer/info.rs:111
 msgid "Hashchain refused to start"
-msgstr ""
+msgstr "Cadena de hash rehusó iniciar"
 
 #: src/web/graphql/bosminer/info.rs:145
 msgid "Disabled"
@@ -260,15 +250,15 @@ msgstr ""
 
 #: src/web/graphql/bosminer/info.rs:740
 msgid "BOSminer is not running"
-msgstr ""
+msgstr "BOSminer no está corriendo"
 
 #: src/web/graphql/bosminer.rs:204
 msgid "Restart BOSminer to apply configuration changes!"
-msgstr ""
+msgstr "¡Reinicie BOSminer para aplicar cambios de configuración!"
 
 #: src/web/graphql/storage.rs:172
 msgid "Cannot save web data to persistent storage"
-msgstr ""
+msgstr "No puede salvar datos web a memoria persistente"
 
 #~ msgid "Invalid PSU power limit"
 #~ msgstr "Límite de energía de PSU no válido"
