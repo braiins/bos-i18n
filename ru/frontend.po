@@ -1,15 +1,17 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-24 11:29+0000\n"
-"Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/slushpool/braiins-os/ru/>\n"
+"PO-Revision-Date: 2021-06-25 13:43+0000\n"
+"Last-Translator: Iryna Bashkova <iryna.bashkova@braiins.cz>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os-frontend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.7.1-dev\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -19,7 +21,7 @@ msgstr "Страница не найдена"
 #: packages/boser/src/pages/E404.tsx:10 /checksum/Dk+8tl62KG
 msgctxt "UI"
 msgid "We couldn't find the page or file you're looking for."
-msgstr ""
+msgstr "Мы не смогли найти нужную страницу или файл."
 
 #: packages/boser/src/components/StatusPage/StatusPage.tsx:49
 #: /checksum/3nCmoeStAW
@@ -35,22 +37,22 @@ msgstr "Произошла ошибка при загрузке страницы
 #: packages/boser/src/pages/Root/Root.tsx:661 /checksum/vlLD7ZTxZi
 msgctxt "UI"
 msgid "Device is unreachable!"
-msgstr ""
+msgstr "Устройство недоступно!"
 
 #: packages/boser/src/pages/Root/Root.tsx:772 /checksum/JJz6xGI8Qq
 msgctxt "UI"
 msgid "Reboot error!"
-msgstr ""
+msgstr "Ошибка перезагрузки!"
 
 #: packages/boser/src/pages/Root/Root.tsx:772 /checksum/R5Ch7DlpAH
 msgctxt "UI"
 msgid "Rebooting"
-msgstr ""
+msgstr "Перезагрузка"
 
 #: packages/boser/src/pages/Root/Root.tsx:809 /checksum/WI6YRVTA/7
 msgctxt "UI"
 msgid "Get help"
-msgstr ""
+msgstr "Помощь"
 
 #: packages/boser/src/pages/Root/Root.tsx:814 /checksum/NQ9P0/+U9s
 msgctxt "UI"
@@ -69,11 +71,13 @@ msgstr "Отмена"
 msgctxt "UI"
 msgid "<a>Submit a Support ticket</a>{br}(or send email to {email})"
 msgstr ""
+"<a>Отправьте заявку в службу поддержки</a>{br}(или отправьте электронное "
+"письмо на адрес {email})"
 
 #: packages/boser/src/pages/Root/Root.tsx:977 /checksum/ISzLqSZMJH
 msgctxt "UI"
 msgid "Your session has expired. Please login again."
-msgstr ""
+msgstr "Время сеанса истекло. Пожалуйста, войдите снова."
 
 #: packages/boser/src/pages/Root/Root.tsx:1039 /checksum/mmKc43T7WX
 msgctxt "UI"
@@ -96,7 +100,7 @@ msgstr "Настройки"
 #: packages/boser/src/pages/Root/Root.tsx:1134 /checksum/bnu0gS+6om
 msgctxt "UI"
 msgid "Required value!"
-msgstr ""
+msgstr "Обязательное значение!"
 
 #: packages/boser/src/components/standalone/Login/Login.tsx:83
 #: packages/boser/src/pages/Settings/Settings.tsx:1418 /checksum/UMApAywi/y
@@ -113,33 +117,33 @@ msgstr "Пароль"
 #: packages/boser/src/pages/Root/Root.tsx:1452 /checksum/CYAkeY00Qq
 msgctxt "UI"
 msgid "Open menu"
-msgstr ""
+msgstr "Открыть меню"
 
 #: packages/boser/src/pages/Root/Root.tsx:1468 /checksum//LSuT3WRuQ
 msgctxt "UI"
 msgid "profile menu"
-msgstr ""
+msgstr "меню профиля"
 
 #: packages/boser/src/pages/Root/Root.tsx:1486
 #: packages/boser/src/pages/Root/Root.tsx:1494 /checksum/w21s46x9aH
 msgctxt "UI"
 msgid "Documentation"
-msgstr ""
+msgstr "Документация"
 
 #: packages/boser/src/pages/Root/Root.tsx:248 /checksum/nDhVn1oJvX
 msgctxt "UI"
 msgid "Start BOSminer"
-msgstr ""
+msgstr "Запустить BOSminer"
 
 #: packages/boser/src/pages/Root/Root.tsx:254 /checksum/7oLBsBE6BO
 msgctxt "UI"
 msgid "Stop BOSminer"
-msgstr ""
+msgstr "Остановить BOSminer"
 
 #: packages/boser/src/pages/Root/Root.tsx:242 /checksum/d+nFKBWX5d
 msgctxt "UI"
 msgid "Restart BOSminer"
-msgstr ""
+msgstr "Перезапустить BOSminer"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:978 /checksum/URX7pTSzY1
 msgctxt "UI"
@@ -162,54 +166,54 @@ msgstr "Отключен"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:753 /checksum/rGh6T8gPti
 msgctxt "UI"
 msgid "Running"
-msgstr ""
+msgstr "В процессе"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:757 /checksum/uXQCP5acYr
 msgctxt "UI"
 msgid "Stable"
-msgstr ""
+msgstr "Стабильный"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:359
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:988 /checksum/Ua8wzWenph
 msgctxt "UI"
 msgid "Real Hashrate"
-msgstr ""
+msgstr "Реальный хешрейт"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:369
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:535 /checksum/QbuuYC3zT6
 msgctxt "UI"
 msgid "Temperature"
-msgstr ""
+msgstr "Температура"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:417 /checksum/4iL8GttnT8
 msgctxt "UI"
 msgid "Nominal Average Hashrate"
-msgstr ""
+msgstr "Средний номинальный хешрейт"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:427 /checksum/C6PaEVEbQr
 msgctxt "UI"
 msgid "{id} Real Hashrate"
-msgstr ""
+msgstr "{id} Реальный хешрейт"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:471 /checksum/SGPQi/vIm2
 msgctxt "UI"
 msgid "Target"
-msgstr ""
+msgstr "Целевая"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:472 /checksum/1qs1sqvedY
 msgctxt "UI"
 msgid "Hot"
-msgstr ""
+msgstr "Горячая"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:473 /checksum/p3n1GlA2rf
 msgctxt "UI"
 msgid "Dangerous"
-msgstr ""
+msgstr "Опасная"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:533 /checksum/laId6n5bj6
 msgctxt "UI"
 msgid "Overall Status"
-msgstr ""
+msgstr "Общий статус"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:196
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:534 /checksum/KwuybsWn+f
@@ -221,23 +225,23 @@ msgstr "Хешрейт"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:775 /checksum/LlgQaskXjK
 msgctxt "UI"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:557 /checksum/TaaCpByfgf
 msgctxt "UI"
 msgid "Real{br}Hashrate"
-msgstr ""
+msgstr "Реальный{br}хешрейт"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:562 /checksum/llOSf/xWp9
 msgctxt "UI"
 msgid "Nominal{br}Hashrate"
-msgstr ""
+msgstr "Номинальный{br}хешрейт"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:567
 #: packages/boser/src/pages/Settings/Settings.tsx:2345 /checksum/1KObi88eX6
 msgctxt "UI"
 msgid "Voltage"
-msgstr ""
+msgstr "Напряжение"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:572
 #: packages/boser/src/pages/Settings/Settings.tsx:2320
@@ -249,29 +253,29 @@ msgstr "Частота"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:578 /checksum/PHTCjFEOEY
 msgctxt "UI"
 msgid "ASIC#"
-msgstr ""
+msgstr "ASIC#"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:583 /checksum/3C9D/knoS5
 msgctxt "UI"
 msgid "HW Error{br}Hashrate"
-msgstr ""
+msgstr "HW Error{br}Хешрейт"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:642 /checksum/9R2KZWEjHA
 msgctxt "UI"
 msgid "Hash Boards"
-msgstr ""
+msgstr "Хеш-платы"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:666
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:946 /checksum/vBvHfOvuYV
 msgctxt "UI"
 msgid "Alive"
-msgstr ""
+msgstr "Активен"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:670
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:956 /checksum/KD83wub/U7
 msgctxt "UI"
 msgid "Dead"
-msgstr ""
+msgstr "Неактивен"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:682 /checksum/9PQ5DfQLsj
 msgctxt "UI"
@@ -300,100 +304,100 @@ msgstr "Активный"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1081 /checksum/OBxGNwxRuK
 msgctxt "UI"
 msgid "Accepted"
-msgstr ""
+msgstr "Принято"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:691
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1083 /checksum/7IuH7NFCQ4
 msgctxt "UI"
 msgid "Rejected"
-msgstr ""
+msgstr "Отклонено"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:692 /checksum/5uFjzlbzid
 msgctxt "UI"
 msgid "Stale"
-msgstr ""
+msgstr "Недействительные"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:693 /checksum/i0AxsylYA9
 msgctxt "UI"
 msgid "Last Difficulty"
-msgstr ""
+msgstr "Последняя сложность"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:709 /checksum/Y7ap4TcIHX
 msgctxt "UI"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:709 /checksum/ORONQigkHI
 msgctxt "UI"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:724
 #: packages/boser/src/pages/Settings/Settings.tsx:1711
 #: packages/boser/src/pages/Settings/Settings.tsx:3310 /checksum/wYtUJroRcc
 msgctxt "UI"
 msgid "Pools"
-msgstr ""
+msgstr "Пулы"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:780 /checksum/sHlVTFJ2M9
 msgctxt "UI"
 msgid "Iteration"
-msgstr ""
+msgstr "Итерация"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:856 /checksum/PhsBNHnrXs
 msgctxt "UI"
 msgid "Tuner Status"
-msgstr ""
+msgstr "Статус тюнера"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1014 /checksum/Umbv6C4HNl
 msgctxt "UI"
 msgid "Pool Status"
-msgstr ""
+msgstr "Статус пула"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1039 /checksum/I7OKe/xP5o
 msgctxt "UI"
 msgid "Fan Monitor"
-msgstr ""
+msgstr "Мониторинг вентиляторов"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1075 /checksum/c5MOunW+1i
 msgctxt "UI"
 msgid "Rejection Ratio"
-msgstr ""
+msgstr "Коэффициент отклонения"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1078 /checksum/NtBIDAIMZH
 msgctxt "UI"
 msgid "Hashrate 1M"
-msgstr ""
+msgstr "Хешрейт 1M"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1079 /checksum/Tz/XXN5S3z
 msgctxt "UI"
 msgid "Hashrate 15M"
-msgstr ""
+msgstr "Хешрейт 15М"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1080 /checksum/kLRqZWW/Uy
 msgctxt "UI"
 msgid "Hashrate 24H"
-msgstr ""
+msgstr "Хешрейт за 24Ч"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1082 /checksum/nQjJ5yBHPK
 msgctxt "UI"
 msgid "Difficulty Accepted"
-msgstr ""
+msgstr "Принятая сложность"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1084 /checksum/GOap/fcQ2G
 msgctxt "UI"
 msgid "Difficulty Rejected"
-msgstr ""
+msgstr "Отклоненная сложность"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1200 /checksum/ObMNQOSIWm
 msgctxt "UI"
 msgid "Miner Overview"
-msgstr ""
+msgstr "Обзор майнера"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:649 /checksum/tHbM+CnkW7
 msgctxt "UI"
 msgid "Error fetching metadata!"
-msgstr ""
+msgstr "Ошибка при получении метаданных!"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:143
 #: packages/boser/src/pages/Root/Root.tsx:968
@@ -401,19 +405,19 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:249 /checksum/gPVm1gpE9r
 msgctxt "UI"
 msgid "Invalid reponse received!"
-msgstr ""
+msgstr "Получен неверный ответ!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:664
 #: packages/boser/src/pages/System/System.tsx:253 /checksum/+ozkGmJC0+
 msgctxt "UI"
 msgid "Changes saved"
-msgstr ""
+msgstr "Изменения сохранены"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:673
 #: packages/boser/src/pages/System/System.tsx:324 /checksum/UB9Ih30unX
 msgctxt "UI"
 msgid "Submiting changes…"
-msgstr ""
+msgstr "Отправка изменений…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:681
 #: packages/boser/src/pages/Settings/Settings.tsx:1572
@@ -428,26 +432,28 @@ msgid ""
 "No pool for saving found! Probably an invalid combination of group ID & Pool"
 " ID"
 msgstr ""
+"Пул для сохранения не найден! Вероятно, неверная комбинация ID группы и ID "
+"пула"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:864 /checksum/WmfyW/UelX
 msgctxt "UI"
 msgid "Pool \"{url}\" Added"
-msgstr ""
+msgstr "Пул \"{url}\" добавлен"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1232 /checksum/F7rzHr4TBU
 msgctxt "UI"
 msgid "Pool Moved"
-msgstr ""
+msgstr "Пул перемещен"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1374 /checksum/u1Ln9Oss+6
 msgctxt "UI"
 msgid "Duplicate names: {names}"
-msgstr ""
+msgstr "Повторяющиеся имена: {names}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1417 /checksum/8VAHSSn7+5
 msgctxt "UI"
 msgid "Pool URL"
-msgstr ""
+msgstr "URL пула"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1420
 #: packages/boser/src/pages/Settings/Settings.tsx:1735
@@ -463,22 +469,22 @@ msgstr "Действия"
 #: packages/boser/src/pages/Settings/Settings.tsx:1497 /checksum/Jyp8+YDWdi
 msgctxt "UI"
 msgid "Saving changes…"
-msgstr ""
+msgstr "Сохранение изменений…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1555 /checksum/Mwh4OSe57n
 msgctxt "UI"
 msgid "Cancel Pool Creation"
-msgstr ""
+msgstr "Отменить создание пула"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1588 /checksum/T4EdQJ5Hik
 msgctxt "UI"
 msgid "Move Up"
-msgstr ""
+msgstr "Передвинуть вверх"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1598 /checksum/UyUe9sUfcX
 msgctxt "UI"
 msgid "Move Down"
-msgstr ""
+msgstr "Передвинуть вниз"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1609
 #: packages/boser/src/pages/Settings/Settings.tsx:1866 /checksum/mOQPUnzQyj
@@ -489,53 +495,53 @@ msgstr "Удалить"
 #: packages/boser/src/pages/Settings/Settings.tsx:1678 /checksum/9DC3+6PJeA
 msgctxt "UI"
 msgid "Quota: {value}"
-msgstr ""
+msgstr "Квота: {value}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1683 /checksum/kLS2qiLInM
 msgctxt "UI"
 msgid "Fixed Share Ratio: {value}"
-msgstr ""
+msgstr "Фиксированный коэффициент доли: {value}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1698 /checksum/FKc/oBeC4z
 msgctxt "UI"
 msgid "Add New Pool"
-msgstr ""
+msgstr "Добавить новый пул"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1712 /checksum/TKsdO1ZCTM
 msgctxt "UI"
 msgid "Pool Groups"
-msgstr ""
+msgstr "Группы пулов"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1732 /checksum/6s3JTItf+9
 msgctxt "UI"
 msgid "Group Name"
-msgstr ""
+msgstr "Имя группы"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1733
 #: packages/boser/src/pages/Settings/Settings.tsx:2818 /checksum/JBNGeL8E9f
 msgctxt "UI"
 msgid "Mode"
-msgstr ""
+msgstr "Режим"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1734 /checksum/MHJKan1fxa
 msgctxt "UI"
 msgid "Value"
-msgstr ""
+msgstr "Значение"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1815 /checksum/Gs7aU0IDK3
 msgctxt "UI"
 msgid "Quota"
-msgstr ""
+msgstr "Квота"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1818 /checksum/B5HHuJeRBo
 msgctxt "UI"
 msgid "Fixed Share Ratio"
-msgstr ""
+msgstr "Фиксированный коэффициент доли"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1853 /checksum/rQWw/NnpNN
 msgctxt "UI"
 msgid "Cancel Removal"
-msgstr ""
+msgstr "Отменить удаление"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1921 /checksum/xl692sCSZQ
 msgctxt "UI"
@@ -545,12 +551,12 @@ msgstr "Сохранить изменения"
 #: packages/boser/src/pages/Settings/Settings.tsx:1935 /checksum/LUTg1L5u9u
 msgctxt "UI"
 msgid "No groups yet…"
-msgstr ""
+msgstr "Групп пока нет…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1945 /checksum/HJVKG30W0C
 msgctxt "UI"
 msgid "Add New Group"
-msgstr ""
+msgstr "Добавить новую группу"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1947 /checksum/fDfAhk+6Iv
 msgctxt "UI"
@@ -564,85 +570,85 @@ msgstr "Сохранение…"
 #: packages/boser/src/pages/System/System.tsx:1046 /checksum/dxZiJKP6dx
 msgctxt "UI"
 msgid "{title} Settings"
-msgstr ""
+msgstr "{title} Настройки"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2236
 #: packages/boser/src/pages/Settings/Settings.tsx:3315 /checksum/XcM3y0zqT+
 msgctxt "UI"
 msgid "Performance"
-msgstr ""
+msgstr "Работа"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2310 /checksum/Bq4q2RDBzi
 msgctxt "UI"
 msgid "Enable Hashboard {name}"
-msgstr ""
+msgstr "Включить Hashboard {name}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2394 /checksum/Y+am5Yp1ex
 msgctxt "UI"
 msgid "Autotuning"
-msgstr ""
+msgstr "Автотюнинг"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2406 /checksum/A/68UrRtvm
 msgctxt "UI"
 msgid "Enable Autotuning"
-msgstr ""
+msgstr "Включить автотюнинг"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2410 /checksum/ELr3MkI4t4
 msgctxt "UI"
 msgid "PSU Power Limit (for all hashboards)"
-msgstr ""
+msgstr "Ограничение мощности БП (для всех хэшбордов)"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1011
 #: packages/boser/src/pages/Settings/Settings.tsx:2443 /checksum/q/JGTmnHz5
 msgctxt "UI"
 msgid "Dynamic Power Scaling"
-msgstr ""
+msgstr "Динамическое масштабирование мощности"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2452 /checksum/dTWY1dWvpE
 msgctxt "UI"
 msgid "Enable Dynamic Power Scaling"
-msgstr ""
+msgstr "Включить динамическое масштабирование мощности"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2487 /checksum/P0xdwgtFnA
 msgctxt "UI"
 msgid "Minimal PSU Power Limit"
-msgstr ""
+msgstr "Минимальный предел мощности БП"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2531 /checksum/YZ9WDwOtr+
 msgctxt "UI"
 msgid "Shutdown When Minimal PSU Power Limit is Reached"
-msgstr ""
+msgstr "Выключить при достижении минимального предела мощности блока питания"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2535 /checksum/jLtrVoarMe
 msgctxt "UI"
 msgid "Shutdown Duration"
-msgstr ""
+msgstr "Продолжительность выключения"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2561 /checksum/BPYXmgKNbW
 msgctxt "UI"
 msgid "Hours"
-msgstr ""
+msgstr "Час(а/ов)"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2804
 #: packages/boser/src/pages/Settings/Settings.tsx:3320 /checksum/GZH00sZURY
 msgctxt "UI"
 msgid "Temperature & Fans"
-msgstr ""
+msgstr "Температура и вентиляторы"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2814 /checksum//hxmhkmfOO
 msgctxt "UI"
 msgid "Temperature Control"
-msgstr ""
+msgstr "Контроль температуры"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2826 /checksum/VZZ5iZyMWK
 msgctxt "UI"
 msgid "Temperature Control Mode"
-msgstr ""
+msgstr "Режим контроля температуры"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2841 /checksum/YBpDY4Q3Mo
 msgctxt "UI"
 msgid "Understood"
-msgstr ""
+msgstr "Принято"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2848
 #: packages/boser/src/pages/System/System.tsx:451 /checksum/AfRegejHzO
@@ -653,42 +659,42 @@ msgstr "Авто"
 #: packages/boser/src/pages/Settings/Settings.tsx:2849 /checksum/nwcMk+oisr
 msgctxt "UI"
 msgid "Manual"
-msgstr ""
+msgstr "Ручной"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2862 /checksum/ngUotbg/9o
 msgctxt "UI"
 msgid "Target Temperature"
-msgstr ""
+msgstr "Целевая температура"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2893 /checksum/rO78UQpn89
 msgctxt "UI"
 msgid "Hot Temperature"
-msgstr ""
+msgstr "Горячая температура"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2924 /checksum/i3CO+1NiqB
 msgctxt "UI"
 msgid "Dangerous Temperature"
-msgstr ""
+msgstr "Опасная температура"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2955 /checksum/bvxtZg/iYt
 msgctxt "UI"
 msgid "Fan Control"
-msgstr ""
+msgstr "Управление вентиляторами"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2959 /checksum/spvsqjswya
 msgctxt "UI"
 msgid "Speed"
-msgstr ""
+msgstr "Скорость"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2993 /checksum/i63CruQTgB
 msgctxt "UI"
 msgid "Number of fans required for system to run."
-msgstr ""
+msgstr "Количество вентиляторов, необходимое для работы системы."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2997 /checksum/vucOFpS+4o
 msgctxt "UI"
 msgid "Use <strong>0 for immersion cooling</strong>."
-msgstr ""
+msgstr "Используйте <strong>0 для иммерсионного охлаждения</strong>."
 
 #: shared/charts/MultiLine/MultiLine.tsx:120 /checksum/AMBWvayRmY
 msgctxt "UI"
@@ -872,164 +878,164 @@ msgstr "Нет данных…"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:205 /checksum/bfoSyK7BVZ
 msgctxt "UI"
 msgid "Temperature [°C]"
-msgstr ""
+msgstr "Температура [°C]"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:246 /checksum/2xRmtV0C3E
 msgctxt "UI"
 msgid "Speed [%]"
-msgstr ""
+msgstr "Скорость [%]"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:645 /checksum/3QbPh156Lp
 msgctxt "UI"
 msgid "Configure Hash Boards"
-msgstr ""
+msgstr "Настроить хеш-платы"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:725 /checksum/W53swCvJSV
 msgctxt "UI"
 msgid "Edit Pools"
-msgstr ""
+msgstr "Редактировать пулы"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:857 /checksum/zQwnxNWdSp
 msgctxt "UI"
 msgid "Edit Performance"
-msgstr ""
+msgstr "Редактировать Работу"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1223 /checksum/CIdbaoSmIz
 msgctxt "UI"
 msgid "Default View"
-msgstr ""
+msgstr "Вид по умолчанию"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1228 /checksum/78lSyW3pq2
 msgctxt "UI"
 msgid "Compact View"
-msgstr ""
+msgstr "Компактный вид"
 
 #: packages/boser/src/pages/Root/Root.tsx:1110 /checksum/hKtPf5G2Fk
 msgctxt "UI"
 msgid "System"
-msgstr ""
+msgstr "Система"
 
 #: packages/boser/src/pages/Root/Root.tsx:1511 /checksum/9oc2ve6vcL
 msgctxt "UI"
 msgid "Quick Actions"
-msgstr ""
+msgstr "Быстрые действия"
 
 #: packages/boser/src/pages/System/System.tsx:425 /checksum/muaF9Al0Cz
 msgctxt "UI"
 msgid "Personal"
-msgstr ""
+msgstr "Личное"
 
 #: packages/boser/src/pages/System/System.tsx:426
 #: packages/boser/src/pages/System/System.tsx:1072 /checksum/ELNEVEcuq5
 msgctxt "UI"
 msgid "Change Password"
-msgstr ""
+msgstr "Изменить пароль"
 
 #: packages/boser/src/pages/System/System.tsx:440 /checksum/M+TAJXHcvY
 msgctxt "UI"
 msgid "Color Theme"
-msgstr ""
+msgstr "Цветовая тема"
 
 #: packages/boser/src/pages/System/System.tsx:452 /checksum/6kaaCthlHI
 msgctxt "UI"
 msgid "Dark"
-msgstr ""
+msgstr "Темная"
 
 #: packages/boser/src/pages/System/System.tsx:453 /checksum/SI8R9Qz3Qy
 msgctxt "UI"
 msgid "Light"
-msgstr ""
+msgstr "Светлая"
 
 #: packages/boser/src/pages/System/System.tsx:509
 #: packages/boser/src/pages/System/System.tsx:513 /checksum/cJ2lbra2o4
 msgctxt "UI"
 msgid "Current Password"
-msgstr ""
+msgstr "Текущий пароль"
 
 #: packages/boser/src/pages/System/System.tsx:529
 #: packages/boser/src/pages/System/System.tsx:533 /checksum/bgQK+TLYyY
 msgctxt "UI"
 msgid "New Password"
-msgstr ""
+msgstr "Новый пароль"
 
 #: packages/boser/src/pages/System/System.tsx:549
 #: packages/boser/src/pages/System/System.tsx:553 /checksum/Ew/98dkban
 msgctxt "UI"
 msgid "Repeat New Password"
-msgstr ""
+msgstr "Повторите новый пароль"
 
 #: packages/boser/src/pages/System/System.tsx:610 /checksum/0qw8bLcUo+
 msgctxt "UI"
 msgid "Hostname"
-msgstr ""
+msgstr "Имя хоста"
 
 #: packages/boser/src/pages/System/System.tsx:617 /checksum/pPtQGDxScb
 msgctxt "UI"
 msgid "Protocol"
-msgstr ""
+msgstr "Протокол"
 
 #: packages/boser/src/pages/System/System.tsx:633 /checksum/Uy+QtbFTN6
 msgctxt "UI"
 msgid "IP Address"
-msgstr ""
+msgstr "Айпи адрес"
 
 #: packages/boser/src/pages/System/System.tsx:652 /checksum/RGEEiZn9SO
 msgctxt "UI"
 msgid "Netmask"
-msgstr ""
+msgstr "Маска сети"
 
 #: packages/boser/src/pages/System/System.tsx:671 /checksum/GrDFKuRJr6
 msgctxt "UI"
 msgid "Gateway"
-msgstr ""
+msgstr "Шлюз (Gateway)"
 
 #: packages/boser/src/pages/System/System.tsx:690 /checksum/lzLp4ElqUa
 msgctxt "UI"
 msgid "DNS Servers"
-msgstr ""
+msgstr "DNS-серверы"
 
 #: packages/boser/src/pages/System/System.tsx:691 /checksum/BT48x/PSfG
 msgctxt "UI"
 msgid "Comma separated values"
-msgstr ""
+msgstr "Значения, разделенные запятыми"
 
 #: packages/boser/src/pages/System/System.tsx:773 /checksum/Bz8BKhUk6c
 msgctxt "UI"
 msgid "Ping"
-msgstr ""
+msgstr "Пинг"
 
 #: packages/boser/src/pages/System/System.tsx:775 /checksum/QHymHw4Qn9
 msgctxt "UI"
 msgid "Pinging {target}"
-msgstr ""
+msgstr "Пинг {target}"
 
 #: packages/boser/src/pages/System/System.tsx:790
 #: packages/boser/src/pages/System/System.tsx:807 /checksum/7P11akNbrc
 msgctxt "UI"
 msgid "Traceroute"
-msgstr ""
+msgstr "Traceroute"
 
 #: packages/boser/src/pages/System/System.tsx:792 /checksum/DfdsDQ6xaQ
 msgctxt "UI"
 msgid "Tracerouting {target}"
-msgstr ""
+msgstr "Tracerouting {target}"
 
 #: packages/boser/src/pages/System/System.tsx:809 /checksum/0yqNduEU3L
 msgctxt "UI"
 msgid "Looking up {target}"
-msgstr ""
+msgstr "Поиск {target}"
 
 #: packages/boser/src/pages/System/System.tsx:827
 #: packages/boser/src/pages/System/System.tsx:1076
 #: packages/boser/src/pages/System/System.tsx:1077 /checksum/TFOwsqD2M5
 msgctxt "UI"
 msgid "Network"
-msgstr ""
+msgstr "Сеть"
 
 #: packages/boser/src/pages/System/System.tsx:846 /checksum/SLv7iooY3y
 msgctxt "UI"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Диагностика"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3179
 #: packages/boser/src/pages/System/System.tsx:863
@@ -1038,12 +1044,12 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:1080 /checksum/jeX/hNle4b
 msgctxt "UI"
 msgid "Log"
-msgstr ""
+msgstr "Лог"
 
 #: packages/boser/src/pages/System/System.tsx:888 /checksum/ywHyF9SM71
 msgctxt "UI"
 msgid "Flash New Firmware Image"
-msgstr ""
+msgstr "Прошить новый образ прошивки"
 
 #: packages/boser/src/pages/System/System.tsx:891 /checksum/Sc0f4hE3RH
 msgctxt "UI"
@@ -1052,38 +1058,41 @@ msgid ""
 "firmware.{br}Check \"Keep settings\" to retain the current configuration "
 "(requires a compatible firmware image)."
 msgstr ""
+"Загрузите сюда образ, совместимый с sysupgrade, чтобы заменить работающую "
+"прошивку.{br}Установите флажок «Сохранить настройки», чтобы сохранить "
+"текущую конфигурацию (требуется совместимый образ прошивки)."
 
 #: packages/boser/src/pages/System/System.tsx:903 /checksum/HhJPMWHFsh
 msgctxt "UI"
 msgid "Keep Settings"
-msgstr ""
+msgstr "Сохранить настройки"
 
 #: packages/boser/src/pages/System/System.tsx:908
 #: packages/boser/src/pages/System/System.tsx:967 /checksum/Mdv907pyN1
 msgctxt "UI"
 msgid "Choose File"
-msgstr ""
+msgstr "Выбрать файл"
 
 #: packages/boser/src/pages/System/System.tsx:913
 #: packages/boser/src/pages/System/System.tsx:972 /checksum/AToGojMl6i
 msgctxt "UI"
 msgid "Clear file"
-msgstr ""
+msgstr "Удалить файл"
 
 #: packages/boser/src/pages/System/System.tsx:927 /checksum/A6nxkpy6YZ
 msgctxt "UI"
 msgid "Flash Image"
-msgstr ""
+msgstr "Прошить образ"
 
 #: packages/boser/src/pages/System/System.tsx:931 /checksum/M57hBgk9Tz
 msgctxt "UI"
 msgid "Backup / Restore"
-msgstr ""
+msgstr "Резервное копирование / Восстановление"
 
 #: packages/boser/src/pages/System/System.tsx:932 /checksum/S33FPpY0Aa
 msgctxt "UI"
 msgid "Download Backup:"
-msgstr ""
+msgstr "Скачать резервную копию:"
 
 #: packages/boser/src/pages/System/System.tsx:935 /checksum/Rb5vVz3Bz5
 msgctxt "UI"
@@ -1092,37 +1101,40 @@ msgid ""
 " current configuration files.{br}To reset the firmware to its initial state,"
 " click \"Perform reset\" (only possible with squashfs images)."
 msgstr ""
+"Нажмите \"<strong>Создать архив</strong>\", чтобы загрузить tar-архив с "
+"текущими файлами конфигурации.{br}Чтобы сбросить прошивку до исходного "
+"состояния, нажмите \"Выполнить сброс\" (возможно только с образами squashfs)."
 
 #: packages/boser/src/pages/System/System.tsx:949 /checksum/1QT3w2yBnS
 msgctxt "UI"
 msgid "Generate Archive"
-msgstr ""
+msgstr "Создать архив"
 
 #: packages/boser/src/pages/System/System.tsx:956 /checksum/2gSwpDnLtM
 msgctxt "UI"
 msgid "Restore Backup:"
-msgstr ""
+msgstr "Восстановить резервную копию:"
 
 #: packages/boser/src/pages/System/System.tsx:983 /checksum/G5kf0LdF6C
 msgctxt "UI"
 msgid "Upload Archive"
-msgstr ""
+msgstr "Загрузить архив"
 
 #: packages/boser/src/pages/System/System.tsx:988 /checksum/loTWykynay
 msgctxt "UI"
 msgid "Reset to Factory Settings"
-msgstr ""
+msgstr "Сброс до заводских настроек"
 
 #: packages/boser/src/pages/System/System.tsx:994 /checksum/VJ2+lVgrYE
 msgctxt "UI"
 msgid "Reset Settings"
-msgstr ""
+msgstr "Сбросить настройки"
 
 #: packages/boser/src/pages/Root/Root.tsx:1109
 #: packages/boser/src/pages/System/System.tsx:1023 /checksum/5BBIF6XGaw
 msgctxt "UI"
 msgid "Configuration"
-msgstr ""
+msgstr "Конфигурация"
 
 #: packages/boser/src/pages/System/System.tsx:1040
 #: packages/boser/src/pages/System/System.tsx:1056
@@ -1130,276 +1142,276 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:1086 /checksum/Wn3AZwruJJ
 msgctxt "UI"
 msgid "Auto Upgrade"
-msgstr ""
+msgstr "Автоматическое обновление"
 
 #: packages/boser/src/pages/System/System.tsx:1057 /checksum/8lnFStJQyT
 msgctxt "UI"
 msgid "Enabled"
-msgstr ""
+msgstr "Включено"
 
 #: packages/boser/src/pages/System/System.tsx:1082
 #: packages/boser/src/pages/System/System.tsx:1083 /checksum/lEXXuDtuML
 msgctxt "UI"
 msgid "Firmware Backup / Flash"
-msgstr ""
+msgstr "Бэкап прошивки / Прошить"
 
 #: packages/boser/src/components/standalone/Login/Login.tsx:64
 #: /checksum/GQtehkPHy9
 msgctxt "UI"
 msgid "Log In"
-msgstr ""
+msgstr "Войти"
 
 #: shared/components/DidCatch/DidCatch.tsx:96 /checksum/VyMUPIZMk2
 msgctxt "UI"
 msgid "Unknown Error"
-msgstr ""
+msgstr "Неизвестная ошибка"
 
 #: packages/boser/src/components/standalone/Dialog.tsx:93 /checksum/Sok43UbB+E
 msgctxt "UI"
 msgid "Warning"
-msgstr ""
+msgstr "Предупреждение"
 
 #: packages/boser/src/components/standalone/Dialog.tsx:185
 #: /checksum/WnkE2ijB8T
 msgctxt "UI"
 msgid "loading…"
-msgstr ""
+msgstr "загрузка…"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:87 /checksum/rGqkY6ibUF
 msgctxt "CAL"
 msgid "Su"
-msgstr ""
+msgstr "вс."
 
 #: shared/components/carbon/Calendar/Calendar.tsx:88 /checksum/WAJX6F7fZW
 msgctxt "CAL"
 msgid "Mo"
-msgstr ""
+msgstr "пн."
 
 #: shared/components/carbon/Calendar/Calendar.tsx:89 /checksum/ZtLN7yenBI
 msgctxt "CAL"
 msgid "Tu"
-msgstr ""
+msgstr "вт."
 
 #: shared/components/carbon/Calendar/Calendar.tsx:90 /checksum/rBV2mmglgr
 msgctxt "CAL"
 msgid "We"
-msgstr ""
+msgstr "ср."
 
 #: shared/components/carbon/Calendar/Calendar.tsx:91 /checksum/lKTE4Gh+QE
 msgctxt "CAL"
 msgid "Th"
-msgstr ""
+msgstr "чт."
 
 #: shared/components/carbon/Calendar/Calendar.tsx:92 /checksum/ddug3sAky2
 msgctxt "CAL"
 msgid "Fr"
-msgstr ""
+msgstr "пт."
 
 #: shared/components/carbon/Calendar/Calendar.tsx:93 /checksum/eVZtNdL8j3
 msgctxt "CAL"
 msgid "Sa"
-msgstr ""
+msgstr "сб."
 
 #: shared/components/carbon/Calendar/Calendar.tsx:96 /checksum/gOilVx3Uc1
 msgctxt "CAL"
 msgid "Sunday"
-msgstr ""
+msgstr "Воскресенье"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:97 /checksum/+UlQ33J7CS
 msgctxt "CAL"
 msgid "Monday"
-msgstr ""
+msgstr "Понедельник"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:98 /checksum/2oHC6NkSpU
 msgctxt "CAL"
 msgid "Tuesday"
-msgstr ""
+msgstr "Вторник"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:99 /checksum/cBnynGV1d+
 msgctxt "CAL"
 msgid "Wednesday"
-msgstr ""
+msgstr "Среда"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:100 /checksum//QCopXoo2U
 msgctxt "CAL"
 msgid "Thursday"
-msgstr ""
+msgstr "Четверг"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:101 /checksum/sMuXP/rsEv
 msgctxt "CAL"
 msgid "Friday"
-msgstr ""
+msgstr "Пятница"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:102 /checksum/1gEyjZCK1s
 msgctxt "CAL"
 msgid "Saturday"
-msgstr ""
+msgstr "Суббота"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:107 /checksum/8C/9aCuwIV
 msgctxt "CAL"
 msgid "Jan"
-msgstr ""
+msgstr "янв"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:108 /checksum/OdQTXNpHUh
 msgctxt "CAL"
 msgid "Feb"
-msgstr ""
+msgstr "фев"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:109 /checksum/GcWS+36AVW
 msgctxt "CAL"
 msgid "Mar"
-msgstr ""
+msgstr "мар"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:110 /checksum/yt+qrgmQ+S
 msgctxt "CAL"
 msgid "Apr"
-msgstr ""
+msgstr "апр"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:111
 #: shared/components/carbon/Calendar/Calendar.tsx:125 /checksum/hUG65KzFzP
 msgctxt "CAL"
 msgid "May"
-msgstr ""
+msgstr "май"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:112 /checksum/H4O+6BDV/M
 msgctxt "CAL"
 msgid "Jun"
-msgstr ""
+msgstr "июнь"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:113 /checksum/+fG6ufkF7j
 msgctxt "CAL"
 msgid "Jul"
-msgstr ""
+msgstr "июль"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:114 /checksum/cmjiPGmdSx
 msgctxt "CAL"
 msgid "Aug"
-msgstr ""
+msgstr "авг"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:115 /checksum/KzqexW1Otw
 msgctxt "CAL"
 msgid "Sep"
-msgstr ""
+msgstr "сен"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:116 /checksum/SDslPZhRoF
 msgctxt "CAL"
 msgid "Oct"
-msgstr ""
+msgstr "окт"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:117 /checksum/OK2OumiEGq
 msgctxt "CAL"
 msgid "Nov"
-msgstr ""
+msgstr "ноя"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:118 /checksum/3ol0rhhEJT
 msgctxt "CAL"
 msgid "Dec"
-msgstr ""
+msgstr "дек"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:121 /checksum/THc+ufvBHJ
 msgctxt "CAL"
 msgid "January"
-msgstr ""
+msgstr "Январь"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:122 /checksum/wleCey0htJ
 msgctxt "CAL"
 msgid "February"
-msgstr ""
+msgstr "Февраль"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:123 /checksum/R7dPr5ELwu
 msgctxt "CAL"
 msgid "March"
-msgstr ""
+msgstr "Март"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:124 /checksum/5+fXpyACUY
 msgctxt "CAL"
 msgid "April"
-msgstr ""
+msgstr "Апрель"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:126 /checksum/cTBXFqUBZZ
 msgctxt "CAL"
 msgid "June"
-msgstr ""
+msgstr "Июнь"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:127 /checksum/BtrYNWUQcD
 msgctxt "CAL"
 msgid "July"
-msgstr ""
+msgstr "Июль"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:128 /checksum/TLEpyjh+cm
 msgctxt "CAL"
 msgid "August"
-msgstr ""
+msgstr "Август"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:129 /checksum/83hPxjXxXn
 msgctxt "CAL"
 msgid "September"
-msgstr ""
+msgstr "Сентябрь"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:130 /checksum/mafgSxxlEG
 msgctxt "CAL"
 msgid "October"
-msgstr ""
+msgstr "Октябрь"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:131 /checksum//C8NaVpq5Y
 msgctxt "CAL"
 msgid "November"
-msgstr ""
+msgstr "Ноябрь"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:132 /checksum/9JVTCEZIN8
 msgctxt "CAL"
 msgid "December"
-msgstr ""
+msgstr "Декабрь"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:193 /checksum/SjZn2pSSEW
 msgctxt "UI"
 msgid "Today"
-msgstr ""
+msgstr "Сегодня"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:196 /checksum/atXk5quAyc
 msgctxt "UI"
 msgid "Yesterday"
-msgstr ""
+msgstr "Вчера"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:204 /checksum//8WXbamE8z
 msgctxt "UI"
 msgid "This Week"
-msgstr ""
+msgstr "На этой неделе"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:219 /checksum/3YK7E7SR3s
 msgctxt "UI"
 msgid "Last Week"
-msgstr ""
+msgstr "На прошлой неделе"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:234 /checksum/j8H6u1xYwy
 msgctxt "UI"
 msgid "This Month"
-msgstr ""
+msgstr "В этом месяце"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:246 /checksum/Yh5p1EuYEk
 msgctxt "UI"
 msgid "Last Month"
-msgstr ""
+msgstr "В прошлом месяце"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:286 /checksum/J1swR3mzbW
 msgctxt "UI"
 msgid "Failed to load the calendar widget"
-msgstr ""
+msgstr "Не удалось загрузить виджет календаря"
 
 #: shared/lib/layout/components/Layout.tsx:225 /checksum/NXzuN9vcvw
 msgctxt "UI"
 msgid "An error has occured!"
-msgstr ""
+msgstr "Произошла ошибка!"
 
 #: packages/boser/src/pages/Root/Root.tsx:275 /checksum/ird7S5HS0d
 msgctxt "UI"
 msgid "Unknown graphql client error!"
-msgstr ""
+msgstr "Неизвестная ошибка клиента graphql!"
 
 #: packages/boser/src/pages/Root/Root.tsx:447 /checksum/+jEJ3/473m
 msgctxt "UI"
 msgid "Invalid response for backend notifications!"
-msgstr ""
+msgstr "Неверный ответ на уведомления бэкенда!"
 
 #: packages/boser/src/pages/Root/Root.tsx:519 /checksum/2TXh5qbs+d
 msgctxt "UI"
