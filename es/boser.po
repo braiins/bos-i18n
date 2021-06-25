@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-25 15:42+0000\n"
-"PO-Revision-Date: 2021-06-24 18:47+0000\n"
+"PO-Revision-Date: 2021-06-26 09:34+0000\n"
 "Last-Translator: Estarossa <lpusoldier14@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-boser/es/>\n"
@@ -200,19 +200,23 @@ msgstr ""
 
 #: src/web/graphql/bosminer/configurator.rs:614
 msgid "The sum of fixed share ratios {} exceeds 1"
-msgstr ""
+msgstr "La suma de las proporciones de acciones fijas {} supera 1"
 
 #: src/web/graphql/bosminer/configurator.rs:620
 msgid ""
 "At least one group with quota must be present when sum of all fixed share "
 "ratios is less then 1!"
 msgstr ""
+"¡Al menos un grupo con cuota debe estar presente cuando la suma de todas las "
+"proporciones de participación fija es menor que 1!"
 
 #: src/web/graphql/bosminer/configurator.rs:626
 msgid ""
 "You cannot have any quota-based load balancing entries because sum of all "
 "fixed share ratios is 1!"
 msgstr ""
+"¡No puede tener entradas de equilibrio de carga basadas en cuotas porque la "
+"suma de todas las proporciones de participación fija es 1!"
 
 #: src/web/graphql/bosminer/info.rs:102
 msgid "Testing performance profile"
