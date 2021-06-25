@@ -429,8 +429,8 @@ msgid ""
 "No pool for saving found! Probably an invalid combination of group ID & Pool"
 " ID"
 msgstr ""
-"No se ha encontrado ningún pool para guardar. Probablemente una combinación "
-"no válida de ID de grupo e ID de pool"
+"¡Ningún pool encontrado para guardar! Posible combinación inválida grupo ID "
+"y pool ID"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:864 /checksum/WmfyW/UelX
 msgctxt "UI"
