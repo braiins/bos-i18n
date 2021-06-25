@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-24 11:29+0000\n"
-"Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/slushpool/braiins-os/zh_Hans/>\n"
+"PO-Revision-Date: 2021-06-25 13:43+0000\n"
+"Last-Translator: Jáchym Černý <jachym.cerny@braiins.cz>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"slushpool/braiins-os-frontend/zh_Hans/>\n"
 "Language: zh-hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.7.1-dev\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -19,7 +20,7 @@ msgstr "页面未找到"
 #: packages/boser/src/pages/E404.tsx:10 /checksum/Dk+8tl62KG
 msgctxt "UI"
 msgid "We couldn't find the page or file you're looking for."
-msgstr ""
+msgstr "无法找到您查找的页面或文件。"
 
 #: packages/boser/src/components/StatusPage/StatusPage.tsx:49
 #: /checksum/3nCmoeStAW
@@ -33,24 +34,26 @@ msgid "An error has occurred while loading the page!"
 msgstr "加载页面时发生错误！"
 
 #: packages/boser/src/pages/Root/Root.tsx:661 /checksum/vlLD7ZTxZi
+#, fuzzy
 msgctxt "UI"
 msgid "Device is unreachable!"
-msgstr ""
+msgstr "设备无法访问！"
 
 #: packages/boser/src/pages/Root/Root.tsx:772 /checksum/JJz6xGI8Qq
 msgctxt "UI"
 msgid "Reboot error!"
-msgstr ""
+msgstr "重启错误！"
 
 #: packages/boser/src/pages/Root/Root.tsx:772 /checksum/R5Ch7DlpAH
+#, fuzzy
 msgctxt "UI"
 msgid "Rebooting"
-msgstr ""
+msgstr "重启中"
 
 #: packages/boser/src/pages/Root/Root.tsx:809 /checksum/WI6YRVTA/7
 msgctxt "UI"
 msgid "Get help"
-msgstr ""
+msgstr "获得帮助"
 
 #: packages/boser/src/pages/Root/Root.tsx:814 /checksum/NQ9P0/+U9s
 msgctxt "UI"
@@ -66,14 +69,16 @@ msgid "Cancel"
 msgstr "取消"
 
 #: packages/boser/src/pages/Root/Root.tsx:830 /checksum/WZnIDgUEc4
+#, fuzzy
 msgctxt "UI"
 msgid "<a>Submit a Support ticket</a>{br}(or send email to {email})"
-msgstr ""
+msgstr "<a>提交客服工单</a>{br}(或者向{email}发送电子邮件)"
 
 #: packages/boser/src/pages/Root/Root.tsx:977 /checksum/ISzLqSZMJH
+#, fuzzy
 msgctxt "UI"
 msgid "Your session has expired. Please login again."
-msgstr ""
+msgstr "您的会话过期了。请重新登陆。"
 
 #: packages/boser/src/pages/Root/Root.tsx:1039 /checksum/mmKc43T7WX
 msgctxt "UI"
@@ -94,9 +99,10 @@ msgid "Settings"
 msgstr "设置"
 
 #: packages/boser/src/pages/Root/Root.tsx:1134 /checksum/bnu0gS+6om
+#, fuzzy
 msgctxt "UI"
 msgid "Required value!"
-msgstr ""
+msgstr "必填值！"
 
 #: packages/boser/src/components/standalone/Login/Login.tsx:83
 #: packages/boser/src/pages/Settings/Settings.tsx:1418 /checksum/UMApAywi/y
@@ -113,33 +119,34 @@ msgstr "密码"
 #: packages/boser/src/pages/Root/Root.tsx:1452 /checksum/CYAkeY00Qq
 msgctxt "UI"
 msgid "Open menu"
-msgstr ""
+msgstr "打开目录"
 
 #: packages/boser/src/pages/Root/Root.tsx:1468 /checksum//LSuT3WRuQ
+#, fuzzy
 msgctxt "UI"
 msgid "profile menu"
-msgstr ""
+msgstr "配置目录"
 
 #: packages/boser/src/pages/Root/Root.tsx:1486
 #: packages/boser/src/pages/Root/Root.tsx:1494 /checksum/w21s46x9aH
 msgctxt "UI"
 msgid "Documentation"
-msgstr ""
+msgstr "技术文档"
 
 #: packages/boser/src/pages/Root/Root.tsx:248 /checksum/nDhVn1oJvX
 msgctxt "UI"
 msgid "Start BOSminer"
-msgstr ""
+msgstr "启动BOSminer"
 
 #: packages/boser/src/pages/Root/Root.tsx:254 /checksum/7oLBsBE6BO
 msgctxt "UI"
 msgid "Stop BOSminer"
-msgstr ""
+msgstr "停止BOSminer"
 
 #: packages/boser/src/pages/Root/Root.tsx:242 /checksum/d+nFKBWX5d
 msgctxt "UI"
 msgid "Restart BOSminer"
-msgstr ""
+msgstr "重启BOSminer"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:978 /checksum/URX7pTSzY1
 msgctxt "UI"
@@ -160,56 +167,58 @@ msgid "Disabled"
 msgstr "已禁用"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:753 /checksum/rGh6T8gPti
+#, fuzzy
 msgctxt "UI"
 msgid "Running"
-msgstr ""
+msgstr "运行中"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:757 /checksum/uXQCP5acYr
+#, fuzzy
 msgctxt "UI"
 msgid "Stable"
-msgstr ""
+msgstr "稳定"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:359
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:988 /checksum/Ua8wzWenph
 msgctxt "UI"
 msgid "Real Hashrate"
-msgstr ""
+msgstr "实时算力"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:369
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:535 /checksum/QbuuYC3zT6
 msgctxt "UI"
 msgid "Temperature"
-msgstr ""
+msgstr "温度"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:417 /checksum/4iL8GttnT8
 msgctxt "UI"
 msgid "Nominal Average Hashrate"
-msgstr ""
+msgstr "平均名义算力"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:427 /checksum/C6PaEVEbQr
 msgctxt "UI"
 msgid "{id} Real Hashrate"
-msgstr ""
+msgstr "{id} 实时算力"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:471 /checksum/SGPQi/vIm2
 msgctxt "UI"
 msgid "Target"
-msgstr ""
+msgstr "目标温度"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:472 /checksum/1qs1sqvedY
 msgctxt "UI"
 msgid "Hot"
-msgstr ""
+msgstr "过热温度"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:473 /checksum/p3n1GlA2rf
 msgctxt "UI"
 msgid "Dangerous"
-msgstr ""
+msgstr "危险温度"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:533 /checksum/laId6n5bj6
 msgctxt "UI"
 msgid "Overall Status"
-msgstr ""
+msgstr "整体状态"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:196
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:534 /checksum/KwuybsWn+f
@@ -221,23 +230,23 @@ msgstr "算力"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:775 /checksum/LlgQaskXjK
 msgctxt "UI"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:557 /checksum/TaaCpByfgf
 msgctxt "UI"
 msgid "Real{br}Hashrate"
-msgstr ""
+msgstr "实时{br}算力"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:562 /checksum/llOSf/xWp9
 msgctxt "UI"
 msgid "Nominal{br}Hashrate"
-msgstr ""
+msgstr "名义{br}算力"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:567
 #: packages/boser/src/pages/Settings/Settings.tsx:2345 /checksum/1KObi88eX6
 msgctxt "UI"
 msgid "Voltage"
-msgstr ""
+msgstr "电压"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:572
 #: packages/boser/src/pages/Settings/Settings.tsx:2320
@@ -247,31 +256,34 @@ msgid "Frequency"
 msgstr "频率"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:578 /checksum/PHTCjFEOEY
+#, fuzzy
 msgctxt "UI"
 msgid "ASIC#"
-msgstr ""
+msgstr "ASIC#"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:583 /checksum/3C9D/knoS5
+#, fuzzy
 msgctxt "UI"
 msgid "HW Error{br}Hashrate"
-msgstr ""
+msgstr "硬件故障{br}算力损耗"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:642 /checksum/9R2KZWEjHA
+#, fuzzy
 msgctxt "UI"
 msgid "Hash Boards"
-msgstr ""
+msgstr "计算版"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:666
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:946 /checksum/vBvHfOvuYV
 msgctxt "UI"
 msgid "Alive"
-msgstr ""
+msgstr "在线"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:670
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:956 /checksum/KD83wub/U7
 msgctxt "UI"
 msgid "Dead"
-msgstr ""
+msgstr "离线"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:682 /checksum/9PQ5DfQLsj
 msgctxt "UI"
@@ -300,120 +312,124 @@ msgstr "活跃的"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1081 /checksum/OBxGNwxRuK
 msgctxt "UI"
 msgid "Accepted"
-msgstr ""
+msgstr "已接受份额"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:691
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1083 /checksum/7IuH7NFCQ4
 msgctxt "UI"
 msgid "Rejected"
-msgstr ""
+msgstr "已拒绝份额"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:692 /checksum/5uFjzlbzid
 msgctxt "UI"
 msgid "Stale"
-msgstr ""
+msgstr "已过时份额"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:693 /checksum/i0AxsylYA9
 msgctxt "UI"
 msgid "Last Difficulty"
-msgstr ""
+msgstr "最近难度"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:709 /checksum/Y7ap4TcIHX
 msgctxt "UI"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:709 /checksum/ORONQigkHI
 msgctxt "UI"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:724
 #: packages/boser/src/pages/Settings/Settings.tsx:1711
 #: packages/boser/src/pages/Settings/Settings.tsx:3310 /checksum/wYtUJroRcc
 msgctxt "UI"
 msgid "Pools"
-msgstr ""
+msgstr "矿池"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:780 /checksum/sHlVTFJ2M9
 msgctxt "UI"
 msgid "Iteration"
-msgstr ""
+msgstr "迭代次数"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:856 /checksum/PhsBNHnrXs
 msgctxt "UI"
 msgid "Tuner Status"
-msgstr ""
+msgstr "自动调整器状态"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1014 /checksum/Umbv6C4HNl
 msgctxt "UI"
 msgid "Pool Status"
-msgstr ""
+msgstr "矿池状态"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1039 /checksum/I7OKe/xP5o
 msgctxt "UI"
 msgid "Fan Monitor"
-msgstr ""
+msgstr "风扇监控"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1075 /checksum/c5MOunW+1i
 msgctxt "UI"
 msgid "Rejection Ratio"
-msgstr ""
+msgstr "拒绝率"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1078 /checksum/NtBIDAIMZH
 msgctxt "UI"
 msgid "Hashrate 1M"
-msgstr ""
+msgstr "每分钟算力"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1079 /checksum/Tz/XXN5S3z
 msgctxt "UI"
 msgid "Hashrate 15M"
-msgstr ""
+msgstr "每15分钟算力"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1080 /checksum/kLRqZWW/Uy
 msgctxt "UI"
 msgid "Hashrate 24H"
-msgstr ""
+msgstr "每24个小时算力"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1082 /checksum/nQjJ5yBHPK
 msgctxt "UI"
 msgid "Difficulty Accepted"
-msgstr ""
+msgstr "已接受难度"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1084 /checksum/GOap/fcQ2G
 msgctxt "UI"
 msgid "Difficulty Rejected"
-msgstr ""
+msgstr "已拒绝难度"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1200 /checksum/ObMNQOSIWm
 msgctxt "UI"
 msgid "Miner Overview"
-msgstr ""
+msgstr "矿机总览"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:649 /checksum/tHbM+CnkW7
+#, fuzzy
 msgctxt "UI"
 msgid "Error fetching metadata!"
-msgstr ""
+msgstr "获得元数据错误"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:143
 #: packages/boser/src/pages/Root/Root.tsx:968
 #: packages/boser/src/pages/Settings/Settings.tsx:660
 #: packages/boser/src/pages/System/System.tsx:249 /checksum/gPVm1gpE9r
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid reponse received!"
-msgstr ""
+msgstr "获得无效响应！"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:664
 #: packages/boser/src/pages/System/System.tsx:253 /checksum/+ozkGmJC0+
+#, fuzzy
 msgctxt "UI"
 msgid "Changes saved"
-msgstr ""
+msgstr "已保存变更"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:673
 #: packages/boser/src/pages/System/System.tsx:324 /checksum/UB9Ih30unX
+#, fuzzy
 msgctxt "UI"
 msgid "Submiting changes…"
-msgstr ""
+msgstr "提交变更…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:681
 #: packages/boser/src/pages/Settings/Settings.tsx:1572
@@ -430,9 +446,10 @@ msgid ""
 msgstr ""
 
 #: packages/boser/src/pages/Settings/Settings.tsx:864 /checksum/WmfyW/UelX
+#, fuzzy
 msgctxt "UI"
 msgid "Pool \"{url}\" Added"
-msgstr ""
+msgstr "已添加矿池\"{url}\""
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1232 /checksum/F7rzHr4TBU
 msgctxt "UI"
@@ -440,14 +457,15 @@ msgid "Pool Moved"
 msgstr ""
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1374 /checksum/u1Ln9Oss+6
+#, fuzzy
 msgctxt "UI"
 msgid "Duplicate names: {names}"
-msgstr ""
+msgstr "重复名称: {names}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1417 /checksum/8VAHSSn7+5
 msgctxt "UI"
 msgid "Pool URL"
-msgstr ""
+msgstr "矿池URL地址"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1420
 #: packages/boser/src/pages/Settings/Settings.tsx:1735
@@ -461,14 +479,16 @@ msgid "Actions"
 msgstr "活动"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1497 /checksum/Jyp8+YDWdi
+#, fuzzy
 msgctxt "UI"
 msgid "Saving changes…"
-msgstr ""
+msgstr "变更保存中…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1555 /checksum/Mwh4OSe57n
+#, fuzzy
 msgctxt "UI"
 msgid "Cancel Pool Creation"
-msgstr ""
+msgstr "取消矿池创建"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1588 /checksum/T4EdQJ5Hik
 msgctxt "UI"
@@ -487,55 +507,58 @@ msgid "Remove"
 msgstr "移除"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1678 /checksum/9DC3+6PJeA
+#, fuzzy
 msgctxt "UI"
 msgid "Quota: {value}"
-msgstr ""
+msgstr "配额: {value}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1683 /checksum/kLS2qiLInM
+#, fuzzy
 msgctxt "UI"
 msgid "Fixed Share Ratio: {value}"
-msgstr ""
+msgstr "基于固定百分比: {value}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1698 /checksum/FKc/oBeC4z
+#, fuzzy
 msgctxt "UI"
 msgid "Add New Pool"
-msgstr ""
+msgstr "添加新的矿池"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1712 /checksum/TKsdO1ZCTM
 msgctxt "UI"
 msgid "Pool Groups"
-msgstr ""
+msgstr "矿池组"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1732 /checksum/6s3JTItf+9
 msgctxt "UI"
 msgid "Group Name"
-msgstr ""
+msgstr "矿池组名"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1733
 #: packages/boser/src/pages/Settings/Settings.tsx:2818 /checksum/JBNGeL8E9f
 msgctxt "UI"
 msgid "Mode"
-msgstr ""
+msgstr "模式"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1734 /checksum/MHJKan1fxa
 msgctxt "UI"
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1815 /checksum/Gs7aU0IDK3
 msgctxt "UI"
 msgid "Quota"
-msgstr ""
+msgstr "配额"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1818 /checksum/B5HHuJeRBo
 msgctxt "UI"
 msgid "Fixed Share Ratio"
-msgstr ""
+msgstr "基于固定百分比"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1853 /checksum/rQWw/NnpNN
 msgctxt "UI"
 msgid "Cancel Removal"
-msgstr ""
+msgstr "取消移除"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1921 /checksum/xl692sCSZQ
 msgctxt "UI"
@@ -545,12 +568,12 @@ msgstr "保存变更"
 #: packages/boser/src/pages/Settings/Settings.tsx:1935 /checksum/LUTg1L5u9u
 msgctxt "UI"
 msgid "No groups yet…"
-msgstr ""
+msgstr "尚未有矿池组…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1945 /checksum/HJVKG30W0C
 msgctxt "UI"
 msgid "Add New Group"
-msgstr ""
+msgstr "添加新的矿池组"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1947 /checksum/fDfAhk+6Iv
 msgctxt "UI"
@@ -564,80 +587,81 @@ msgstr "保存中…"
 #: packages/boser/src/pages/System/System.tsx:1046 /checksum/dxZiJKP6dx
 msgctxt "UI"
 msgid "{title} Settings"
-msgstr ""
+msgstr "{title} 设置"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2236
 #: packages/boser/src/pages/Settings/Settings.tsx:3315 /checksum/XcM3y0zqT+
 msgctxt "UI"
 msgid "Performance"
-msgstr ""
+msgstr "性能"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2310 /checksum/Bq4q2RDBzi
 msgctxt "UI"
 msgid "Enable Hashboard {name}"
-msgstr ""
+msgstr "启用计算版 {name}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2394 /checksum/Y+am5Yp1ex
 msgctxt "UI"
 msgid "Autotuning"
-msgstr ""
+msgstr "自动调整"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2406 /checksum/A/68UrRtvm
 msgctxt "UI"
 msgid "Enable Autotuning"
-msgstr ""
+msgstr "启用自动调整"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2410 /checksum/ELr3MkI4t4
+#, fuzzy
 msgctxt "UI"
 msgid "PSU Power Limit (for all hashboards)"
-msgstr ""
+msgstr "电源功率限制（为所有的计算版)"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1011
 #: packages/boser/src/pages/Settings/Settings.tsx:2443 /checksum/q/JGTmnHz5
 msgctxt "UI"
 msgid "Dynamic Power Scaling"
-msgstr ""
+msgstr "动态功率调节"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2452 /checksum/dTWY1dWvpE
 msgctxt "UI"
 msgid "Enable Dynamic Power Scaling"
-msgstr ""
+msgstr "启用动态功率调节"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2487 /checksum/P0xdwgtFnA
 msgctxt "UI"
 msgid "Minimal PSU Power Limit"
-msgstr ""
+msgstr "最低电源功率限制"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2531 /checksum/YZ9WDwOtr+
 msgctxt "UI"
 msgid "Shutdown When Minimal PSU Power Limit is Reached"
-msgstr ""
+msgstr "到达最低功耗限值限值关机"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2535 /checksum/jLtrVoarMe
 msgctxt "UI"
 msgid "Shutdown Duration"
-msgstr ""
+msgstr "关闭时长"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2561 /checksum/BPYXmgKNbW
 msgctxt "UI"
 msgid "Hours"
-msgstr ""
+msgstr "小时"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2804
 #: packages/boser/src/pages/Settings/Settings.tsx:3320 /checksum/GZH00sZURY
 msgctxt "UI"
 msgid "Temperature & Fans"
-msgstr ""
+msgstr "温度和风扇"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2814 /checksum//hxmhkmfOO
 msgctxt "UI"
 msgid "Temperature Control"
-msgstr ""
+msgstr "温度控制"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2826 /checksum/VZZ5iZyMWK
 msgctxt "UI"
 msgid "Temperature Control Mode"
-msgstr ""
+msgstr "温度控制模式"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2841 /checksum/YBpDY4Q3Mo
 msgctxt "UI"
@@ -653,42 +677,43 @@ msgstr "自动"
 #: packages/boser/src/pages/Settings/Settings.tsx:2849 /checksum/nwcMk+oisr
 msgctxt "UI"
 msgid "Manual"
-msgstr ""
+msgstr "手动"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2862 /checksum/ngUotbg/9o
 msgctxt "UI"
 msgid "Target Temperature"
-msgstr ""
+msgstr "目标温度"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2893 /checksum/rO78UQpn89
 msgctxt "UI"
 msgid "Hot Temperature"
-msgstr ""
+msgstr "过热温度"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2924 /checksum/i3CO+1NiqB
 msgctxt "UI"
 msgid "Dangerous Temperature"
-msgstr ""
+msgstr "危险温度"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2955 /checksum/bvxtZg/iYt
 msgctxt "UI"
 msgid "Fan Control"
-msgstr ""
+msgstr "风扇控制"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2959 /checksum/spvsqjswya
 msgctxt "UI"
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2993 /checksum/i63CruQTgB
 msgctxt "UI"
 msgid "Number of fans required for system to run."
-msgstr ""
+msgstr "系统运行所需的风扇数量。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2997 /checksum/vucOFpS+4o
+#, fuzzy
 msgctxt "UI"
 msgid "Use <strong>0 for immersion cooling</strong>."
-msgstr ""
+msgstr "如采<strong>用液冷（浸没式冷却）<strong>请输入<strong>0<strong>。"
 
 #: shared/charts/MultiLine/MultiLine.tsx:120 /checksum/AMBWvayRmY
 msgctxt "UI"
@@ -867,121 +892,131 @@ msgstr "无数据…"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:205 /checksum/bfoSyK7BVZ
 msgctxt "UI"
 msgid "Temperature [°C]"
-msgstr ""
+msgstr "温度 [°C]"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:246 /checksum/2xRmtV0C3E
 msgctxt "UI"
 msgid "Speed [%]"
-msgstr ""
+msgstr "速度 [%]"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:645 /checksum/3QbPh156Lp
+#, fuzzy
 msgctxt "UI"
 msgid "Configure Hash Boards"
-msgstr ""
+msgstr "配置计算版"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:725 /checksum/W53swCvJSV
+#, fuzzy
 msgctxt "UI"
 msgid "Edit Pools"
-msgstr ""
+msgstr "编辑矿池"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:857 /checksum/zQwnxNWdSp
+#, fuzzy
 msgctxt "UI"
 msgid "Edit Performance"
-msgstr ""
+msgstr "编辑性能"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1223 /checksum/CIdbaoSmIz
 msgctxt "UI"
 msgid "Default View"
-msgstr ""
+msgstr "默认视图"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1228 /checksum/78lSyW3pq2
+#, fuzzy
 msgctxt "UI"
 msgid "Compact View"
-msgstr ""
+msgstr "简洁视图"
 
 #: packages/boser/src/pages/Root/Root.tsx:1110 /checksum/hKtPf5G2Fk
 msgctxt "UI"
 msgid "System"
-msgstr ""
+msgstr "系统"
 
 #: packages/boser/src/pages/Root/Root.tsx:1511 /checksum/9oc2ve6vcL
 msgctxt "UI"
 msgid "Quick Actions"
-msgstr ""
+msgstr "快速活动"
 
 #: packages/boser/src/pages/System/System.tsx:425 /checksum/muaF9Al0Cz
+#, fuzzy
 msgctxt "UI"
 msgid "Personal"
-msgstr ""
+msgstr "个人"
 
 #: packages/boser/src/pages/System/System.tsx:426
 #: packages/boser/src/pages/System/System.tsx:1072 /checksum/ELNEVEcuq5
 msgctxt "UI"
 msgid "Change Password"
-msgstr ""
+msgstr "更改密码"
 
 #: packages/boser/src/pages/System/System.tsx:440 /checksum/M+TAJXHcvY
 msgctxt "UI"
 msgid "Color Theme"
-msgstr ""
+msgstr "颜色主题"
 
 #: packages/boser/src/pages/System/System.tsx:452 /checksum/6kaaCthlHI
 msgctxt "UI"
 msgid "Dark"
-msgstr ""
+msgstr "暗"
 
 #: packages/boser/src/pages/System/System.tsx:453 /checksum/SI8R9Qz3Qy
+#, fuzzy
 msgctxt "UI"
 msgid "Light"
-msgstr ""
+msgstr "亮"
 
 #: packages/boser/src/pages/System/System.tsx:509
 #: packages/boser/src/pages/System/System.tsx:513 /checksum/cJ2lbra2o4
 msgctxt "UI"
 msgid "Current Password"
-msgstr ""
+msgstr "当前密码"
 
 #: packages/boser/src/pages/System/System.tsx:529
 #: packages/boser/src/pages/System/System.tsx:533 /checksum/bgQK+TLYyY
 msgctxt "UI"
 msgid "New Password"
-msgstr ""
+msgstr "新密码"
 
 #: packages/boser/src/pages/System/System.tsx:549
 #: packages/boser/src/pages/System/System.tsx:553 /checksum/Ew/98dkban
 msgctxt "UI"
 msgid "Repeat New Password"
-msgstr ""
+msgstr "重复输入新密码"
 
 #: packages/boser/src/pages/System/System.tsx:610 /checksum/0qw8bLcUo+
 msgctxt "UI"
 msgid "Hostname"
-msgstr ""
+msgstr "矿机名"
 
 #: packages/boser/src/pages/System/System.tsx:617 /checksum/pPtQGDxScb
+#, fuzzy
 msgctxt "UI"
 msgid "Protocol"
-msgstr ""
+msgstr "协议"
 
 #: packages/boser/src/pages/System/System.tsx:633 /checksum/Uy+QtbFTN6
 msgctxt "UI"
 msgid "IP Address"
-msgstr ""
+msgstr "IP地址"
 
 #: packages/boser/src/pages/System/System.tsx:652 /checksum/RGEEiZn9SO
+#, fuzzy
 msgctxt "UI"
 msgid "Netmask"
-msgstr ""
+msgstr "网络掩码"
 
 #: packages/boser/src/pages/System/System.tsx:671 /checksum/GrDFKuRJr6
+#, fuzzy
 msgctxt "UI"
 msgid "Gateway"
-msgstr ""
+msgstr "网关"
 
 #: packages/boser/src/pages/System/System.tsx:690 /checksum/lzLp4ElqUa
+#, fuzzy
 msgctxt "UI"
 msgid "DNS Servers"
-msgstr ""
+msgstr "DNS服务器"
 
 #: packages/boser/src/pages/System/System.tsx:691 /checksum/BT48x/PSfG
 msgctxt "UI"
@@ -989,14 +1024,16 @@ msgid "Comma separated values"
 msgstr ""
 
 #: packages/boser/src/pages/System/System.tsx:773 /checksum/Bz8BKhUk6c
+#, fuzzy
 msgctxt "UI"
 msgid "Ping"
-msgstr ""
+msgstr "Ping测试"
 
 #: packages/boser/src/pages/System/System.tsx:775 /checksum/QHymHw4Qn9
+#, fuzzy
 msgctxt "UI"
 msgid "Pinging {target}"
-msgstr ""
+msgstr "Ping测试中 {target}"
 
 #: packages/boser/src/pages/System/System.tsx:790
 #: packages/boser/src/pages/System/System.tsx:807 /checksum/7P11akNbrc
@@ -1019,7 +1056,7 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:1077 /checksum/TFOwsqD2M5
 msgctxt "UI"
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 #: packages/boser/src/pages/System/System.tsx:846 /checksum/SLv7iooY3y
 msgctxt "UI"
@@ -1033,12 +1070,13 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:1080 /checksum/jeX/hNle4b
 msgctxt "UI"
 msgid "Log"
-msgstr ""
+msgstr "日志"
 
 #: packages/boser/src/pages/System/System.tsx:888 /checksum/ywHyF9SM71
+#, fuzzy
 msgctxt "UI"
 msgid "Flash New Firmware Image"
-msgstr ""
+msgstr "刷入新固件映像"
 
 #: packages/boser/src/pages/System/System.tsx:891 /checksum/Sc0f4hE3RH
 msgctxt "UI"
@@ -1051,34 +1089,37 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:903 /checksum/HhJPMWHFsh
 msgctxt "UI"
 msgid "Keep Settings"
-msgstr ""
+msgstr "保留设置"
 
 #: packages/boser/src/pages/System/System.tsx:908
 #: packages/boser/src/pages/System/System.tsx:967 /checksum/Mdv907pyN1
+#, fuzzy
 msgctxt "UI"
 msgid "Choose File"
-msgstr ""
+msgstr "选择文件"
 
 #: packages/boser/src/pages/System/System.tsx:913
 #: packages/boser/src/pages/System/System.tsx:972 /checksum/AToGojMl6i
+#, fuzzy
 msgctxt "UI"
 msgid "Clear file"
-msgstr ""
+msgstr "清除文件"
 
 #: packages/boser/src/pages/System/System.tsx:927 /checksum/A6nxkpy6YZ
 msgctxt "UI"
 msgid "Flash Image"
-msgstr ""
+msgstr "刷入映像"
 
 #: packages/boser/src/pages/System/System.tsx:931 /checksum/M57hBgk9Tz
+#, fuzzy
 msgctxt "UI"
 msgid "Backup / Restore"
-msgstr ""
+msgstr "备份/恢复"
 
 #: packages/boser/src/pages/System/System.tsx:932 /checksum/S33FPpY0Aa
 msgctxt "UI"
 msgid "Download Backup:"
-msgstr ""
+msgstr "下载备份："
 
 #: packages/boser/src/pages/System/System.tsx:935 /checksum/Rb5vVz3Bz5
 msgctxt "UI"
@@ -1089,35 +1130,38 @@ msgid ""
 msgstr ""
 
 #: packages/boser/src/pages/System/System.tsx:949 /checksum/1QT3w2yBnS
+#, fuzzy
 msgctxt "UI"
 msgid "Generate Archive"
-msgstr ""
+msgstr "生成档案"
 
 #: packages/boser/src/pages/System/System.tsx:956 /checksum/2gSwpDnLtM
+#, fuzzy
 msgctxt "UI"
 msgid "Restore Backup:"
-msgstr ""
+msgstr "恢复备份"
 
 #: packages/boser/src/pages/System/System.tsx:983 /checksum/G5kf0LdF6C
+#, fuzzy
 msgctxt "UI"
 msgid "Upload Archive"
-msgstr ""
+msgstr "上次档案"
 
 #: packages/boser/src/pages/System/System.tsx:988 /checksum/loTWykynay
 msgctxt "UI"
 msgid "Reset to Factory Settings"
-msgstr ""
+msgstr "重置到原厂设置"
 
 #: packages/boser/src/pages/System/System.tsx:994 /checksum/VJ2+lVgrYE
 msgctxt "UI"
 msgid "Reset Settings"
-msgstr ""
+msgstr "重置设置"
 
 #: packages/boser/src/pages/Root/Root.tsx:1109
 #: packages/boser/src/pages/System/System.tsx:1023 /checksum/5BBIF6XGaw
 msgctxt "UI"
 msgid "Configuration"
-msgstr ""
+msgstr "配置"
 
 #: packages/boser/src/pages/System/System.tsx:1040
 #: packages/boser/src/pages/System/System.tsx:1056
@@ -1125,29 +1169,30 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:1086 /checksum/Wn3AZwruJJ
 msgctxt "UI"
 msgid "Auto Upgrade"
-msgstr ""
+msgstr "自动升级"
 
 #: packages/boser/src/pages/System/System.tsx:1057 /checksum/8lnFStJQyT
 msgctxt "UI"
 msgid "Enabled"
-msgstr ""
+msgstr "已启用"
 
 #: packages/boser/src/pages/System/System.tsx:1082
 #: packages/boser/src/pages/System/System.tsx:1083 /checksum/lEXXuDtuML
+#, fuzzy
 msgctxt "UI"
 msgid "Firmware Backup / Flash"
-msgstr ""
+msgstr "固件备份/刷入"
 
 #: packages/boser/src/components/standalone/Login/Login.tsx:64
 #: /checksum/GQtehkPHy9
 msgctxt "UI"
 msgid "Log In"
-msgstr ""
+msgstr "登录"
 
 #: shared/components/DidCatch/DidCatch.tsx:96 /checksum/VyMUPIZMk2
 msgctxt "UI"
 msgid "Unknown Error"
-msgstr ""
+msgstr "未知错误"
 
 #: packages/boser/src/components/standalone/Dialog.tsx:93 /checksum/Sok43UbB+E
 msgctxt "UI"
