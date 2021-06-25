@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-17 14:38+0000\n"
+"POT-Creation-Date: 2021-06-25 15:42+0000\n"
 "PO-Revision-Date: 2021-06-24 18:47+0000\n"
 "Last-Translator: Estarossa <lpusoldier14@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
@@ -24,58 +24,61 @@ msgstr ""
 msgid "Hash chain settings is not supported"
 msgstr "La configuración de la cadena de hash no es compatible"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:142
-msgid "Autotuning is not supported"
+#: src/web/graphql/bosminer/configurator/autotuning.rs:143
+#, fuzzy
+msgid "Autotuning not supported"
 msgstr "El autoajuste no es compatible"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:145
-msgid "Power scaling is not supported"
+#: src/web/graphql/bosminer/configurator/autotuning.rs:146
+#, fuzzy
+msgid "Power scaling not supported"
 msgstr "El escalado de potencia no es compatible"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:148
+#: src/web/graphql/bosminer/configurator/autotuning.rs:149
 #: src/web/graphql/bosminer/configurator/performance.rs:152
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
 #: src/web/graphql/bosminer/configurator.rs:603
 msgid "Invalid input values!"
 msgstr "¡Valores de entrada no válidos!"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:154
-msgid "Invalid PSU power limit"
-msgstr "Límite de energía de PSU no válido"
+#: src/web/graphql/bosminer/configurator/autotuning.rs:155
+msgid "PSU power limit is out of range"
+msgstr ""
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:163
-msgid "Invalid power step in power scaling"
-msgstr "Paso de potencia no válido en escalamiento de potencia"
+#: src/web/graphql/bosminer/configurator/autotuning.rs:165
+msgid "Decrease Power Limit value is out of range"
+msgstr ""
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:170
-msgid "Invalid minimal PSU power limit"
-msgstr "Límite de potencia mínimo de PSU no válido"
+#: src/web/graphql/bosminer/configurator/autotuning.rs:174
+msgid "Minimal PSU Power Limit value is out of range"
+msgstr ""
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:178
-msgid "Invalid shutdown duration in power scaling"
-msgstr "Duración de apagado no válida en escalado de energía"
+#: src/web/graphql/bosminer/configurator/autotuning.rs:183
+msgid "Shutdown Duration value is out of range"
+msgstr ""
 
 #: src/web/graphql/bosminer/configurator/performance.rs:147
-msgid "ASIC Boost overriding is not supported"
+#, fuzzy
+msgid "ASIC Boost override not supported"
 msgstr "No se admite la anulación de ASIC Boost"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:156
-msgid "Invalid global frequency"
-msgstr "Frecuencia global no válida"
+#: src/web/graphql/bosminer/configurator/performance.rs:158
+msgid "Global Frequency value is out of range"
+msgstr ""
 
-#: src/web/graphql/bosminer/configurator/performance.rs:159
-msgid "Invalid global voltage"
-msgstr "Voltaje global no válido"
+#: src/web/graphql/bosminer/configurator/performance.rs:162
+msgid "Global Voltage value is out of range"
+msgstr ""
 
-#: src/web/graphql/bosminer/configurator/performance.rs:187
-msgid "Invalid hash chain frequency"
-msgstr "Frecuencia de cadena hash no válida"
+#: src/web/graphql/bosminer/configurator/performance.rs:191
+msgid "Hash Chain Frequency value is out of range"
+msgstr ""
 
-#: src/web/graphql/bosminer/configurator/performance.rs:193
-msgid "Invalid hash chain voltage"
-msgstr "Voltaje de cadena hash no válido"
+#: src/web/graphql/bosminer/configurator/performance.rs:199
+msgid "Hash Chain Voltage value is out of range"
+msgstr ""
 
-#: src/web/graphql/bosminer/configurator/performance.rs:215
+#: src/web/graphql/bosminer/configurator/performance.rs:222
 msgid "Invalid hash chain name or hash chain order"
 msgstr "Nombre de cadena de hash u orden de cadena de hash no válido"
 
@@ -84,11 +87,13 @@ msgid "The {} cannot be set in '{}' mode"
 msgstr "El {} no se puede configurar en el modo '{}'"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:129
-msgid "Temperature control is not supported"
+#, fuzzy
+msgid "Temperature control not supported"
 msgstr "El control de temperatura no es compatible"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:132
-msgid "Fan control is not supported"
+#, fuzzy
+msgid "Fan control not supported"
 msgstr "El control del ventilador no es compatible"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:154
@@ -109,57 +114,60 @@ msgstr "temperatura caliente"
 msgid "dangerous temperature"
 msgstr "temperatura peligrosa"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:203
-msgid "Invalid target temperature"
-msgstr "Temperatura objetivo no válida"
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:205
+#, fuzzy
+msgid "Target temperature value is out of range"
+msgstr "El control de temperatura no es compatible"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:206
-msgid "Invalid hot temperature"
-msgstr "Temperatura caliente no válida"
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:211
+#, fuzzy
+msgid "Hot temperature value is out of range"
+msgstr "El control de temperatura no es compatible"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:212
-msgid "Invalid dangerous temperature"
-msgstr "Temperatura peligrosa no válida"
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:220
+#, fuzzy
+msgid "Dangerous temperature value is out of range"
+msgstr "La temperatura peligrosa debe ser más alta que la temperatura caliente"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:215
-msgid "Invalid fan speed"
-msgstr "Velocidad del ventilador no válida"
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:224
+msgid "Fan Speed value is out of range"
+msgstr ""
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:218
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:227
 msgid "Invalid minimal number of fans"
 msgstr "Número mínimo de ventiladores no válido"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:243
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
 #, fuzzy
-msgid "Target temperature must be lower then hot and dangerous temperature"
+msgid "Target temperature must be lower than Hot and Dangerous temperature"
 msgstr ""
 "La temperatura objetivo debe ser más baja que la temperatura caliente y "
 "peligrosa"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:261
 #, fuzzy
 msgid ""
-"Hot temperature must be higher then target and lower then dangerous "
+"Hot temperature must be higher than Target and lower than Dangerous "
 "temperature"
 msgstr ""
 "La temperatura caliente debe ser más alta que la objetivo y más baja que la "
 "temperatura peligrosa"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:258
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:267
 #, fuzzy
-msgid "Hot temperature must be lower then dangerous temperature"
+msgid "Hot temperature must be lower than Dangerous temperature"
 msgstr "La temperatura caliente debe ser más baja que la temperatura peligrosa"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:269
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:278
 #, fuzzy
-msgid "Dangerous temperature must be higher then target and hot temperature"
+msgid "Dangerous temperature must be higher than Target and Hot temperature"
 msgstr ""
 "La temperatura peligrosa debe ser más alta que la temperatura objetivo y "
 "caliente"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:274
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:283
 #, fuzzy
-msgid "Dangerous temperature must be higher then hot temperature"
+msgid "Dangerous temperature must be Higher than Hot temperature"
 msgstr "La temperatura peligrosa debe ser más alta que la temperatura caliente"
 
 #: src/web/graphql/bosminer/configurator.rs:344
@@ -187,7 +195,7 @@ msgid "Group name cannot be empty"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator.rs:609
-msgid "Load balancing strategies cannot be empty!"
+msgid "Load balancing strategy cannot be empty!"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator.rs:614
@@ -206,38 +214,90 @@ msgid ""
 "fixed share ratios is 1!"
 msgstr ""
 
-#: src/web/graphql/bosminer/info.rs:98
+#: src/web/graphql/bosminer/info.rs:102
 msgid "Testing performance profile"
 msgstr ""
 
-#: src/web/graphql/bosminer/info.rs:100
+#: src/web/graphql/bosminer/info.rs:104
 msgid "Tuning individual chips"
 msgstr ""
 
-#: src/web/graphql/bosminer/info.rs:101
+#: src/web/graphql/bosminer/info.rs:105
 msgid "Stable"
 msgstr ""
 
-#: src/web/graphql/bosminer/info.rs:102
+#: src/web/graphql/bosminer/info.rs:106
 msgid "Tuner not running"
 msgstr ""
 
-#: src/web/graphql/bosminer/info.rs:104
+#: src/web/graphql/bosminer/info.rs:108
 msgid "Running with fixed settings"
 msgstr ""
 
-#: src/web/graphql/bosminer/info.rs:107
+#: src/web/graphql/bosminer/info.rs:111
 msgid "Hashchain refused to start"
 msgstr ""
 
-#: src/web/graphql/bosminer/info.rs:648
+#: src/web/graphql/bosminer/info.rs:145
+msgid "Disabled"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:146
+msgid "Enabled"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:149
+msgid "Power limit lowered to {} W"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:156
+msgid "Mining shutdown, will start again in {}"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:740
 msgid "BOSminer is not running"
 msgstr ""
 
-#: src/web/graphql/bosminer.rs:192
+#: src/web/graphql/bosminer.rs:204
 msgid "Restart BOSminer to apply configuration changes!"
 msgstr ""
 
 #: src/web/graphql/storage.rs:172
 msgid "Cannot save web data to persistent storage"
 msgstr ""
+
+#~ msgid "Invalid PSU power limit"
+#~ msgstr "Límite de energía de PSU no válido"
+
+#~ msgid "Invalid power step in power scaling"
+#~ msgstr "Paso de potencia no válido en escalamiento de potencia"
+
+#~ msgid "Invalid minimal PSU power limit"
+#~ msgstr "Límite de potencia mínimo de PSU no válido"
+
+#~ msgid "Invalid shutdown duration in power scaling"
+#~ msgstr "Duración de apagado no válida en escalado de energía"
+
+#~ msgid "Invalid global frequency"
+#~ msgstr "Frecuencia global no válida"
+
+#~ msgid "Invalid global voltage"
+#~ msgstr "Voltaje global no válido"
+
+#~ msgid "Invalid hash chain frequency"
+#~ msgstr "Frecuencia de cadena hash no válida"
+
+#~ msgid "Invalid hash chain voltage"
+#~ msgstr "Voltaje de cadena hash no válido"
+
+#~ msgid "Invalid target temperature"
+#~ msgstr "Temperatura objetivo no válida"
+
+#~ msgid "Invalid hot temperature"
+#~ msgstr "Temperatura caliente no válida"
+
+#~ msgid "Invalid dangerous temperature"
+#~ msgstr "Temperatura peligrosa no válida"
+
+#~ msgid "Invalid fan speed"
+#~ msgstr "Velocidad del ventilador no válida"
