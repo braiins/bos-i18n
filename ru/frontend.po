@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-25 13:43+0000\n"
+"PO-Revision-Date: 2021-06-26 17:33+0000\n"
 "Last-Translator: Iryna Bashkova <iryna.bashkova@braiins.cz>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-frontend/ru/>\n"
@@ -576,7 +576,7 @@ msgstr "{title} Настройки"
 #: packages/boser/src/pages/Settings/Settings.tsx:3315 /checksum/XcM3y0zqT+
 msgctxt "UI"
 msgid "Performance"
-msgstr "Работа"
+msgstr "Производительность"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2310 /checksum/Bq4q2RDBzi
 msgctxt "UI"
@@ -898,7 +898,7 @@ msgstr "Редактировать пулы"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:857 /checksum/zQwnxNWdSp
 msgctxt "UI"
 msgid "Edit Performance"
-msgstr "Редактировать Работу"
+msgstr "Редактировать производительность"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1223 /checksum/CIdbaoSmIz
 msgctxt "UI"
@@ -1416,12 +1416,12 @@ msgstr "Неверный ответ на уведомления бэкенда!"
 #: packages/boser/src/pages/Root/Root.tsx:519 /checksum/2TXh5qbs+d
 msgctxt "UI"
 msgid "Unknown event type \"{type}\" received!"
-msgstr ""
+msgstr "Получен неизвестный тип события \"{type}\"!"
 
 #: packages/boser/src/pages/Root/Root.tsx:576 /checksum/mIwH74g5Z5
 msgctxt "UI"
 msgid "An error has occured while trying to remove an appeal!"
-msgstr ""
+msgstr "При удалении апелляции произошла ошибка!"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1146
 #: packages/boser/src/pages/Root/Root.tsx:581
@@ -1432,17 +1432,17 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:1350 /checksum/R1Kb/maWX2
 msgctxt "UI"
 msgid "Invalid response in group edit!"
-msgstr ""
+msgstr "Неверный ответ при редактировании группы!"
 
 #: packages/boser/src/pages/Root/Root.tsx:631 /checksum/aVMj99GIsQ
 msgctxt "UI"
 msgid "Dismiss"
-msgstr ""
+msgstr "Отстранить"
 
 #: packages/boser/src/pages/Root/Root.tsx:780 /checksum/JJdByNqVut
 msgctxt "UI"
 msgid "Please wait until the device is responsive…"
-msgstr ""
+msgstr "Подождите, пока устройство не начнет реагировать…"
 
 #: packages/boser/src/pages/Root/Root.tsx:818 /checksum/eaWq/AdlV1
 msgctxt "UI"
@@ -1453,16 +1453,21 @@ msgid ""
 "team.</p><p>These logs will help our team to investigate your issues. "
 "Generating the archive can take up to 1 minute.</p>"
 msgstr ""
+"<p>Когда вы нажимете кнопку \"Загрузить\", система автоматически соберет все "
+"системные логи и упакует их в один <strong>файл .zip</strong>, чтобы вы "
+"могли легко отправить его в нашу службу поддержки. </p><p> Эти логи помогут "
+"нашей команде исследовать ваши проблемы. Создание архива может занять до 1 "
+"минуты.</p>"
 
 #: packages/boser/src/pages/Root/Root.tsx:1295 /checksum/fdoMfuvsV1
 msgctxt "UI"
 msgid "Log In to {name}"
-msgstr ""
+msgstr "Войдите в {name}"
 
 #: packages/boser/src/pages/System/System.tsx:382 /checksum/pt1HUAbjIh
 msgctxt "UI"
 msgid "Invalid response in Settings edit!"
-msgstr ""
+msgstr "Неверный ответ в редактировании настроек!"
 
 #: packages/boser/src/pages/System/System.tsx:958 /checksum/S+z99kLx2W
 msgctxt "UI"
@@ -1470,57 +1475,59 @@ msgid ""
 "To restore configuration data, you can upload a previously generated backup "
 "archive here."
 msgstr ""
+"Чтобы восстановить данные конфигурации, вы можете загрузить сюда ранее "
+"созданный архив резервных копий."
 
 #: packages/boser/src/pages/System/System.tsx:1049 /checksum/cVgyVd57Z3
 msgctxt "UI"
 msgid "Configure the firmware to automatically install new releases."
-msgstr ""
+msgstr "Настроить прошивку для автоматической установки новых выпусков."
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:267 /checksum/sdwg+lAKHO
 msgctxt "UI"
 msgid "Invalid response when fetching dashboard data!"
-msgstr ""
+msgstr "Неверный ответ при получении данных панели управления!"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:610 /checksum/T4/thqVuN7
 msgctxt "UI"
 msgid "{name}{br}Temp"
-msgstr ""
+msgstr "{name}{br}Темп."
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:694
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1086 /checksum/0J1HWo4YHG
 msgctxt "UI"
 msgid "Best Share"
-msgstr ""
+msgstr "Лучшее решение"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:695 /checksum/E8RyuE/A5/
 msgctxt "UI"
 msgid "Generated Work"
-msgstr ""
+msgstr "Созданная работа"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:787 /checksum/3l+vDNMp69
 msgctxt "UI"
 msgid "Tuner Uptime"
-msgstr ""
+msgstr "Время работы тюнера"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:794 /checksum/mQ9wXOHu8X
 msgctxt "UI"
 msgid "Stage Duration"
-msgstr ""
+msgstr "Продолжительность этапа"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:801 /checksum/yv/NeukNhq
 msgctxt "UI"
 msgid "Approx. Watts"
-msgstr ""
+msgstr "Прибл. Вт"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:993 /checksum//FopwGg0OA
 msgctxt "UI"
 msgid "Temperature ({name})"
-msgstr ""
+msgstr "Температура ({name})"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1085 /checksum/leedAJqvmO
 msgctxt "UI"
 msgid "Blocks Found"
-msgstr ""
+msgstr "Найденные блоки"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:843
 #: packages/boser/src/pages/Settings/Settings.tsx:1002
@@ -1528,43 +1535,45 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:1222 /checksum/g4oPLTX83N
 msgctxt "UI"
 msgid "Invalid response in pool edit!"
-msgstr ""
+msgstr "Неверный ответ при редактировании пула!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1640 /checksum/XlxXADgLGP
 msgctxt "UI"
 msgid "No pools added…"
-msgstr ""
+msgstr "Пулы не добавлены…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1909 /checksum/jgOrR4m09l
 msgctxt "UI"
 msgid "No groups added…"
-msgstr ""
+msgstr "Группы не добавлены…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2073 /checksum/351O3LPD4u
 msgctxt "UI"
 msgid "Invalid response in Autotuning edit!"
-msgstr ""
+msgstr "Неверный ответ при редактировании автотюнинга!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2183 /checksum/o/SeOwasWY
 msgctxt "UI"
 msgid "Invalid response in Performance edit!"
-msgstr ""
+msgstr "Неверный ответ при редактировании производительности!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2381 /checksum/lD7zLSEe4L
 msgctxt "UI"
 msgid ""
 "WARNING: Overclocking may damage your device. Proceed at your own risk!"
 msgstr ""
+"ВНИМАНИЕ: Разгон может повредить ваше устройство. Действуйте на свой страх и "
+"риск!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2456 /checksum/Bp1EDUv231
 msgctxt "UI"
 msgid "Decrease Power Limit Value."
-msgstr ""
+msgstr "Уменьшите значение предела мощности."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2719 /checksum/vhOsuabIDW
 msgctxt "UI"
 msgid "Invalid response in Temperature & Fans edit!"
-msgstr ""
+msgstr "Неверный ответ в редактировании температуры и вентиляторов!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2829 /checksum/EfjRW8GK8/
 msgctxt "UI"
@@ -1573,97 +1582,100 @@ msgid ""
 "overheating which can result in system shutdown or even irreversible "
 "hardware damage.</p><p>Proceed at your own risk!</p>"
 msgstr ""
+"<p><strong>ВНИМАНИЕ:</strong> изменение настроек по умолчанию может вызвать "
+"перегрев, который может привести к выключению системы или даже необратимому "
+"повреждению оборудования.</p><p>Действуйте на свой страх и риск!</p>"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2990 /checksum/FlruVXSrFe
 msgctxt "UI"
 msgid "Minimum Required Fans"
-msgstr ""
+msgstr "Минимальное количество вентиляторов"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3001 /checksum/ngeXDYdtHm
 msgctxt "UI"
 msgid "Fan count unknown!"
-msgstr ""
+msgstr "Неизвестное значение вентиляторов!"
 
 #: shared/components/DidCatch/DidCatch.tsx:30 /checksum/WuIghnzgG1
 msgctxt "UI"
 msgid "Please contact our technical support team team."
-msgstr ""
+msgstr "Обратитесь в нашу службу технической поддержки."
 
 #: shared/components/DidCatch/DidCatch.tsx:33 /checksum/ez5/u4BQ64
 msgctxt "UI"
 msgid "We have been notified about the issue and are working on a fix."
-msgstr ""
+msgstr "Мы получили уведомление о проблеме и работаем над ее исправлением."
 
 #: shared/components/DidCatch/DidCatch.tsx:40 /checksum/RSadH9RTI2
 msgctxt "UI"
 msgid "Please reload the page to get the latest version."
-msgstr ""
+msgstr "Пожалуйста, перезагрузите страницу, чтобы получить последнюю версию."
 
 #: shared/components/carbon/OtpInput/OtpInput.tsx:53 /checksum/Q3pq3nPCw5
 msgctxt "UI"
 msgid "Enter the one-time password<br/>generated by your OTP app"
-msgstr ""
+msgstr "Введите одноразовый пароль,<br/>созданный вашим приложением OTP"
 
 #: shared/components/carbon/DataTable/DataTable.tsx:268 /checksum/1S7dSi0fw/
 msgctxt "UI"
 msgid "{count, plural, =1 {# item} other {# items}} selected"
-msgstr ""
+msgstr "{count, plural, =1 {# пункт} other {# пункта(ов)}} selected"
 
 #: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:37
 #: /checksum/e7Gru/kIEg
 msgctxt "UI"
 msgid "Please confirm the request by following the link included."
-msgstr ""
+msgstr "Подтвердите запрос, перейдя по включенной ссылке."
 
 #: packages/boser/src/pages/Root/Root.tsx:230 /checksum/ZOzeAFtNIC
 msgctxt "UI"
 msgid "Get Help"
-msgstr ""
+msgstr "Получить помощь"
 
 #: packages/boser/src/pages/Root/Root.tsx:235 /checksum/uOkTarWq47
 msgctxt "UI"
 msgid "Reboot Device"
-msgstr ""
+msgstr "Перезагрузить устройство"
 
 #: packages/boser/src/pages/Root/Root.tsx:360 /checksum/GNZtBPJoin
 msgctxt "UI"
 msgid "Failed to load configuration"
-msgstr ""
+msgstr "Не удалось загрузить конфигурацию"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:822 /checksum/4eVU0IUDGA
 msgctxt "UI"
 msgid "Loaded profile created on {time}"
-msgstr ""
+msgstr "Загруженный профиль создан {time}"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1008 /checksum/RpDVLcp3JU
 msgctxt "UI"
 msgid "Power Usage"
-msgstr ""
+msgstr "Потребление энергии"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1205 /checksum/3LVkdixLAe
 msgctxt "UI"
 msgid "Hostname: {hostName}"
-msgstr ""
+msgstr "Имя хоста: {hostName}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:429 /checksum/nyDx464PLD
 msgctxt "UI"
 msgid "Add New Command"
-msgstr ""
+msgstr "Добавить новую команду"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:430 /checksum/PEupVYQPwf
 msgctxt "UI"
 msgid "Edit Command"
-msgstr ""
+msgstr "Редактировать команду"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:688 /checksum/2tNXD4xU1Q
 msgctxt "UI"
 msgid "Save & Apply"
-msgstr ""
+msgstr "Сохранить и применить"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:692 /checksum/4E7MDP3+sf
 msgctxt "UI"
 msgid "Save changes & restart miner if needed."
-msgstr ""
+msgstr "Сохранить изменения и при необходимости перезапустить майнер."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1950
 #: packages/boser/src/pages/Settings/Settings.tsx:2377
@@ -1672,101 +1684,101 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:3249 /checksum/DMC0PZGHsG
 msgctxt "UI"
 msgid "{title} Configuration"
-msgstr ""
+msgstr "{title} Конфигурация"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2568 /checksum/E/0wMau5XV
 msgctxt "UI"
 msgid "Global Hash Chain Configuration"
-msgstr ""
+msgstr "Глобальная конфигурация хеш-цепочки"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2629 /checksum/OZTDqs4W+A
 msgctxt "UI"
 msgid "Override Global Hash Chain Configuration"
-msgstr ""
+msgstr "Переопределить глобальную конфигурацию хэш-цепочки"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3065
 #: packages/boser/src/pages/Settings/Settings.tsx:3209 /checksum/8M5qzEvpp2
 msgctxt "UI"
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3071
 #: packages/boser/src/pages/Settings/Settings.tsx:3217 /checksum/AOQi/+Qf1+
 msgctxt "UI"
 msgid "Command"
-msgstr ""
+msgstr "Команда"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3103 /checksum/+O5wkA9hxB
 msgctxt "UI"
 msgid "Run Action"
-msgstr ""
+msgstr "Выполнить действие"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3112 /checksum/wD9CCsmFus
 msgctxt "UI"
 msgid "Edit Action"
-msgstr ""
+msgstr "Изменить действие"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3121 /checksum/ap8ezx0r3e
 msgctxt "UI"
 msgid "Delete Action"
-msgstr ""
+msgstr "Удалить действие"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3143 /checksum/jwQnvkjBbe
 msgctxt "UI"
 msgid "System Commands"
-msgstr ""
+msgstr "Системные команды"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3168 /checksum/9BogjkZwqY
 msgctxt "UI"
 msgid "Custom Commands"
-msgstr ""
+msgstr "Пользовательские команды"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3183 /checksum/RJqp5ULylT
 msgctxt "UI"
 msgid "No log messages yet…"
-msgstr ""
+msgstr "Логов пока нет…"
 
 #: packages/boser/src/pages/Root/Root.tsx:1163 /checksum/KzokuMFcaw
 msgctxt "UI"
 msgid "Invalid login response!"
-msgstr ""
+msgstr "Неверный ответ на вход!"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:904 /checksum//uACcOzfn5
 msgctxt "UI"
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1007 /checksum/MpMsvhhk3X
 msgctxt "UI"
 msgid "Efficiency"
-msgstr ""
+msgstr "Эффективность"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1019
 #: packages/boser/src/pages/Settings/Settings.tsx:3240
 #: packages/boser/src/pages/Settings/Settings.tsx:3332 /checksum/cwbhtXnYq+
 msgctxt "UI"
 msgid "Braiins OS+ Manager"
-msgstr ""
+msgstr "Braiins OS+ Manager"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1024 /checksum/SWDAe6zn55
 msgctxt "UI"
 msgid "Connected to {farmID}"
-msgstr ""
+msgstr "Подключено к {farmID}"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1031 /checksum/eR/aGyCpLK
 msgctxt "UI"
 msgid "Last configuration obtained {time} ago"
-msgstr ""
+msgstr "Последняя конфигурация получена {time} назад"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1088 /checksum/otyEaNjp/7
 msgctxt "UI"
 msgid "System Uptime"
-msgstr ""
+msgstr "Время работы системы"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1093 /checksum/tI8pnTsiF9
 msgctxt "UI"
 msgid "System Status"
-msgstr ""
+msgstr "Состояние системы"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3254 /checksum/HrxwJqx93z
 msgctxt "UI"
@@ -1774,6 +1786,8 @@ msgid ""
 "Batch configure and monitor your devices conveniently over the internet with"
 " Braiins OS+ for free."
 msgstr ""
+"Бесплатная пакетная настройка и мониторинг ваших устройств через интернет с "
+"помощью Braiins OS+."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3261 /checksum//MORD5I0xI
 msgctxt "UI"
@@ -1781,16 +1795,19 @@ msgid ""
 "The platform is currently in the beta stage. Please use with caution and as "
 "always, scale responsibly!"
 msgstr ""
+"Платформа в настоящее время находится на стадии бета-тестирования. "
+"Пожалуйста, используйте с осторожностью и, как всегда, ответственно "
+"относитесь к масштабированию!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3268 /checksum/MG4lIFVWQ2
 msgctxt "UI"
 msgid "Enterprise Features"
-msgstr ""
+msgstr "Корпоративные функции"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3272 /checksum/482irpYJNW
 msgctxt "UI"
 msgid "Ready out of the box"
-msgstr ""
+msgstr "К незамедлительному использованию"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3273 /checksum/4btQUOYs9G
 msgctxt "UI"
@@ -1798,22 +1815,26 @@ msgid ""
 "Every device using Braiins OS+ 21.04 or later can easily connect to the "
 "cloud-based platform."
 msgstr ""
+"Каждое устройство, использующее Braiins OS+ 21.04 или новее, может легко "
+"подключиться к cloud платформе."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3280 /checksum/qfLjzcll5y
 msgctxt "UI"
 msgid "One-time setup"
-msgstr ""
+msgstr "Одноразовая установка"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3281 /checksum/E7kHBbVa01
 msgctxt "UI"
 msgid ""
 "Connect your devices to the platform once, manage them remotely forever."
 msgstr ""
+"Подключите свои устройства к платформе один раз, управляйте ими удаленно "
+"навсегда."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3285 /checksum/hQqITNBtwq
 msgctxt "UI"
 msgid "Efficient"
-msgstr ""
+msgstr "Эффективность"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3286 /checksum/ql8v2SfNoU
 msgctxt "UI"
@@ -1821,11 +1842,13 @@ msgid ""
 "The telemetry data are efficiently being sent over the next-gen Stratum V2 "
 "protocol, using the same channel as for dev fee collection."
 msgstr ""
+"Данные телеметрии эффективно отправляются по протоколу следующего поколения "
+"Stratum V2, используя тот же канал, что и для сбора devfee."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3293 /checksum/X133GlZ5EX
 msgctxt "UI"
 msgid "Encrypted and safe"
-msgstr ""
+msgstr "Зашифровано и безопасно"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3294 /checksum/HEwJnZGR4k
 msgctxt "UI"
@@ -1833,11 +1856,14 @@ msgid ""
 "All the config and telemetry data sent over the internet are encrypted, "
 "effectively stopping possible eavesdropping or man-in-the-middle attacks."
 msgstr ""
+"Все данные конфигурации и телеметрии, отправляемые через Интернет, "
+"зашифрованы, что эффективно предотвращает возможное подслушивание или атаки "
+"типа \"человек посередине\"."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3301 /checksum/fodJYlFrz3
 msgctxt "UI"
 msgid "How to Connect"
-msgstr ""
+msgstr "Как подключиться"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3380 /checksum/RK9QGcPCrp
 msgctxt "UI"
@@ -1845,6 +1871,8 @@ msgid ""
 "Braiins OS+ Manager connection is active, many local settings have been "
 "disabled."
 msgstr ""
+"Соединение c Braiins OS+ Manager активно, многие локальные настройки "
+"отключены."
 
 #~ msgctxt "UI"
 #~ msgid "Braiins | Bitcoin mining full stack company"
