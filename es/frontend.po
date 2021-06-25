@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-25 13:43+0000\n"
+"PO-Revision-Date: 2021-06-26 17:33+0000\n"
 "Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-frontend/es/>\n"
@@ -435,12 +435,12 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:864 /checksum/WmfyW/UelX
 msgctxt "UI"
 msgid "Pool \"{url}\" Added"
-msgstr "Se agregó el pool \"{url}\""
+msgstr "Pool \"{url}\" Añadido"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1232 /checksum/F7rzHr4TBU
 msgctxt "UI"
 msgid "Pool Moved"
-msgstr "Pool movida"
+msgstr "Pool Movida"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1374 /checksum/u1Ln9Oss+6
 msgctxt "UI"
@@ -471,17 +471,17 @@ msgstr "Guardando cambios…"
 #: packages/boser/src/pages/Settings/Settings.tsx:1555 /checksum/Mwh4OSe57n
 msgctxt "UI"
 msgid "Cancel Pool Creation"
-msgstr "Cancelar la creación del Pool"
+msgstr "Cancelar Creación de Pool"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1588 /checksum/T4EdQJ5Hik
 msgctxt "UI"
 msgid "Move Up"
-msgstr "Ascender"
+msgstr "Subir"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1598 /checksum/UyUe9sUfcX
 msgctxt "UI"
 msgid "Move Down"
-msgstr "Mover hacia abajo"
+msgstr "Bajar"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1609
 #: packages/boser/src/pages/Settings/Settings.tsx:1866 /checksum/mOQPUnzQyj
@@ -512,7 +512,7 @@ msgstr "Grupos de Pool"
 #: packages/boser/src/pages/Settings/Settings.tsx:1732 /checksum/6s3JTItf+9
 msgctxt "UI"
 msgid "Group Name"
-msgstr "Nombre del grupo"
+msgstr "Nombre del Grupo"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1733
 #: packages/boser/src/pages/Settings/Settings.tsx:2818 /checksum/JBNGeL8E9f
@@ -538,7 +538,7 @@ msgstr "Proporción de share fijo"
 #: packages/boser/src/pages/Settings/Settings.tsx:1853 /checksum/rQWw/NnpNN
 msgctxt "UI"
 msgid "Cancel Removal"
-msgstr "Cancelar eliminación"
+msgstr "Cancelar Eliminación"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1921 /checksum/xl692sCSZQ
 msgctxt "UI"
@@ -593,33 +593,33 @@ msgstr "Habilitar autoajuste"
 #: packages/boser/src/pages/Settings/Settings.tsx:2410 /checksum/ELr3MkI4t4
 msgctxt "UI"
 msgid "PSU Power Limit (for all hashboards)"
-msgstr "Límite de potencia de la PSU (para todos los hashboards)"
+msgstr "Límite de Potencia PSU (hashboards todas)"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1011
 #: packages/boser/src/pages/Settings/Settings.tsx:2443 /checksum/q/JGTmnHz5
 msgctxt "UI"
 msgid "Dynamic Power Scaling"
-msgstr "Escalamiento dinámico de potencia"
+msgstr "Escalado de Potencia Dinámico"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2452 /checksum/dTWY1dWvpE
 msgctxt "UI"
 msgid "Enable Dynamic Power Scaling"
-msgstr "Habilitar escalamiento dinámico de potencia"
+msgstr "Habilitar Escalado de Potencia Dinámico"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2487 /checksum/P0xdwgtFnA
 msgctxt "UI"
 msgid "Minimal PSU Power Limit"
-msgstr "Límite mínimo de energía de la PSU"
+msgstr "Límite de Potencia mínimo PSU"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2531 /checksum/YZ9WDwOtr+
 msgctxt "UI"
 msgid "Shutdown When Minimal PSU Power Limit is Reached"
-msgstr "Apagado cuando se alcanza el límite mínimo de energía de la PSU"
+msgstr "Apaga Cuando Alcanza Límite de Potencia PSU Mínimo"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2535 /checksum/jLtrVoarMe
 msgctxt "UI"
 msgid "Shutdown Duration"
-msgstr "Duración de apagado"
+msgstr "Duración de Apagado"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2561 /checksum/BPYXmgKNbW
 msgctxt "UI"
@@ -635,12 +635,12 @@ msgstr "Temperatura y ventiladores"
 #: packages/boser/src/pages/Settings/Settings.tsx:2814 /checksum//hxmhkmfOO
 msgctxt "UI"
 msgid "Temperature Control"
-msgstr "Control de temperatura"
+msgstr "Control de Temperatura"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2826 /checksum/VZZ5iZyMWK
 msgctxt "UI"
 msgid "Temperature Control Mode"
-msgstr "Modo de control de temperatura"
+msgstr "Modo Control de Temperatura"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2841 /checksum/YBpDY4Q3Mo
 msgctxt "UI"
@@ -661,22 +661,22 @@ msgstr "Manual"
 #: packages/boser/src/pages/Settings/Settings.tsx:2862 /checksum/ngUotbg/9o
 msgctxt "UI"
 msgid "Target Temperature"
-msgstr "Temperatura objetivo"
+msgstr "Temperatura Objetivo"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2893 /checksum/rO78UQpn89
 msgctxt "UI"
 msgid "Hot Temperature"
-msgstr "Temperatura caliente"
+msgstr "Temperatura Caliente"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2924 /checksum/i3CO+1NiqB
 msgctxt "UI"
 msgid "Dangerous Temperature"
-msgstr "Temperatura peligrosa"
+msgstr "Temperatura Peligrosa"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2955 /checksum/bvxtZg/iYt
 msgctxt "UI"
 msgid "Fan Control"
-msgstr "Control del ventilador"
+msgstr "Control de Ventilador"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2959 /checksum/spvsqjswya
 msgctxt "UI"
@@ -686,12 +686,12 @@ msgstr "Velocidad"
 #: packages/boser/src/pages/Settings/Settings.tsx:2993 /checksum/i63CruQTgB
 msgctxt "UI"
 msgid "Number of fans required for system to run."
-msgstr "Número de ventiladores necesarios para que el sistema funcione."
+msgstr "Número de ventiladores requerido para que corra el sistema."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2997 /checksum/vucOFpS+4o
 msgctxt "UI"
 msgid "Use <strong>0 for immersion cooling</strong>."
-msgstr "Utilice <strong> 0 para enfriamiento por inmersión </strong>."
+msgstr "Use <strong>0 para enfriamiento de inmersión</strong>."
 
 #: shared/charts/MultiLine/MultiLine.tsx:120 /checksum/AMBWvayRmY
 msgctxt "UI"
@@ -736,12 +736,12 @@ msgstr "Soporte Técnico"
 #: shared/components/ChartPager/ChartPager.tsx:73 /checksum/0sTtjChq/z
 msgctxt "UI"
 msgid "Step left"
-msgstr "Paso a la izquierda"
+msgstr "Izquierda"
 
 #: shared/components/ChartPager/ChartPager.tsx:86 /checksum/bf4Ygh9TJ5
 msgctxt "UI"
 msgid "Step right"
-msgstr "Paso correcto"
+msgstr "Derecha"
 
 #: shared/components/ChartPager/ChartPager.tsx:98
 #: shared/components/carbon/DatePager/DatePager.tsx:110 /checksum/3zRDywALs+
@@ -762,7 +762,7 @@ msgstr "Siguiente"
 #: shared/components/carbon/Select/Select.tsx:19 /checksum/kgY4Q7Zflg
 msgctxt "UI"
 msgid "Choose an option"
-msgstr "Seleccione una opción"
+msgstr "Elija una opción"
 
 #: shared/components/carbon/Pagination/Pagination.tsx:52 /checksum/UQQSrqxv7w
 msgctxt "UI"
@@ -857,7 +857,7 @@ msgstr "Idioma"
 #: /checksum/0oWwXJjSJv
 msgctxt "UI"
 msgid "Email Confirmation"
-msgstr "Confirmación de correo electrónico"
+msgstr "Confirmación de Correo"
 
 #: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:24
 #: /checksum/fO9TZjmzuO
@@ -874,7 +874,7 @@ msgstr "Sin datos…"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:205 /checksum/bfoSyK7BVZ
 msgctxt "UI"
 msgid "Temperature [°C]"
-msgstr "Temperatura [° C]"
+msgstr "Temperatura [°C]"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:246 /checksum/2xRmtV0C3E
 msgctxt "UI"
@@ -894,17 +894,17 @@ msgstr "Editar Pools"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:857 /checksum/zQwnxNWdSp
 msgctxt "UI"
 msgid "Edit Performance"
-msgstr "Editar rendimiento"
+msgstr "Editar Rendimiento"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1223 /checksum/CIdbaoSmIz
 msgctxt "UI"
 msgid "Default View"
-msgstr "Vista predeterminada"
+msgstr "Vista Predeterminada"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1228 /checksum/78lSyW3pq2
 msgctxt "UI"
 msgid "Compact View"
-msgstr "Vista compacta"
+msgstr "Vista Compacta"
 
 #: packages/boser/src/pages/Root/Root.tsx:1110 /checksum/hKtPf5G2Fk
 msgctxt "UI"
@@ -925,12 +925,12 @@ msgstr "Personal"
 #: packages/boser/src/pages/System/System.tsx:1072 /checksum/ELNEVEcuq5
 msgctxt "UI"
 msgid "Change Password"
-msgstr "Cambiar la contraseña"
+msgstr "Cambiar Contraseña"
 
 #: packages/boser/src/pages/System/System.tsx:440 /checksum/M+TAJXHcvY
 msgctxt "UI"
 msgid "Color Theme"
-msgstr "Tema de color"
+msgstr "Tema de Color"
 
 #: packages/boser/src/pages/System/System.tsx:452 /checksum/6kaaCthlHI
 msgctxt "UI"
@@ -946,19 +946,19 @@ msgstr "Claro"
 #: packages/boser/src/pages/System/System.tsx:513 /checksum/cJ2lbra2o4
 msgctxt "UI"
 msgid "Current Password"
-msgstr "Contraseña actual"
+msgstr "Contraseña Actual"
 
 #: packages/boser/src/pages/System/System.tsx:529
 #: packages/boser/src/pages/System/System.tsx:533 /checksum/bgQK+TLYyY
 msgctxt "UI"
 msgid "New Password"
-msgstr "Nueva contraseña"
+msgstr "Nueva Contraseña"
 
 #: packages/boser/src/pages/System/System.tsx:549
 #: packages/boser/src/pages/System/System.tsx:553 /checksum/Ew/98dkban
 msgctxt "UI"
 msgid "Repeat New Password"
-msgstr "Repita la nueva contraseña"
+msgstr "Repita Nueva Contraseña"
 
 #: packages/boser/src/pages/System/System.tsx:610 /checksum/0qw8bLcUo+
 msgctxt "UI"
@@ -1040,12 +1040,12 @@ msgstr "Diagnósticos"
 #: packages/boser/src/pages/System/System.tsx:1080 /checksum/jeX/hNle4b
 msgctxt "UI"
 msgid "Log"
-msgstr "Log"
+msgstr "Registro"
 
 #: packages/boser/src/pages/System/System.tsx:888 /checksum/ywHyF9SM71
 msgctxt "UI"
 msgid "Flash New Firmware Image"
-msgstr "Flash nueva imagen de firmware"
+msgstr "Grabar Nueva Imagen Firmware"
 
 #: packages/boser/src/pages/System/System.tsx:891 /checksum/Sc0f4hE3RH
 msgctxt "UI"
@@ -1054,20 +1054,20 @@ msgid ""
 "firmware.{br}Check \"Keep settings\" to retain the current configuration "
 "(requires a compatible firmware image)."
 msgstr ""
-"Cargue aquí una imagen compatible con sysupgrade para reemplazar el firmware "
-"en ejecución. {Br} Marque \"Conservar configuración\" para conservar la "
-"configuración actual (requiere una imagen de firmware compatible)."
+"Suba aquí una imagen compatible sysupgrade para reemplazar firmware en "
+"ejecución.{br}Marque \"Mantener configuración\" para mantener configuración "
+"actual (requiere imagen firmware compatible)."
 
 #: packages/boser/src/pages/System/System.tsx:903 /checksum/HhJPMWHFsh
 msgctxt "UI"
 msgid "Keep Settings"
-msgstr "Mantener la configuración"
+msgstr "Mantener Configuración"
 
 #: packages/boser/src/pages/System/System.tsx:908
 #: packages/boser/src/pages/System/System.tsx:967 /checksum/Mdv907pyN1
 msgctxt "UI"
 msgid "Choose File"
-msgstr "Elija el archivo"
+msgstr "Elija Archivo"
 
 #: packages/boser/src/pages/System/System.tsx:913
 #: packages/boser/src/pages/System/System.tsx:972 /checksum/AToGojMl6i
@@ -1078,17 +1078,17 @@ msgstr "Limpiar archivo"
 #: packages/boser/src/pages/System/System.tsx:927 /checksum/A6nxkpy6YZ
 msgctxt "UI"
 msgid "Flash Image"
-msgstr "Flashear imagen"
+msgstr "Grabar Imagen"
 
 #: packages/boser/src/pages/System/System.tsx:931 /checksum/M57hBgk9Tz
 msgctxt "UI"
 msgid "Backup / Restore"
-msgstr "Copia de seguridad / restauración"
+msgstr "Respaldo / Restaura"
 
 #: packages/boser/src/pages/System/System.tsx:932 /checksum/S33FPpY0Aa
 msgctxt "UI"
 msgid "Download Backup:"
-msgstr "Descargar copia de seguridad:"
+msgstr "Descargar Respaldo:"
 
 #: packages/boser/src/pages/System/System.tsx:935 /checksum/Rb5vVz3Bz5
 msgctxt "UI"
@@ -1097,35 +1097,35 @@ msgid ""
 " current configuration files.{br}To reset the firmware to its initial state,"
 " click \"Perform reset\" (only possible with squashfs images)."
 msgstr ""
-"Haga clic en \"<strong> Generar archivo </strong>\" para descargar un "
-"archivo tar de los archivos de configuración actuales. {Br} Para restablecer "
-"el firmware a su estado inicial, haga clic en \"Realizar restablecimiento\" ("
-"solo es posible con imágenes de squashfs)."
+"Haga clic en \"<strong>Generar archivo</strong>\" para descargar archivo tar "
+"de archivos con la configuración actual.{br}Para restablecer firmware a su "
+"estado inicial, clic a \"Realizar restablecimiento\" (posible solo con "
+"imágenes squashfs)."
 
 #: packages/boser/src/pages/System/System.tsx:949 /checksum/1QT3w2yBnS
 msgctxt "UI"
 msgid "Generate Archive"
-msgstr "Generar archivo"
+msgstr "Generar Archivo"
 
 #: packages/boser/src/pages/System/System.tsx:956 /checksum/2gSwpDnLtM
 msgctxt "UI"
 msgid "Restore Backup:"
-msgstr "Restaurar copia de seguridad:"
+msgstr "Restaurar Respaldo:"
 
 #: packages/boser/src/pages/System/System.tsx:983 /checksum/G5kf0LdF6C
 msgctxt "UI"
 msgid "Upload Archive"
-msgstr "Subir archivo"
+msgstr "Subir Archivo"
 
 #: packages/boser/src/pages/System/System.tsx:988 /checksum/loTWykynay
 msgctxt "UI"
 msgid "Reset to Factory Settings"
-msgstr "Restablecer la configuración de fábrica"
+msgstr "Restablecer Configuración de Fábrica"
 
 #: packages/boser/src/pages/System/System.tsx:994 /checksum/VJ2+lVgrYE
 msgctxt "UI"
 msgid "Reset Settings"
-msgstr "Reiniciar ajustes"
+msgstr "Reiniciar Ajustes"
 
 #: packages/boser/src/pages/Root/Root.tsx:1109
 #: packages/boser/src/pages/System/System.tsx:1023 /checksum/5BBIF6XGaw
@@ -1139,7 +1139,7 @@ msgstr "Configuración"
 #: packages/boser/src/pages/System/System.tsx:1086 /checksum/Wn3AZwruJJ
 msgctxt "UI"
 msgid "Auto Upgrade"
-msgstr "Actualización automática"
+msgstr "Actualización Automática"
 
 #: packages/boser/src/pages/System/System.tsx:1057 /checksum/8lnFStJQyT
 msgctxt "UI"
@@ -1150,18 +1150,18 @@ msgstr "Activado"
 #: packages/boser/src/pages/System/System.tsx:1083 /checksum/lEXXuDtuML
 msgctxt "UI"
 msgid "Firmware Backup / Flash"
-msgstr "Copia de seguridad de firmware / Flash"
+msgstr "Respaldo de Firmware / Grabar"
 
 #: packages/boser/src/components/standalone/Login/Login.tsx:64
 #: /checksum/GQtehkPHy9
 msgctxt "UI"
 msgid "Log In"
-msgstr "Iniciar sesión"
+msgstr "Ingresar"
 
 #: shared/components/DidCatch/DidCatch.tsx:96 /checksum/VyMUPIZMk2
 msgctxt "UI"
 msgid "Unknown Error"
-msgstr "Error desconocido"
+msgstr "Error Desconocido"
 
 #: packages/boser/src/components/standalone/Dialog.tsx:93 /checksum/Sok43UbB+E
 msgctxt "UI"
@@ -1373,52 +1373,52 @@ msgstr "Ayer"
 #: shared/components/carbon/Calendar/Calendar.tsx:204 /checksum//8WXbamE8z
 msgctxt "UI"
 msgid "This Week"
-msgstr "Esta semana"
+msgstr "Esta Semana"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:219 /checksum/3YK7E7SR3s
 msgctxt "UI"
 msgid "Last Week"
-msgstr "La semana pasada"
+msgstr "Semana Pasada"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:234 /checksum/j8H6u1xYwy
 msgctxt "UI"
 msgid "This Month"
-msgstr "Este mes"
+msgstr "Este Mes"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:246 /checksum/Yh5p1EuYEk
 msgctxt "UI"
 msgid "Last Month"
-msgstr "El mes pasado"
+msgstr "Mes Pasado"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:286 /checksum/J1swR3mzbW
 msgctxt "UI"
 msgid "Failed to load the calendar widget"
-msgstr "No se pudo cargar el widget de calendario"
+msgstr "No se pudo cargar widget de calendario"
 
 #: shared/lib/layout/components/Layout.tsx:225 /checksum/NXzuN9vcvw
 msgctxt "UI"
 msgid "An error has occured!"
-msgstr "¡Se ha producido un error!"
+msgstr "¡Ha ocurrido un error!"
 
 #: packages/boser/src/pages/Root/Root.tsx:275 /checksum/ird7S5HS0d
 msgctxt "UI"
 msgid "Unknown graphql client error!"
-msgstr "¡Error desconocido del cliente graphql!"
+msgstr "¡Error desconocido cliente graphql!"
 
 #: packages/boser/src/pages/Root/Root.tsx:447 /checksum/+jEJ3/473m
 msgctxt "UI"
 msgid "Invalid response for backend notifications!"
-msgstr "¡Respuesta no válida para notificaciones de backend!"
+msgstr "¡Respuesta inválida en notificaciones backend!"
 
 #: packages/boser/src/pages/Root/Root.tsx:519 /checksum/2TXh5qbs+d
 msgctxt "UI"
 msgid "Unknown event type \"{type}\" received!"
-msgstr "¡Se recibió el tipo de evento desconocido \"{type}\"!"
+msgstr "¡Evento desconocido \"{type}\" recibido!"
 
 #: packages/boser/src/pages/Root/Root.tsx:576 /checksum/mIwH74g5Z5
 msgctxt "UI"
 msgid "An error has occured while trying to remove an appeal!"
-msgstr "¡Se produjo un error al intentar eliminar una apelación.!"
+msgstr "¡Se produjo un error al intentar eliminar una apelación!"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1146
 #: packages/boser/src/pages/Root/Root.tsx:581
@@ -1429,7 +1429,7 @@ msgstr "¡Se produjo un error al intentar eliminar una apelación.!"
 #: packages/boser/src/pages/Settings/Settings.tsx:1350 /checksum/R1Kb/maWX2
 msgctxt "UI"
 msgid "Invalid response in group edit!"
-msgstr "¡Respuesta no válida en la edición de grupo!"
+msgstr "¡Respuesta inválida en edición de grupo!"
 
 #: packages/boser/src/pages/Root/Root.tsx:631 /checksum/aVMj99GIsQ
 msgctxt "UI"
@@ -1450,22 +1450,21 @@ msgid ""
 "team.</p><p>These logs will help our team to investigate your issues. "
 "Generating the archive can take up to 1 minute.</p>"
 msgstr ""
-"<p> Al hacer clic en el botón \"Descargar\", el sistema recopilará "
+"<p>Haciendo clic al botón \"Descargar\", el sistema recopilará "
 "automáticamente todos los registros del sistema y los empaquetará en un "
-"<strong> archivo .zip </strong> para que pueda enviar fácilmente el paquete "
-"a nuestro equipo de soporte. < / p> <p> Estos registros ayudarán a nuestro "
-"equipo a investigar sus problemas. La generación del archivo puede tardar "
-"hasta 1 minuto. </p>"
+"<strong>archivo .zip</strong> para que pueda enviar fácilmente el paquete a "
+"nuestro equipo de soporte.</p><p>Estos registros ayudarán a nuestro equipo a "
+"investigar sus problemas. Generar el archivo puede tardar hasta 1 minuto.</p>"
 
 #: packages/boser/src/pages/Root/Root.tsx:1295 /checksum/fdoMfuvsV1
 msgctxt "UI"
 msgid "Log In to {name}"
-msgstr "Iniciar sesión en {name}"
+msgstr "Ingresar a {name}"
 
 #: packages/boser/src/pages/System/System.tsx:382 /checksum/pt1HUAbjIh
 msgctxt "UI"
 msgid "Invalid response in Settings edit!"
-msgstr "¡Respuesta no válida en la edición de configuración!"
+msgstr "¡Respuesta inválida en edición de Configuración!"
 
 #: packages/boser/src/pages/System/System.tsx:958 /checksum/S+z99kLx2W
 msgctxt "UI"
@@ -1473,29 +1472,29 @@ msgid ""
 "To restore configuration data, you can upload a previously generated backup "
 "archive here."
 msgstr ""
-"Para restaurar los datos de configuración, puede cargar un archivo de "
-"respaldo generado previamente aquí."
+"Para restaurar los datos de configuración, puede subir un archivo de "
+"respaldo generado aquí antes."
 
 #: packages/boser/src/pages/System/System.tsx:1049 /checksum/cVgyVd57Z3
 msgctxt "UI"
 msgid "Configure the firmware to automatically install new releases."
-msgstr "Configure el firmware para instalar automáticamente nuevas versiones."
+msgstr "Configurar firmware para instalar automáticamente nuevas versiones."
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:267 /checksum/sdwg+lAKHO
 msgctxt "UI"
 msgid "Invalid response when fetching dashboard data!"
-msgstr "¡Respuesta no válida al obtener datos del panel!"
+msgstr "¡Respuesta inválida al obtener datos del tablero!"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:610 /checksum/T4/thqVuN7
 msgctxt "UI"
 msgid "{name}{br}Temp"
-msgstr "{name}{br}Temperatura"
+msgstr "{name}{br}Temp"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:694
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1086 /checksum/0J1HWo4YHG
 msgctxt "UI"
 msgid "Best Share"
-msgstr "Mejor Share"
+msgstr "Mejor Participación"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:695 /checksum/E8RyuE/A5/
 msgctxt "UI"
@@ -1505,17 +1504,17 @@ msgstr "Trabajo generado"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:787 /checksum/3l+vDNMp69
 msgctxt "UI"
 msgid "Tuner Uptime"
-msgstr "Tiempo de actividad del ajustador"
+msgstr "Tiempo en Ajuste"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:794 /checksum/mQ9wXOHu8X
 msgctxt "UI"
 msgid "Stage Duration"
-msgstr "Duración de la etapa"
+msgstr "Duración Etapa"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:801 /checksum/yv/NeukNhq
 msgctxt "UI"
 msgid "Approx. Watts"
-msgstr "Watts Aproximados"
+msgstr "Aprox. Vatios"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:993 /checksum//FopwGg0OA
 msgctxt "UI"
@@ -1525,7 +1524,7 @@ msgstr "Temperatura ({name})"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1085 /checksum/leedAJqvmO
 msgctxt "UI"
 msgid "Blocks Found"
-msgstr "Bloques encontrados"
+msgstr "Bloques Encontrados"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:843
 #: packages/boser/src/pages/Settings/Settings.tsx:1002
@@ -1533,7 +1532,7 @@ msgstr "Bloques encontrados"
 #: packages/boser/src/pages/Settings/Settings.tsx:1222 /checksum/g4oPLTX83N
 msgctxt "UI"
 msgid "Invalid response in pool edit!"
-msgstr "¡Respuesta no válida en la edición de pool!"
+msgstr "¡Respuesta inválida en edición de pool!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1640 /checksum/XlxXADgLGP
 msgctxt "UI"
@@ -1548,12 +1547,12 @@ msgstr "No se agregaron grupos…"
 #: packages/boser/src/pages/Settings/Settings.tsx:2073 /checksum/351O3LPD4u
 msgctxt "UI"
 msgid "Invalid response in Autotuning edit!"
-msgstr "¡Respuesta no válida en la edición de autoajuste!"
+msgstr "¡Respuesta inválida en edición de Autoajuste!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2183 /checksum/o/SeOwasWY
 msgctxt "UI"
 msgid "Invalid response in Performance edit!"
-msgstr "¡Respuesta no válida en la edición de rendimiento!"
+msgstr "¡Respuesta inválida en edición de Rendimiento!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2381 /checksum/lD7zLSEe4L
 msgctxt "UI"
@@ -1566,12 +1565,12 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:2456 /checksum/Bp1EDUv231
 msgctxt "UI"
 msgid "Decrease Power Limit Value."
-msgstr "Disminuya el valor límite de potencia."
+msgstr "Disminuya el valor Límite de Potencia."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2719 /checksum/vhOsuabIDW
 msgctxt "UI"
 msgid "Invalid response in Temperature & Fans edit!"
-msgstr "¡Respuesta no válida en la edición de temperatura y ventiladores!"
+msgstr "¡Respuesta inválida en edición de Temperatura y Ventiladores!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2829 /checksum/EfjRW8GK8/
 msgctxt "UI"
@@ -1580,25 +1579,25 @@ msgid ""
 "overheating which can result in system shutdown or even irreversible "
 "hardware damage.</p><p>Proceed at your own risk!</p>"
 msgstr ""
-"<p> <strong> ADVERTENCIA: </strong> Cambiar la configuración predeterminada "
-"puede causar un sobrecalentamiento que puede resultar en el apagado del "
-"sistema o incluso en daños irreversibles al hardware. </p> <p> ¡Proceda bajo "
-"su propio riesgo! </p>"
+"<p><strong>ADVERTENCIA:</strong> Cambiar la configuración predeterminada "
+"puede causar un sobrecalentamiento que puede resultar en apagado del sistema "
+"o incluso daños irreversibles al hardware.</p><p>¡Proceda bajo su propio "
+"riesgo!</p>"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2990 /checksum/FlruVXSrFe
 msgctxt "UI"
 msgid "Minimum Required Fans"
-msgstr "Ventiladores mínimos requeridos"
+msgstr "Ventiladores Mínimos Requeridos"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3001 /checksum/ngeXDYdtHm
 msgctxt "UI"
 msgid "Fan count unknown!"
-msgstr "¡Número de fans desconocido!"
+msgstr "¡Cuenta de ventiladores desconocida!"
 
 #: shared/components/DidCatch/DidCatch.tsx:30 /checksum/WuIghnzgG1
 msgctxt "UI"
 msgid "Please contact our technical support team team."
-msgstr "Póngase en contacto con nuestro equipo de soporte técnico."
+msgstr "Favor contacte nuestro equipo de soporte técnico."
 
 #: shared/components/DidCatch/DidCatch.tsx:33 /checksum/ez5/u4BQ64
 msgctxt "UI"
@@ -1615,8 +1614,7 @@ msgstr "Vuelva a cargar la página para obtener la última versión."
 #: shared/components/carbon/OtpInput/OtpInput.tsx:53 /checksum/Q3pq3nPCw5
 msgctxt "UI"
 msgid "Enter the one-time password<br/>generated by your OTP app"
-msgstr ""
-"Ingrese la contraseña de un solo uso <br/> generada por su aplicación OTP"
+msgstr "Ingrese la contraseña de un solo uso<br/>generada por su aplicación OTP"
 
 #: shared/components/carbon/DataTable/DataTable.tsx:268 /checksum/1S7dSi0fw/
 msgctxt "UI"
@@ -1632,17 +1630,17 @@ msgstr "Confirme la solicitud siguiendo el enlace incluido."
 #: packages/boser/src/pages/Root/Root.tsx:230 /checksum/ZOzeAFtNIC
 msgctxt "UI"
 msgid "Get Help"
-msgstr "Consigue ayuda"
+msgstr "Obtener Ayuda"
 
 #: packages/boser/src/pages/Root/Root.tsx:235 /checksum/uOkTarWq47
 msgctxt "UI"
 msgid "Reboot Device"
-msgstr "Reiniciar dispositivo"
+msgstr "Reiniciar Dispositivo"
 
 #: packages/boser/src/pages/Root/Root.tsx:360 /checksum/GNZtBPJoin
 msgctxt "UI"
 msgid "Failed to load configuration"
-msgstr "No se pudo cargar la configuración"
+msgstr "No pudo cargar configuración"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:822 /checksum/4eVU0IUDGA
 msgctxt "UI"
@@ -1652,7 +1650,7 @@ msgstr "Perfil cargado creado el {time}"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1008 /checksum/RpDVLcp3JU
 msgctxt "UI"
 msgid "Power Usage"
-msgstr "Consumo de energía"
+msgstr "Potencia Consumo"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1205 /checksum/3LVkdixLAe
 msgctxt "UI"
@@ -1662,22 +1660,22 @@ msgstr "Nombre de host: {hostName}"
 #: packages/boser/src/pages/Settings/Settings.tsx:429 /checksum/nyDx464PLD
 msgctxt "UI"
 msgid "Add New Command"
-msgstr "Agregar nuevo comando"
+msgstr "Añadir Nuevo Comando"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:430 /checksum/PEupVYQPwf
 msgctxt "UI"
 msgid "Edit Command"
-msgstr "Editar comando"
+msgstr "Editar Comando"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:688 /checksum/2tNXD4xU1Q
 msgctxt "UI"
 msgid "Save & Apply"
-msgstr "Guardar y aplicar"
+msgstr "Guardar y Aplicar"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:692 /checksum/4E7MDP3+sf
 msgctxt "UI"
 msgid "Save changes & restart miner if needed."
-msgstr "Guarde los cambios y reinicie el minero si es necesario."
+msgstr "Guardar cambios y reiniciar minero si se necesita."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1950
 #: packages/boser/src/pages/Settings/Settings.tsx:2377
@@ -1691,12 +1689,12 @@ msgstr "Configuración de {title}"
 #: packages/boser/src/pages/Settings/Settings.tsx:2568 /checksum/E/0wMau5XV
 msgctxt "UI"
 msgid "Global Hash Chain Configuration"
-msgstr "Configuración global de HashChain"
+msgstr "Configuración Global de HashChain"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2629 /checksum/OZTDqs4W+A
 msgctxt "UI"
 msgid "Override Global Hash Chain Configuration"
-msgstr "Anular la configuración global de HashChain"
+msgstr "Anular la Configuración Global de HashChain"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3065
 #: packages/boser/src/pages/Settings/Settings.tsx:3209 /checksum/8M5qzEvpp2
@@ -1713,27 +1711,27 @@ msgstr "Comando"
 #: packages/boser/src/pages/Settings/Settings.tsx:3103 /checksum/+O5wkA9hxB
 msgctxt "UI"
 msgid "Run Action"
-msgstr "Ejecutar acción"
+msgstr "Correr Acción"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3112 /checksum/wD9CCsmFus
 msgctxt "UI"
 msgid "Edit Action"
-msgstr "Editar acción"
+msgstr "Editar Acción"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3121 /checksum/ap8ezx0r3e
 msgctxt "UI"
 msgid "Delete Action"
-msgstr "Eliminar acción"
+msgstr "Borrar Acción"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3143 /checksum/jwQnvkjBbe
 msgctxt "UI"
 msgid "System Commands"
-msgstr "Comandos del sistema"
+msgstr "Comandos del Sistema"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3168 /checksum/9BogjkZwqY
 msgctxt "UI"
 msgid "Custom Commands"
-msgstr "Comandos personalizados"
+msgstr "Comandos Personalizados"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3183 /checksum/RJqp5ULylT
 msgctxt "UI"
@@ -1743,7 +1741,7 @@ msgstr "Aún no hay mensajes de registro…"
 #: packages/boser/src/pages/Root/Root.tsx:1163 /checksum/KzokuMFcaw
 msgctxt "UI"
 msgid "Invalid login response!"
-msgstr "¡Respuesta de inicio de sesión no válida!"
+msgstr "¡Respuesta de Ingreso Inválida!"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:904 /checksum//uACcOzfn5
 msgctxt "UI"
@@ -1760,7 +1758,7 @@ msgstr "Eficiencia"
 #: packages/boser/src/pages/Settings/Settings.tsx:3332 /checksum/cwbhtXnYq+
 msgctxt "UI"
 msgid "Braiins OS+ Manager"
-msgstr "Administrador de Braiins OS +"
+msgstr "Braiins OS+ Manager"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1024 /checksum/SWDAe6zn55
 msgctxt "UI"
@@ -1770,17 +1768,17 @@ msgstr "Conectado a {farmID}"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1031 /checksum/eR/aGyCpLK
 msgctxt "UI"
 msgid "Last configuration obtained {time} ago"
-msgstr "Última configuración obtenida hace {time}"
+msgstr "Última configuración obtenida {time} atrás"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1088 /checksum/otyEaNjp/7
 msgctxt "UI"
 msgid "System Uptime"
-msgstr "Tiempo de actividad del sistema"
+msgstr "Sistema Funcionando"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1093 /checksum/tI8pnTsiF9
 msgctxt "UI"
 msgid "System Status"
-msgstr "Estado del sistema"
+msgstr "Estado de Sistema"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3254 /checksum/HrxwJqx93z
 msgctxt "UI"
@@ -1797,18 +1795,18 @@ msgid ""
 "The platform is currently in the beta stage. Please use with caution and as "
 "always, scale responsibly!"
 msgstr ""
-"La plataforma se encuentra actualmente en fase beta. ¡Úselo con precaución "
-"y, como siempre, escale de manera responsable!"
+"La plataforma está actualmente en fase beta. ¡Úsela con precaución y como "
+"siempre, escale responsablemente!"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3268 /checksum/MG4lIFVWQ2
 msgctxt "UI"
 msgid "Enterprise Features"
-msgstr "Funciones empresariales"
+msgstr "Características Empresariales"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3272 /checksum/482irpYJNW
 msgctxt "UI"
 msgid "Ready out of the box"
-msgstr "Listo fuera de la caja"
+msgstr "Listo para usar"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3273 /checksum/4btQUOYs9G
 msgctxt "UI"
@@ -1816,8 +1814,8 @@ msgid ""
 "Every device using Braiins OS+ 21.04 or later can easily connect to the "
 "cloud-based platform."
 msgstr ""
-"Todos los dispositivos que utilicen Braiins OS + 21.04 o posterior pueden "
-"conectarse fácilmente a la plataforma basada en la nube."
+"Cada dispositivo que use Braiins OS+ 21.04 o posterior puede conectarse "
+"fácilmente a la plataforma basada en la nube."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3280 /checksum/qfLjzcll5y
 msgctxt "UI"
@@ -1830,7 +1828,7 @@ msgid ""
 "Connect your devices to the platform once, manage them remotely forever."
 msgstr ""
 "Conecte sus dispositivos a la plataforma una vez, adminístrelos de forma "
-"remota para siempre."
+"remota por siempre."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3285 /checksum/hQqITNBtwq
 msgctxt "UI"
@@ -1859,13 +1857,13 @@ msgid ""
 "effectively stopping possible eavesdropping or man-in-the-middle attacks."
 msgstr ""
 "Todos los datos de configuración y telemetría enviados a través de Internet "
-"están encriptados, lo que detiene de manera efectiva posibles escuchas o "
-"ataques de intermediarios."
+"van cifrados, lo que detiene de manera efectiva posibles escuchas o ataques "
+"de intermediarios."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3301 /checksum/fodJYlFrz3
 msgctxt "UI"
 msgid "How to Connect"
-msgstr "Como conectar"
+msgstr "Como Conectar"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3380 /checksum/RK9QGcPCrp
 msgctxt "UI"
@@ -1873,7 +1871,7 @@ msgid ""
 "Braiins OS+ Manager connection is active, many local settings have been "
 "disabled."
 msgstr ""
-"La conexión de Braiins OS + Manager está activa, muchas configuraciones "
+"La conexión de Braiins OS+ Manager está activa, muchas configuraciones "
 "locales se han deshabilitado."
 
 #~ msgctxt "UI"
