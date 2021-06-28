@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2021-06-29 01:34+0000\n"
-"Last-Translator: JohnsonWang <johnsonwong@westudyin.cz>\n"
+"Last-Translator: Jáchym Černý <jachym.cerny@braiins.cz>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "slushpool/braiins-os-frontend/zh_Hans/>\n"
 "Language: zh-hans\n"
@@ -986,9 +986,10 @@ msgid "DNS Servers"
 msgstr "DNS服务器"
 
 #: packages/boser/src/pages/System/System.tsx:691 /checksum/BT48x/PSfG
+#, fuzzy
 msgctxt "UI"
 msgid "Comma separated values"
-msgstr ""
+msgstr "逗号分隔值"
 
 #: packages/boser/src/pages/System/System.tsx:773 /checksum/Bz8BKhUk6c
 #, fuzzy
@@ -1014,9 +1015,10 @@ msgid "Tracerouting {target}"
 msgstr ""
 
 #: packages/boser/src/pages/System/System.tsx:809 /checksum/0yqNduEU3L
+#, fuzzy
 msgctxt "UI"
 msgid "Looking up {target}"
-msgstr ""
+msgstr "寻找中 {target}"
 
 #: packages/boser/src/pages/System/System.tsx:827
 #: packages/boser/src/pages/System/System.tsx:1076
@@ -1026,9 +1028,10 @@ msgid "Network"
 msgstr "网络"
 
 #: packages/boser/src/pages/System/System.tsx:846 /checksum/SLv7iooY3y
+#, fuzzy
 msgctxt "UI"
 msgid "Diagnostics"
-msgstr ""
+msgstr "诊断"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3179
 #: packages/boser/src/pages/System/System.tsx:863
@@ -1168,9 +1171,10 @@ msgstr "警告"
 
 #: packages/boser/src/components/standalone/Dialog.tsx:185
 #: /checksum/WnkE2ijB8T
+#, fuzzy
 msgctxt "UI"
 msgid "loading…"
-msgstr ""
+msgstr "正在加载…"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:87 /checksum/rGqkY6ibUF
 msgctxt "CAL"
@@ -1390,34 +1394,38 @@ msgid "Last Month"
 msgstr "上个月"
 
 #: shared/components/carbon/Calendar/Calendar.tsx:286 /checksum/J1swR3mzbW
+#, fuzzy
 msgctxt "UI"
 msgid "Failed to load the calendar widget"
-msgstr ""
+msgstr "失败加载日历小部件"
 
 #: shared/lib/layout/components/Layout.tsx:225 /checksum/NXzuN9vcvw
 msgctxt "UI"
 msgid "An error has occured!"
-msgstr ""
+msgstr "发生了一个错误!"
 
 #: packages/boser/src/pages/Root/Root.tsx:275 /checksum/ird7S5HS0d
+#, fuzzy
 msgctxt "UI"
 msgid "Unknown graphql client error!"
-msgstr ""
+msgstr "未知graphql客户端错误!"
 
 #: packages/boser/src/pages/Root/Root.tsx:447 /checksum/+jEJ3/473m
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid response for backend notifications!"
-msgstr ""
+msgstr "后端通知响应无效!"
 
 #: packages/boser/src/pages/Root/Root.tsx:519 /checksum/2TXh5qbs+d
+#, fuzzy
 msgctxt "UI"
 msgid "Unknown event type \"{type}\" received!"
-msgstr ""
+msgstr "收到未知的活动类型 \"{type}\"！"
 
 #: packages/boser/src/pages/Root/Root.tsx:576 /checksum/mIwH74g5Z5
 msgctxt "UI"
 msgid "An error has occured while trying to remove an appeal!"
-msgstr ""
+msgstr "取消上诉时发生了一个错误！"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1146
 #: packages/boser/src/pages/Root/Root.tsx:581
@@ -1426,19 +1434,21 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:1104
 #: packages/boser/src/pages/Settings/Settings.tsx:1203
 #: packages/boser/src/pages/Settings/Settings.tsx:1350 /checksum/R1Kb/maWX2
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid response in group edit!"
-msgstr ""
+msgstr "编辑组应向无效"
 
 #: packages/boser/src/pages/Root/Root.tsx:631 /checksum/aVMj99GIsQ
 msgctxt "UI"
 msgid "Dismiss"
-msgstr ""
+msgstr "取消"
 
 #: packages/boser/src/pages/Root/Root.tsx:780 /checksum/JJdByNqVut
+#, fuzzy
 msgctxt "UI"
 msgid "Please wait until the device is responsive…"
-msgstr ""
+msgstr "请等待设备响应…"
 
 #: packages/boser/src/pages/Root/Root.tsx:818 /checksum/eaWq/AdlV1
 msgctxt "UI"
@@ -1451,116 +1461,132 @@ msgid ""
 msgstr ""
 
 #: packages/boser/src/pages/Root/Root.tsx:1295 /checksum/fdoMfuvsV1
+#, fuzzy
 msgctxt "UI"
 msgid "Log In to {name}"
-msgstr ""
+msgstr "登录到 {name}"
 
 #: packages/boser/src/pages/System/System.tsx:382 /checksum/pt1HUAbjIh
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid response in Settings edit!"
-msgstr ""
+msgstr "设置编辑应向无效！"
 
 #: packages/boser/src/pages/System/System.tsx:958 /checksum/S+z99kLx2W
+#, fuzzy
 msgctxt "UI"
 msgid ""
 "To restore configuration data, you can upload a previously generated backup "
 "archive here."
-msgstr ""
+msgstr "为恢复配置数据，您可以此处上传之前生成的备份。"
 
 #: packages/boser/src/pages/System/System.tsx:1049 /checksum/cVgyVd57Z3
+#, fuzzy
 msgctxt "UI"
 msgid "Configure the firmware to automatically install new releases."
-msgstr ""
+msgstr "配置固件来自动安装新升级。"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:267 /checksum/sdwg+lAKHO
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid response when fetching dashboard data!"
-msgstr ""
+msgstr "获得仪表盘数据应向无效！"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:610 /checksum/T4/thqVuN7
 msgctxt "UI"
 msgid "{name}{br}Temp"
-msgstr ""
+msgstr "{name}{br}温度"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:694
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1086 /checksum/0J1HWo4YHG
+#, fuzzy
 msgctxt "UI"
 msgid "Best Share"
-msgstr ""
+msgstr "最好份额"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:695 /checksum/E8RyuE/A5/
+#, fuzzy
 msgctxt "UI"
 msgid "Generated Work"
-msgstr ""
+msgstr "生成的工作"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:787 /checksum/3l+vDNMp69
 msgctxt "UI"
 msgid "Tuner Uptime"
-msgstr ""
+msgstr "自动调整已运行"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:794 /checksum/mQ9wXOHu8X
 msgctxt "UI"
 msgid "Stage Duration"
-msgstr ""
+msgstr "阶段已持续"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:801 /checksum/yv/NeukNhq
 msgctxt "UI"
 msgid "Approx. Watts"
-msgstr ""
+msgstr "功耗估值"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:993 /checksum//FopwGg0OA
 msgctxt "UI"
 msgid "Temperature ({name})"
-msgstr ""
+msgstr "温度 ({name})"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1085 /checksum/leedAJqvmO
+#, fuzzy
 msgctxt "UI"
 msgid "Blocks Found"
-msgstr ""
+msgstr "区块被开出"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:843
 #: packages/boser/src/pages/Settings/Settings.tsx:1002
 #: packages/boser/src/pages/Settings/Settings.tsx:1123
 #: packages/boser/src/pages/Settings/Settings.tsx:1222 /checksum/g4oPLTX83N
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid response in pool edit!"
-msgstr ""
+msgstr "矿池编辑应向无效！"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1640 /checksum/XlxXADgLGP
+#, fuzzy
 msgctxt "UI"
 msgid "No pools added…"
-msgstr ""
+msgstr "未添加任何矿池…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1909 /checksum/jgOrR4m09l
+#, fuzzy
 msgctxt "UI"
 msgid "No groups added…"
-msgstr ""
+msgstr "未添加任何组…"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2073 /checksum/351O3LPD4u
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid response in Autotuning edit!"
-msgstr ""
+msgstr "自动调整编辑应向无效！"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2183 /checksum/o/SeOwasWY
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid response in Performance edit!"
-msgstr ""
+msgstr "性能编辑应向无效！"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2381 /checksum/lD7zLSEe4L
+#, fuzzy
 msgctxt "UI"
 msgid ""
 "WARNING: Overclocking may damage your device. Proceed at your own risk!"
-msgstr ""
+msgstr "警告：超频会破坏您的设备。继续需要您自担风险！"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2456 /checksum/Bp1EDUv231
+#, fuzzy
 msgctxt "UI"
 msgid "Decrease Power Limit Value."
-msgstr ""
+msgstr "降低功率限制值。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2719 /checksum/vhOsuabIDW
+#, fuzzy
 msgctxt "UI"
 msgid "Invalid response in Temperature & Fans edit!"
-msgstr ""
+msgstr "温度和风扇编辑应向无效！"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2829 /checksum/EfjRW8GK8/
 msgctxt "UI"
@@ -1571,95 +1597,107 @@ msgid ""
 msgstr ""
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2990 /checksum/FlruVXSrFe
+#, fuzzy
 msgctxt "UI"
 msgid "Minimum Required Fans"
-msgstr ""
+msgstr "最低需要风扇"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3001 /checksum/ngeXDYdtHm
+#, fuzzy
 msgctxt "UI"
 msgid "Fan count unknown!"
-msgstr ""
+msgstr "风扇数量未知！"
 
 #: shared/components/DidCatch/DidCatch.tsx:30 /checksum/WuIghnzgG1
+#, fuzzy
 msgctxt "UI"
 msgid "Please contact our technical support team team."
-msgstr ""
+msgstr "请联系我们的技术客服团队。"
 
 #: shared/components/DidCatch/DidCatch.tsx:33 /checksum/ez5/u4BQ64
 msgctxt "UI"
 msgid "We have been notified about the issue and are working on a fix."
-msgstr ""
+msgstr "我们已收到问题并正在解决。"
 
 #: shared/components/DidCatch/DidCatch.tsx:40 /checksum/RSadH9RTI2
+#, fuzzy
 msgctxt "UI"
 msgid "Please reload the page to get the latest version."
-msgstr ""
+msgstr "请刷新页面到最新版本。"
 
 #: shared/components/carbon/OtpInput/OtpInput.tsx:53 /checksum/Q3pq3nPCw5
+#, fuzzy
 msgctxt "UI"
 msgid "Enter the one-time password<br/>generated by your OTP app"
-msgstr ""
+msgstr "输入由您OTP应用生成的<br/>一次性密码"
 
 #: shared/components/carbon/DataTable/DataTable.tsx:268 /checksum/1S7dSi0fw/
+#, fuzzy
 msgctxt "UI"
 msgid "{count, plural, =1 {# item} other {# items}} selected"
-msgstr ""
+msgstr "{count, plural, =1 {# item} 其他{# items}} 已选择"
 
 #: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:37
 #: /checksum/e7Gru/kIEg
+#, fuzzy
 msgctxt "UI"
 msgid "Please confirm the request by following the link included."
-msgstr ""
+msgstr "请您在以下附带的链接里确认您的请求。"
 
 #: packages/boser/src/pages/Root/Root.tsx:230 /checksum/ZOzeAFtNIC
 msgctxt "UI"
 msgid "Get Help"
-msgstr ""
+msgstr "获得帮助"
 
 #: packages/boser/src/pages/Root/Root.tsx:235 /checksum/uOkTarWq47
 msgctxt "UI"
 msgid "Reboot Device"
-msgstr ""
+msgstr "重启设备"
 
 #: packages/boser/src/pages/Root/Root.tsx:360 /checksum/GNZtBPJoin
+#, fuzzy
 msgctxt "UI"
 msgid "Failed to load configuration"
-msgstr ""
+msgstr "加载失败配置"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:822 /checksum/4eVU0IUDGA
 msgctxt "UI"
 msgid "Loaded profile created on {time}"
-msgstr ""
+msgstr "已加载之前调好的参数，创建于{time}"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1008 /checksum/RpDVLcp3JU
+#, fuzzy
 msgctxt "UI"
 msgid "Power Usage"
-msgstr ""
+msgstr "功耗"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1205 /checksum/3LVkdixLAe
 msgctxt "UI"
 msgid "Hostname: {hostName}"
-msgstr ""
+msgstr "矿机名: {hostName}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:429 /checksum/nyDx464PLD
 msgctxt "UI"
 msgid "Add New Command"
-msgstr ""
+msgstr "添加新的命令"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:430 /checksum/PEupVYQPwf
+#, fuzzy
 msgctxt "UI"
 msgid "Edit Command"
-msgstr ""
+msgstr "编辑命令"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:688 /checksum/2tNXD4xU1Q
+#, fuzzy
 msgctxt "UI"
 msgid "Save & Apply"
-msgstr ""
+msgstr "保存并应用"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:692 /checksum/4E7MDP3+sf
+#, fuzzy
 msgctxt "UI"
 msgid "Save changes & restart miner if needed."
-msgstr ""
+msgstr "保存变更并需要的话重启开机。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1950
 #: packages/boser/src/pages/Settings/Settings.tsx:2377
@@ -1668,179 +1706,196 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:3249 /checksum/DMC0PZGHsG
 msgctxt "UI"
 msgid "{title} Configuration"
-msgstr ""
+msgstr "{title} 配置"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2568 /checksum/E/0wMau5XV
+#, fuzzy
 msgctxt "UI"
 msgid "Global Hash Chain Configuration"
-msgstr ""
+msgstr "算力板全局配置"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2629 /checksum/OZTDqs4W+A
+#, fuzzy
 msgctxt "UI"
 msgid "Override Global Hash Chain Configuration"
-msgstr ""
+msgstr "算力板全局配置超控"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3065
 #: packages/boser/src/pages/Settings/Settings.tsx:3209 /checksum/8M5qzEvpp2
+#, fuzzy
 msgctxt "UI"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3071
 #: packages/boser/src/pages/Settings/Settings.tsx:3217 /checksum/AOQi/+Qf1+
 msgctxt "UI"
 msgid "Command"
-msgstr ""
+msgstr "命令"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3103 /checksum/+O5wkA9hxB
 msgctxt "UI"
 msgid "Run Action"
-msgstr ""
+msgstr "运行活动"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3112 /checksum/wD9CCsmFus
 msgctxt "UI"
 msgid "Edit Action"
-msgstr ""
+msgstr "编辑活动"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3121 /checksum/ap8ezx0r3e
 msgctxt "UI"
 msgid "Delete Action"
-msgstr ""
+msgstr "删除活动"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3143 /checksum/jwQnvkjBbe
 msgctxt "UI"
 msgid "System Commands"
-msgstr ""
+msgstr "系统命令"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3168 /checksum/9BogjkZwqY
 msgctxt "UI"
 msgid "Custom Commands"
-msgstr ""
+msgstr "自定义命令"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3183 /checksum/RJqp5ULylT
+#, fuzzy
 msgctxt "UI"
 msgid "No log messages yet…"
-msgstr ""
+msgstr "尚未有日志消息…"
 
 #: packages/boser/src/pages/Root/Root.tsx:1163 /checksum/KzokuMFcaw
 msgctxt "UI"
 msgid "Invalid login response!"
-msgstr ""
+msgstr "登录应向无效！"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:904 /checksum//uACcOzfn5
 msgctxt "UI"
 msgid "N/A"
-msgstr ""
+msgstr "不适用"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1007 /checksum/MpMsvhhk3X
 msgctxt "UI"
 msgid "Efficiency"
-msgstr ""
+msgstr "效率"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1019
 #: packages/boser/src/pages/Settings/Settings.tsx:3240
 #: packages/boser/src/pages/Settings/Settings.tsx:3332 /checksum/cwbhtXnYq+
 msgctxt "UI"
 msgid "Braiins OS+ Manager"
-msgstr ""
+msgstr "Braiins OS+ 管家"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1024 /checksum/SWDAe6zn55
 msgctxt "UI"
 msgid "Connected to {farmID}"
-msgstr ""
+msgstr "连接到 {farmID}"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1031 /checksum/eR/aGyCpLK
+#, fuzzy
 msgctxt "UI"
 msgid "Last configuration obtained {time} ago"
-msgstr ""
+msgstr "上一次配置获得 {time}之前"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1088 /checksum/otyEaNjp/7
+#, fuzzy
 msgctxt "UI"
 msgid "System Uptime"
-msgstr ""
+msgstr "系统已运行"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1093 /checksum/tI8pnTsiF9
 msgctxt "UI"
 msgid "System Status"
-msgstr ""
+msgstr "系统状态"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3254 /checksum/HrxwJqx93z
 msgctxt "UI"
 msgid ""
 "Batch configure and monitor your devices conveniently over the internet with"
 " Braiins OS+ for free."
-msgstr ""
+msgstr "在云端免费批量配置并监控您装有Braiins OS+的矿机。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3261 /checksum//MORD5I0xI
+#, fuzzy
 msgctxt "UI"
 msgid ""
 "The platform is currently in the beta stage. Please use with caution and as "
 "always, scale responsibly!"
-msgstr ""
+msgstr "此平台目前在beta版本。请谨慎使用！"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3268 /checksum/MG4lIFVWQ2
 msgctxt "UI"
 msgid "Enterprise Features"
-msgstr ""
+msgstr "企业级功能"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3272 /checksum/482irpYJNW
+#, fuzzy
 msgctxt "UI"
 msgid "Ready out of the box"
-msgstr ""
+msgstr "开箱即用"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3273 /checksum/4btQUOYs9G
+#, fuzzy
 msgctxt "UI"
 msgid ""
 "Every device using Braiins OS+ 21.04 or later can easily connect to the "
 "cloud-based platform."
-msgstr ""
+msgstr "每个装有BraiinsOS+ 21.04或更新版本的矿机都可以直接连接到基于云端的管理平台。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3280 /checksum/qfLjzcll5y
+#, fuzzy
 msgctxt "UI"
 msgid "One-time setup"
-msgstr ""
+msgstr "一次性设置"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3281 /checksum/E7kHBbVa01
+#, fuzzy
 msgctxt "UI"
 msgid ""
 "Connect your devices to the platform once, manage them remotely forever."
-msgstr ""
+msgstr "一旦将设备连接到平台上，您可以永远远程管理它们。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3285 /checksum/hQqITNBtwq
+#, fuzzy
 msgctxt "UI"
 msgid "Efficient"
-msgstr ""
+msgstr "高效"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3286 /checksum/ql8v2SfNoU
+#, fuzzy
 msgctxt "UI"
 msgid ""
 "The telemetry data are efficiently being sent over the next-gen Stratum V2 "
 "protocol, using the same channel as for dev fee collection."
-msgstr ""
+msgstr "遥测数据通过下一代阶层Stratum V2协议实现传送，相同于固件抽水的通道。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3293 /checksum/X133GlZ5EX
+#, fuzzy
 msgctxt "UI"
 msgid "Encrypted and safe"
-msgstr ""
+msgstr "加密和安全"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3294 /checksum/HEwJnZGR4k
+#, fuzzy
 msgctxt "UI"
 msgid ""
 "All the config and telemetry data sent over the internet are encrypted, "
 "effectively stopping possible eavesdropping or man-in-the-middle attacks."
-msgstr ""
+msgstr "所有在互联网发送的配置和遥测数据都已加密的，从而防止侦听和中间人攻击。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3301 /checksum/fodJYlFrz3
+#, fuzzy
 msgctxt "UI"
 msgid "How to Connect"
-msgstr ""
+msgstr "如何连接"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3380 /checksum/RK9QGcPCrp
+#, fuzzy
 msgctxt "UI"
 msgid ""
 "Braiins OS+ Manager connection is active, many local settings have been "
 "disabled."
-msgstr ""
+msgstr "Braiins OS+OS+管家连接已启用，许多本地设置已禁用。"
 
 #~ msgctxt "UI"
 #~ msgid "Braiins | Bitcoin mining full stack company"
