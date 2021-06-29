@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-25 15:42+0000\n"
-"PO-Revision-Date: 2021-06-26 09:34+0000\n"
+"PO-Revision-Date: 2021-06-29 15:54+0000\n"
 "Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-boser/es/>\n"
@@ -25,14 +25,12 @@ msgid "Hash chain settings is not supported"
 msgstr "La configuración de la cadena de hash no es compatible"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:143
-#, fuzzy
 msgid "Autotuning not supported"
-msgstr "El autoajuste no es compatible"
+msgstr "Autoajuste no soportado"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:146
-#, fuzzy
 msgid "Power scaling not supported"
-msgstr "El escalado de potencia no es compatible"
+msgstr "Escalado de potencia no soportado"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:149
 #: src/web/graphql/bosminer/configurator/performance.rs:152
@@ -43,40 +41,39 @@ msgstr "¡Valores de entrada no válidos!"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:155
 msgid "PSU power limit is out of range"
-msgstr ""
+msgstr "Límite de potencia fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:165
 msgid "Decrease Power Limit value is out of range"
-msgstr ""
+msgstr "Reduzca límite de Potencia fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:174
 msgid "Minimal PSU Power Limit value is out of range"
-msgstr ""
+msgstr "Valor mínimo límite de potencia fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:183
 msgid "Shutdown Duration value is out of range"
-msgstr ""
+msgstr "Duración de Parada está fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:147
-#, fuzzy
 msgid "ASIC Boost override not supported"
 msgstr "No se admite la anulación de ASIC Boost"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:158
 msgid "Global Frequency value is out of range"
-msgstr ""
+msgstr "Valor Frecuencia global fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:162
 msgid "Global Voltage value is out of range"
-msgstr ""
+msgstr "Valor Voltaje global fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:191
 msgid "Hash Chain Frequency value is out of range"
-msgstr ""
+msgstr "Valor Frecuencia HashChain fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:199
 msgid "Hash Chain Voltage value is out of range"
-msgstr ""
+msgstr "Valor Voltaje HashChain fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:222
 msgid "Invalid hash chain name or hash chain order"
@@ -87,14 +84,12 @@ msgid "The {} cannot be set in '{}' mode"
 msgstr "El {} no se puede configurar en el modo '{}'"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:129
-#, fuzzy
 msgid "Temperature control not supported"
-msgstr "El control de temperatura no es compatible"
+msgstr "Control de temperatura no soportado"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:132
-#, fuzzy
 msgid "Fan control not supported"
-msgstr "El control del ventilador no es compatible"
+msgstr "Control de ventilador no soportado"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:154
 msgid "fun speed"
@@ -114,19 +109,16 @@ msgid "dangerous temperature"
 msgstr "temperatura peligrosa"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:205
-#, fuzzy
 msgid "Target temperature value is out of range"
-msgstr "El control de temperatura no es compatible"
+msgstr "Valor temperatura objetivo fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:211
-#, fuzzy
 msgid "Hot temperature value is out of range"
-msgstr "El control de temperatura no es compatible"
+msgstr "Valor temperatura caliente fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:220
-#, fuzzy
 msgid "Dangerous temperature value is out of range"
-msgstr "La temperatura peligrosa debe ser más alta que la temperatura caliente"
+msgstr "Valor temperatura peligrosa fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:224
 msgid "Fan Speed value is out of range"
