@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2021-06-29 01:34+0000\n"
-"Last-Translator: Jáchym Černý <jachym.cerny@braiins.cz>\n"
+"Last-Translator: JohnsonWang <johnsonwong@westudyin.cz>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "slushpool/braiins-os-frontend/zh_Hans/>\n"
 "Language: zh-hans\n"
@@ -986,10 +986,9 @@ msgid "DNS Servers"
 msgstr "DNS服务器"
 
 #: packages/boser/src/pages/System/System.tsx:691 /checksum/BT48x/PSfG
-#, fuzzy
 msgctxt "UI"
 msgid "Comma separated values"
-msgstr "逗号分隔值"
+msgstr "用逗号分隔值"
 
 #: packages/boser/src/pages/System/System.tsx:773 /checksum/Bz8BKhUk6c
 #, fuzzy
