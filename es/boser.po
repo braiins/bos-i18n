@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-25 15:42+0000\n"
-"PO-Revision-Date: 2021-06-29 15:54+0000\n"
+"PO-Revision-Date: 2021-06-30 17:34+0000\n"
 "Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-boser/es/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 #: src/web/graphql/bosminer/configurator/autotuning.rs:139
 #: src/web/graphql/bosminer/configurator/performance.rs:141
 msgid "Hash chain settings is not supported"
-msgstr "La configuración de la cadena de hash no es compatible"
+msgstr "Configuración HashChain no soportada"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:143
 msgid "Autotuning not supported"
@@ -37,23 +37,23 @@ msgstr "Escalado de potencia no soportado"
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
 #: src/web/graphql/bosminer/configurator.rs:603
 msgid "Invalid input values!"
-msgstr "¡Valores de entrada no válidos!"
+msgstr "¡Valores de entrada inválidos!"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:155
 msgid "PSU power limit is out of range"
-msgstr "Límite de potencia fuera de rango"
+msgstr "Límite de potencia PSU fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:165
 msgid "Decrease Power Limit value is out of range"
-msgstr "Reduzca límite de Potencia fuera de rango"
+msgstr "Valor Límite de potencia fuera de rango, reduzca"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:174
 msgid "Minimal PSU Power Limit value is out of range"
-msgstr "Valor mínimo límite de potencia fuera de rango"
+msgstr "Valor Límite de Potencia mínimo fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:183
 msgid "Shutdown Duration value is out of range"
-msgstr "Duración de Parada está fuera de rango"
+msgstr "Valor Duración de Parada fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:147
 msgid "ASIC Boost override not supported"
@@ -77,11 +77,11 @@ msgstr "Valor Voltaje HashChain fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:222
 msgid "Invalid hash chain name or hash chain order"
-msgstr "Nombre de cadena de hash u orden de cadena de hash no válido"
+msgstr "Nombre HashChain u orden de HashChain inválido"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:125
 msgid "The {} cannot be set in '{}' mode"
-msgstr "El {} no se puede configurar en el modo '{}'"
+msgstr "El {} no puede ponerse en modo '{}'"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:129
 msgid "Temperature control not supported"
@@ -122,11 +122,11 @@ msgstr "Valor temperatura peligrosa fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:224
 msgid "Fan Speed value is out of range"
-msgstr ""
+msgstr "Valor Velocidad de ventilador fuera de rango"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:227
 msgid "Invalid minimal number of fans"
-msgstr "Número mínimo de ventiladores no válido"
+msgstr "Número mínimo de ventiladores inválido"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
 msgid "Target temperature must be lower than Hot and Dangerous temperature"
@@ -178,19 +178,19 @@ msgstr "Nombre de grupo no puede quedar vacío"
 
 #: src/web/graphql/bosminer/configurator.rs:609
 msgid "Load balancing strategy cannot be empty!"
-msgstr "¡Estrategias de balanceo de carga no pueden quedar vacías!"
+msgstr "¡Estrategia de balanceo de carga no pueden estar vacía!"
 
 #: src/web/graphql/bosminer/configurator.rs:614
 msgid "The sum of fixed share ratios {} exceeds 1"
-msgstr "La suma de las proporciones de acciones fijas {} supera 1"
+msgstr "La suma de aporte en partes fijas {} excede 1"
 
 #: src/web/graphql/bosminer/configurator.rs:620
 msgid ""
 "At least one group with quota must be present when sum of all fixed share "
 "ratios is less then 1!"
 msgstr ""
-"¡Al menos un grupo con cuota debe estar presente cuando la suma de todas las "
-"proporciones de participación fija es menor que 1!"
+"¡Al menos un grupo con cuota debe existir cuando la suma de todas los "
+"aportes en parte fija sean menor a 1!"
 
 #: src/web/graphql/bosminer/configurator.rs:626
 msgid ""
@@ -198,7 +198,7 @@ msgid ""
 "fixed share ratios is 1!"
 msgstr ""
 "¡No puede tener entradas de equilibrio de carga basadas en cuotas porque la "
-"suma de todas las proporciones de participación fija es 1!"
+"suma de todos los aportes en partes fijas es 1!"
 
 #: src/web/graphql/bosminer/info.rs:102
 msgid "Testing performance profile"
@@ -226,19 +226,19 @@ msgstr "Cadena de hash rehusó iniciar"
 
 #: src/web/graphql/bosminer/info.rs:145
 msgid "Disabled"
-msgstr ""
+msgstr "Desactivado"
 
 #: src/web/graphql/bosminer/info.rs:146
 msgid "Enabled"
-msgstr ""
+msgstr "Activado"
 
 #: src/web/graphql/bosminer/info.rs:149
 msgid "Power limit lowered to {} W"
-msgstr ""
+msgstr "Límite de potencia reducido a {} W"
 
 #: src/web/graphql/bosminer/info.rs:156
 msgid "Mining shutdown, will start again in {}"
-msgstr ""
+msgstr "Minería parada, iniciará de nuevo en {}"
 
 #: src/web/graphql/bosminer/info.rs:740
 msgid "BOSminer is not running"
