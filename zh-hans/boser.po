@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-25 15:42+0000\n"
-"PO-Revision-Date: 2021-06-29 15:54+0000\n"
+"PO-Revision-Date: 2021-06-30 17:34+0000\n"
 "Last-Translator: JohnsonWang <johnsonwong@westudyin.cz>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "slushpool/braiins-os-boser/zh_Hans/>\n"
@@ -25,84 +25,71 @@ msgid "Hash chain settings is not supported"
 msgstr "不支持设置算力板"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:143
-#, fuzzy
 msgid "Autotuning not supported"
-msgstr "自动调整不支持"
+msgstr "不支持自动调整"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:146
 msgid "Power scaling not supported"
-msgstr "功率调节不支持"
+msgstr "不支持动态功率调节"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:149
 #: src/web/graphql/bosminer/configurator/performance.rs:152
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
 #: src/web/graphql/bosminer/configurator.rs:603
-#, fuzzy
 msgid "Invalid input values!"
 msgstr "输入值无效！"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:155
-#, fuzzy
 msgid "PSU power limit is out of range"
-msgstr "电源功耗限制不在范围内"
+msgstr "电源功耗限值超出范围"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:165
-#, fuzzy
 msgid "Decrease Power Limit value is out of range"
-msgstr "降低功耗限制不在范围内"
+msgstr "功耗限值降低值超出范围"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:174
-#, fuzzy
 msgid "Minimal PSU Power Limit value is out of range"
-msgstr "最低电源功耗限制不在范围内"
+msgstr "最低电源功耗限值超出范围"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:183
-#, fuzzy
 msgid "Shutdown Duration value is out of range"
-msgstr "关机时长值不在范围内"
+msgstr "关机时长值超出范围"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:147
-#, fuzzy
 msgid "ASIC Boost override not supported"
-msgstr "ASCI Boost超控不支持"
+msgstr "不支持超控ASIC Boost"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:158
-#, fuzzy
 msgid "Global Frequency value is out of range"
-msgstr "全局频率值不在范围内"
+msgstr "全局频率超出范围"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:162
-#, fuzzy
 msgid "Global Voltage value is out of range"
-msgstr "全局电压值不在范围内"
+msgstr "全局电压超出范围"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:191
-#, fuzzy
 msgid "Hash Chain Frequency value is out of range"
-msgstr "计算版频率值不在范围内"
+msgstr "算力板频率超出范围"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:199
-#, fuzzy
 msgid "Hash Chain Voltage value is out of range"
-msgstr "计算版电压值不在范围内"
+msgstr "算力板电压超出范围"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:222
 msgid "Invalid hash chain name or hash chain order"
-msgstr ""
+msgstr "算力板名或顺序无效"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:125
 msgid "The {} cannot be set in '{}' mode"
-msgstr ""
+msgstr "{} 在 '{}' 模式下无法设置"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:129
-#, fuzzy
 msgid "Temperature control not supported"
-msgstr "温度控制不支持"
+msgstr "不支持温控"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:132
-#, fuzzy
 msgid "Fan control not supported"
-msgstr "风扇控制不支持"
+msgstr "不支持风扇控制"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:154
 msgid "fun speed"
@@ -122,36 +109,30 @@ msgid "dangerous temperature"
 msgstr "危险温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:205
-#, fuzzy
 msgid "Target temperature value is out of range"
-msgstr "目标温度值不在范围内"
+msgstr "目标温度值超出范围"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:211
-#, fuzzy
 msgid "Hot temperature value is out of range"
-msgstr "过热温度值不在范围内"
+msgstr "过热温度值超出范围"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:220
-#, fuzzy
 msgid "Dangerous temperature value is out of range"
-msgstr "危险温度值不在范围内"
+msgstr "危险温度值超出范围"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:224
-#, fuzzy
 msgid "Fan Speed value is out of range"
-msgstr "风扇速度值不在范围内"
+msgstr "风扇速度值超出范围"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:227
 msgid "Invalid minimal number of fans"
-msgstr ""
+msgstr "最小风扇数无效"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
-#, fuzzy
 msgid "Target temperature must be lower than Hot and Dangerous temperature"
 msgstr "目标温度必须小于过热温度和危险温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:261
-#, fuzzy
 msgid ""
 "Hot temperature must be higher than Target and lower than Dangerous "
 "temperature"
@@ -162,115 +143,105 @@ msgid "Hot temperature must be lower than Dangerous temperature"
 msgstr "过热温度必须小于危险温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:278
-#, fuzzy
 msgid "Dangerous temperature must be higher than Target and Hot temperature"
 msgstr "危险温度必须大于目标温度和过热温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:283
-#, fuzzy
 msgid "Dangerous temperature must be Higher than Hot temperature"
 msgstr "危险温度必须大于过热温度"
 
 #: src/web/graphql/bosminer/configurator.rs:344
-#, fuzzy
 msgid "Missing pool with id '{}'!"
-msgstr "缺失具有'{}ID的矿池！"
+msgstr "缺失ID为 '{}' 的矿池！"
 
 #: src/web/graphql/bosminer/configurator.rs:503
-#, fuzzy
 msgid "Missing group with id '{}'"
-msgstr "缺失具有'{}'ID的矿池组"
+msgstr "确实ID为 '{}' 的矿池组"
 
 #: src/web/graphql/bosminer/configurator.rs:536
 msgid "Ambiguous attributes for 'strategy'"
-msgstr ""
+msgstr "模糊的'策略'项"
 
 #: src/web/graphql/bosminer/configurator.rs:544
 msgid "Duplicate use of the identifier '{}'"
-msgstr ""
+msgstr "重复使用识别符 '{}'"
 
 #: src/web/graphql/bosminer/configurator.rs:563
 msgid "Missing mandatory attribute 'name'"
-msgstr ""
+msgstr "缺失必须项 '名'"
 
 #: src/web/graphql/bosminer/configurator.rs:604
 msgid "Group name cannot be empty"
-msgstr ""
+msgstr "组名不能为空"
 
 #: src/web/graphql/bosminer/configurator.rs:609
 msgid "Load balancing strategy cannot be empty!"
-msgstr ""
+msgstr "负载平衡策略不能为空！"
 
 #: src/web/graphql/bosminer/configurator.rs:614
 msgid "The sum of fixed share ratios {} exceeds 1"
-msgstr ""
+msgstr "按固定百分比分配算力之和 {} 超过1"
 
 #: src/web/graphql/bosminer/configurator.rs:620
 msgid ""
 "At least one group with quota must be present when sum of all fixed share "
 "ratios is less then 1!"
-msgstr ""
+msgstr "当算力按固定百分比分配之和小于1时，必须至少对一个矿池组设置算力按比值分配！"
 
 #: src/web/graphql/bosminer/configurator.rs:626
 msgid ""
 "You cannot have any quota-based load balancing entries because sum of all "
 "fixed share ratios is 1!"
-msgstr ""
+msgstr "按百分比分配算力之和为1，则无法按比值分配算力！"
 
 #: src/web/graphql/bosminer/info.rs:102
 msgid "Testing performance profile"
-msgstr ""
+msgstr "矿机体质测试"
 
 #: src/web/graphql/bosminer/info.rs:104
-#, fuzzy
 msgid "Tuning individual chips"
-msgstr "调整独立芯片"
+msgstr "单个芯片调整"
 
 #: src/web/graphql/bosminer/info.rs:105
-#, fuzzy
 msgid "Stable"
 msgstr "稳定"
 
 #: src/web/graphql/bosminer/info.rs:106
-#, fuzzy
 msgid "Tuner not running"
-msgstr "调整不运行"
+msgstr "调整器未运行"
 
 #: src/web/graphql/bosminer/info.rs:108
 msgid "Running with fixed settings"
-msgstr ""
+msgstr "按固定设置运行"
 
 #: src/web/graphql/bosminer/info.rs:111
 msgid "Hashchain refused to start"
-msgstr ""
+msgstr "算力板无法启动"
 
 #: src/web/graphql/bosminer/info.rs:145
-#, fuzzy
 msgid "Disabled"
 msgstr "已禁用"
 
 #: src/web/graphql/bosminer/info.rs:146
-#, fuzzy
 msgid "Enabled"
 msgstr "已启用"
 
 #: src/web/graphql/bosminer/info.rs:149
-#, fuzzy
 msgid "Power limit lowered to {} W"
-msgstr "功耗限制降低到 {} W"
+msgstr "降低功耗限制到 {} 瓦"
 
 #: src/web/graphql/bosminer/info.rs:156
 msgid "Mining shutdown, will start again in {}"
-msgstr ""
+msgstr "矿机关机到 {} 再重启"
 
 #: src/web/graphql/bosminer/info.rs:740
 msgid "BOSminer is not running"
-msgstr ""
+msgstr "BOSminer未运行"
 
 #: src/web/graphql/bosminer.rs:204
 msgid "Restart BOSminer to apply configuration changes!"
-msgstr ""
+msgstr "重启BOSminer应用配置更改！"
 
 #: src/web/graphql/storage.rs:172
 msgid "Cannot save web data to persistent storage"
-msgstr ""
+msgstr "无法保存网络数据到永久储存"
