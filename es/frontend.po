@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-26 17:33+0000\n"
+"PO-Revision-Date: 2021-06-30 17:35+0000\n"
 "Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-frontend/es/>\n"
@@ -497,7 +497,7 @@ msgstr "Cuota: {valor}"
 #: packages/boser/src/pages/Settings/Settings.tsx:1683 /checksum/kLS2qiLInM
 msgctxt "UI"
 msgid "Fixed Share Ratio: {value}"
-msgstr "Proporción de share fija: {value}"
+msgstr "Proporción de aporte fijo: {value}"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1698 /checksum/FKc/oBeC4z
 msgctxt "UI"
@@ -533,7 +533,7 @@ msgstr "Cuota"
 #: packages/boser/src/pages/Settings/Settings.tsx:1818 /checksum/B5HHuJeRBo
 msgctxt "UI"
 msgid "Fixed Share Ratio"
-msgstr "Proporción de share fijo"
+msgstr "Proporción de Aporte fijo"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:1853 /checksum/rQWw/NnpNN
 msgctxt "UI"
@@ -1494,7 +1494,7 @@ msgstr "{name}{br}Temp"
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1086 /checksum/0J1HWo4YHG
 msgctxt "UI"
 msgid "Best Share"
-msgstr "Mejor Participación"
+msgstr "Mejor Aporte"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:695 /checksum/E8RyuE/A5/
 msgctxt "UI"
