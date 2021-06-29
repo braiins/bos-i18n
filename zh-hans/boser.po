@@ -8,69 +8,84 @@ msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-25 15:42+0000\n"
-"PO-Revision-Date: 2021-05-05 15:55+0200\n"
-"Last-Translator: Libor Vasicek <libor.vasicek@braiins.cz>\n"
-"Language-Team: Language zh-hans\n"
+"PO-Revision-Date: 2021-06-29 15:54+0000\n"
+"Last-Translator: Jáchym Černý <jachym.cerny@braiins.cz>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"slushpool/braiins-os-boser/zh_Hans/>\n"
 "Language: zh-hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.7.1-dev\n"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:139
 #: src/web/graphql/bosminer/configurator/performance.rs:141
+#, fuzzy
 msgid "Hash chain settings is not supported"
-msgstr ""
+msgstr "算力版设置不支持"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:143
+#, fuzzy
 msgid "Autotuning not supported"
-msgstr ""
+msgstr "自动调整不支持"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:146
 msgid "Power scaling not supported"
-msgstr ""
+msgstr "功率调节不支持"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:149
 #: src/web/graphql/bosminer/configurator/performance.rs:152
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
 #: src/web/graphql/bosminer/configurator.rs:603
+#, fuzzy
 msgid "Invalid input values!"
-msgstr ""
+msgstr "输入值无效！"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:155
+#, fuzzy
 msgid "PSU power limit is out of range"
-msgstr ""
+msgstr "电源功耗限制不在范围内"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:165
+#, fuzzy
 msgid "Decrease Power Limit value is out of range"
-msgstr ""
+msgstr "降低功耗限制不在范围内"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:174
+#, fuzzy
 msgid "Minimal PSU Power Limit value is out of range"
-msgstr ""
+msgstr "最低电源功耗限制不在范围内"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:183
+#, fuzzy
 msgid "Shutdown Duration value is out of range"
-msgstr ""
+msgstr "关机时长值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:147
+#, fuzzy
 msgid "ASIC Boost override not supported"
-msgstr ""
+msgstr "ASCI Boost超控不支持"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:158
+#, fuzzy
 msgid "Global Frequency value is out of range"
-msgstr ""
+msgstr "全局频率值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:162
+#, fuzzy
 msgid "Global Voltage value is out of range"
-msgstr ""
+msgstr "全局电压值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:191
+#, fuzzy
 msgid "Hash Chain Frequency value is out of range"
-msgstr ""
+msgstr "计算版频率值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:199
+#, fuzzy
 msgid "Hash Chain Voltage value is out of range"
-msgstr ""
+msgstr "计算版电压值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/performance.rs:222
 msgid "Invalid hash chain name or hash chain order"
@@ -81,79 +96,91 @@ msgid "The {} cannot be set in '{}' mode"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:129
+#, fuzzy
 msgid "Temperature control not supported"
-msgstr ""
+msgstr "温度控制不支持"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:132
+#, fuzzy
 msgid "Fan control not supported"
-msgstr ""
+msgstr "风扇控制不支持"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:154
 msgid "fun speed"
-msgstr ""
+msgstr "风扇速度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:165
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:175
 msgid "target temperature"
-msgstr ""
+msgstr "目标温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:182
 msgid "hot temperature"
-msgstr ""
+msgstr "过热温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:189
 msgid "dangerous temperature"
-msgstr ""
+msgstr "危险温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:205
+#, fuzzy
 msgid "Target temperature value is out of range"
-msgstr ""
+msgstr "目标温度值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:211
+#, fuzzy
 msgid "Hot temperature value is out of range"
-msgstr ""
+msgstr "过热温度值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:220
+#, fuzzy
 msgid "Dangerous temperature value is out of range"
-msgstr ""
+msgstr "危险温度值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:224
+#, fuzzy
 msgid "Fan Speed value is out of range"
-msgstr ""
+msgstr "风扇速度值不在范围内"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:227
 msgid "Invalid minimal number of fans"
 msgstr ""
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
+#, fuzzy
 msgid "Target temperature must be lower than Hot and Dangerous temperature"
-msgstr ""
+msgstr "目标温度必须小于过热温度和危险温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:261
+#, fuzzy
 msgid ""
 "Hot temperature must be higher than Target and lower than Dangerous "
 "temperature"
-msgstr ""
+msgstr "过热温度必须大于目标温度并小于危险温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:267
 msgid "Hot temperature must be lower than Dangerous temperature"
-msgstr ""
+msgstr "过热温度必须小于危险温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:278
+#, fuzzy
 msgid "Dangerous temperature must be higher than Target and Hot temperature"
-msgstr ""
+msgstr "危险温度必须大于目标温度和过热温度"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:283
+#, fuzzy
 msgid "Dangerous temperature must be Higher than Hot temperature"
-msgstr ""
+msgstr "危险温度必须大于过热温度"
 
 #: src/web/graphql/bosminer/configurator.rs:344
+#, fuzzy
 msgid "Missing pool with id '{}'!"
-msgstr ""
+msgstr "缺失具有'{}ID的矿池！"
 
 #: src/web/graphql/bosminer/configurator.rs:503
+#, fuzzy
 msgid "Missing group with id '{}'"
-msgstr ""
+msgstr "缺失具有'{}'ID的矿池组"
 
 #: src/web/graphql/bosminer/configurator.rs:536
 msgid "Ambiguous attributes for 'strategy'"
@@ -196,16 +223,19 @@ msgid "Testing performance profile"
 msgstr ""
 
 #: src/web/graphql/bosminer/info.rs:104
+#, fuzzy
 msgid "Tuning individual chips"
-msgstr ""
+msgstr "调整独立芯片"
 
 #: src/web/graphql/bosminer/info.rs:105
+#, fuzzy
 msgid "Stable"
-msgstr ""
+msgstr "稳定"
 
 #: src/web/graphql/bosminer/info.rs:106
+#, fuzzy
 msgid "Tuner not running"
-msgstr ""
+msgstr "调整不运行"
 
 #: src/web/graphql/bosminer/info.rs:108
 msgid "Running with fixed settings"
@@ -216,16 +246,19 @@ msgid "Hashchain refused to start"
 msgstr ""
 
 #: src/web/graphql/bosminer/info.rs:145
+#, fuzzy
 msgid "Disabled"
-msgstr ""
+msgstr "已禁用"
 
 #: src/web/graphql/bosminer/info.rs:146
+#, fuzzy
 msgid "Enabled"
-msgstr ""
+msgstr "已启用"
 
 #: src/web/graphql/bosminer/info.rs:149
+#, fuzzy
 msgid "Power limit lowered to {} W"
-msgstr ""
+msgstr "功耗限制降低到 {} W"
 
 #: src/web/graphql/bosminer/info.rs:156
 msgid "Mining shutdown, will start again in {}"
