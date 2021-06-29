@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-25 15:42+0000\n"
-"PO-Revision-Date: 2021-06-26 09:34+0000\n"
+"PO-Revision-Date: 2021-06-29 15:54+0000\n"
 "Last-Translator: Behzad Amiri Nezhad <behzad.amiri.nezhad@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-boser/fa/>\n"
@@ -224,19 +224,19 @@ msgstr "هش‌چین از شروع خودداری میکند"
 
 #: src/web/graphql/bosminer/info.rs:145
 msgid "Disabled"
-msgstr ""
+msgstr "غیرفعال"
 
 #: src/web/graphql/bosminer/info.rs:146
 msgid "Enabled"
-msgstr ""
+msgstr "فعال"
 
 #: src/web/graphql/bosminer/info.rs:149
 msgid "Power limit lowered to {} W"
-msgstr ""
+msgstr "حد پاور به {} وات کاهش یافته"
 
 #: src/web/graphql/bosminer/info.rs:156
 msgid "Mining shutdown, will start again in {}"
-msgstr ""
+msgstr "عملیات ماینینگ خاموش شد، دوباره در {} شروع خواهد شد"
 
 #: src/web/graphql/bosminer/info.rs:740
 msgid "BOSminer is not running"
