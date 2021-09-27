@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-30 17:35+0000\n"
+"PO-Revision-Date: 2021-09-28 00:45+0000\n"
 "Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/braiins-os-frontend/es/>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os-frontend/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7.1-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -1873,43 +1874,43 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:2461 /checksum/I29+dQwzP+
 msgctxt "UI"
 msgid "Decrease Power Limit Value"
-msgstr ""
+msgstr "Reduce valor de Límite de Potencia"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3283 /checksum//GDvUiLTX8
 msgctxt "UI"
 msgid "Learn more on the Website"
-msgstr ""
+msgstr "Aprenda mas en el Sitioweb"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3293 /checksum/e58F0aJc2+
 msgctxt "UI"
 msgid "Braiins OS+ Manager connection"
-msgstr ""
+msgstr "Conexión Braiins OS+ Manager"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3297 /checksum/CElPu0wBcB
 msgctxt "UI"
 msgid "Farm ID"
-msgstr ""
+msgstr "ID Granja"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3300
 #: packages/boser/src/pages/Settings/Settings.tsx:3317 /checksum/xWzqHgidTA
 msgctxt "UI"
 msgid "ID from Braiins OS+ Manager"
-msgstr ""
+msgstr "ID de Braiins OS+ Manager"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3313 /checksum/aVJOgMlgBE
 msgctxt "UI"
 msgid "Last Configuration Obtained"
-msgstr ""
+msgstr "Última Configuración Obtenida"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3331 /checksum/nNNsvOtcFA
 msgctxt "UI"
 msgid "View Documentation"
-msgstr ""
+msgstr "Ver Documentación"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3347 /checksum/H+TXzXgeOH
 msgctxt "UI"
 msgid "Step 1 - Create a Braiins OS+ Manager account"
-msgstr ""
+msgstr "Paso 1 - Crear una cuenta Braiins OS+ Manager"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3351 /checksum/8zQ5/z1IOS
 msgctxt "UI"
@@ -1917,32 +1918,36 @@ msgid ""
 "Create a Braiins OS+ Manager account, confirm your e-mail address and get "
 "the Farm ID."
 msgstr ""
+"Crear una cuenta Braiins OS+ Manager, confirme su dirección de correo y "
+"obtenga la ID Granja."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3358 /checksum/96m0/NLcNP
 msgctxt "UI"
 msgid "Sign Up Here"
-msgstr ""
+msgstr "Inscríbase Aquí"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3361 /checksum/FCmYfQZPpK
 msgctxt "UI"
 msgid "Step 2 - Enter the Farm ID"
-msgstr ""
+msgstr "Paso 2 - Ingrese la ID Granja"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3364 /checksum/u9ojSd2YlI
 msgctxt "UI"
 msgid ""
 "To connect the devices, enter the Farm ID that you get in previous step."
 msgstr ""
+"Para conectar los dispositivos, ingrese la ID Granja que obtuvo en el paso "
+"previo."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3373 /checksum/MH83uHr78f
 msgctxt "UI"
 msgid "You can enter the Farm ID using the <a>Braiins OS Toolbox</a>."
-msgstr ""
+msgstr "Puede ingresar la ID Granja usando la <a>Braiins OS Toolbox</a>."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3388 /checksum/lvjZlxPl9b
 msgctxt "UI"
 msgid "Detailed instructions"
-msgstr ""
+msgstr "Instrucciones detalladas"
 
 #~ msgctxt "UI"
 #~ msgid "Decrease Power Limit Value."
