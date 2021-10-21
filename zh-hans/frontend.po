@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-30 17:35+0000\n"
+"PO-Revision-Date: 2021-10-22 02:33+0000\n"
 "Last-Translator: JohnsonWang <johnsonwong@westudyin.cz>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/slushpool/braiins-os-frontend/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"slushpool/braiins-os-frontend/zh_Hans/>\n"
 "Language: zh-hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7.1-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -1833,76 +1834,76 @@ msgstr "已启用Braiins OS+管家连接，已禁用本地相关设置。"
 #: packages/boser/src/pages/Settings/Settings.tsx:2461 /checksum/I29+dQwzP+
 msgctxt "UI"
 msgid "Decrease Power Limit Value"
-msgstr ""
+msgstr "降低功耗限值"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3283 /checksum//GDvUiLTX8
 msgctxt "UI"
 msgid "Learn more on the Website"
-msgstr ""
+msgstr "在网站中了解更多"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3293 /checksum/e58F0aJc2+
 msgctxt "UI"
 msgid "Braiins OS+ Manager connection"
-msgstr ""
+msgstr "Braiins OS+ 管家（Manager）绑定"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3297 /checksum/CElPu0wBcB
 msgctxt "UI"
 msgid "Farm ID"
-msgstr ""
+msgstr "Farm ID"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3300
 #: packages/boser/src/pages/Settings/Settings.tsx:3317 /checksum/xWzqHgidTA
 msgctxt "UI"
 msgid "ID from Braiins OS+ Manager"
-msgstr ""
+msgstr "Braiins OS+ 管家中的ID"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3313 /checksum/aVJOgMlgBE
 msgctxt "UI"
 msgid "Last Configuration Obtained"
-msgstr ""
+msgstr "已有上次的配置"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3331 /checksum/nNNsvOtcFA
 msgctxt "UI"
 msgid "View Documentation"
-msgstr ""
+msgstr "阅读技术文档"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3347 /checksum/H+TXzXgeOH
 msgctxt "UI"
 msgid "Step 1 - Create a Braiins OS+ Manager account"
-msgstr ""
+msgstr "第一步 —— 创建Braiins OS+管家（Manager）账号"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3351 /checksum/8zQ5/z1IOS
 msgctxt "UI"
 msgid ""
 "Create a Braiins OS+ Manager account, confirm your e-mail address and get "
 "the Farm ID."
-msgstr ""
+msgstr "创建Braiins OS+管家账号，确认邮箱地址，获取Farm ID。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3358 /checksum/96m0/NLcNP
 msgctxt "UI"
 msgid "Sign Up Here"
-msgstr ""
+msgstr "点此注册"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3361 /checksum/FCmYfQZPpK
 msgctxt "UI"
 msgid "Step 2 - Enter the Farm ID"
-msgstr ""
+msgstr "第二步 —— 输入Farm ID"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3364 /checksum/u9ojSd2YlI
 msgctxt "UI"
 msgid ""
 "To connect the devices, enter the Farm ID that you get in previous step."
-msgstr ""
+msgstr "输入上一步中得到的Farm ID绑定矿机。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3373 /checksum/MH83uHr78f
 msgctxt "UI"
 msgid "You can enter the Farm ID using the <a>Braiins OS Toolbox</a>."
-msgstr ""
+msgstr "您可以使用<a>Braiins OS工具箱（Toolbox）</a>输入并配置Farm ID。"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:3388 /checksum/lvjZlxPl9b
 msgctxt "UI"
 msgid "Detailed instructions"
-msgstr ""
+msgstr "详细步骤"
 
 #~ msgctxt "UI"
 #~ msgid "Decrease Power Limit Value."
