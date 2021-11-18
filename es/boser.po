@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-25 15:42+0000\n"
+"POT-Creation-Date: 2021-11-18 16:48+0000\n"
 "PO-Revision-Date: 2021-06-30 17:34+0000\n"
 "Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
@@ -19,120 +19,122 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1-dev\n"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:139
-#: src/web/graphql/bosminer/configurator/performance.rs:141
+#: src/web/graphql/bosminer/configurator/autotuning.rs:145
+#: src/web/graphql/bosminer/configurator/performance.rs:147
 msgid "Hash chain settings is not supported"
 msgstr "Configuración HashChain no soportada"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:143
+#: src/web/graphql/bosminer/configurator/autotuning.rs:149
 msgid "Autotuning not supported"
 msgstr "Autoajuste no soportado"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:146
+#: src/web/graphql/bosminer/configurator/autotuning.rs:152
 msgid "Power scaling not supported"
 msgstr "Escalado de potencia no soportado"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:149
-#: src/web/graphql/bosminer/configurator/performance.rs:152
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
-#: src/web/graphql/bosminer/configurator.rs:603
+#: src/web/graphql/bosminer/configurator/autotuning.rs:155
+#: src/web/graphql/bosminer/configurator/performance.rs:158
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:141
+#: src/web/graphql/bosminer/configurator.rs:369
+#: src/web/graphql/bosminer/configurator.rs:832
 msgid "Invalid input values!"
 msgstr "¡Valores de entrada inválidos!"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:155
+#: src/web/graphql/bosminer/configurator/autotuning.rs:161
 msgid "PSU power limit is out of range"
 msgstr "Límite de potencia PSU fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:165
+#: src/web/graphql/bosminer/configurator/autotuning.rs:171
 msgid "Decrease Power Limit value is out of range"
 msgstr "Valor Límite de potencia fuera de rango, reduzca"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:174
+#: src/web/graphql/bosminer/configurator/autotuning.rs:180
 msgid "Minimal PSU Power Limit value is out of range"
 msgstr "Valor Límite de Potencia mínimo fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:183
+#: src/web/graphql/bosminer/configurator/autotuning.rs:189
 msgid "Shutdown Duration value is out of range"
 msgstr "Valor Duración de Parada fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:147
+#: src/web/graphql/bosminer/configurator/performance.rs:153
 msgid "ASIC Boost override not supported"
 msgstr "No se admite la anulación de ASIC Boost"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:158
+#: src/web/graphql/bosminer/configurator/performance.rs:164
 msgid "Global Frequency value is out of range"
 msgstr "Valor Frecuencia global fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:162
+#: src/web/graphql/bosminer/configurator/performance.rs:168
 msgid "Global Voltage value is out of range"
 msgstr "Valor Voltaje global fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:191
+#: src/web/graphql/bosminer/configurator/performance.rs:197
 msgid "Hash Chain Frequency value is out of range"
 msgstr "Valor Frecuencia HashChain fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:199
+#: src/web/graphql/bosminer/configurator/performance.rs:205
 msgid "Hash Chain Voltage value is out of range"
 msgstr "Valor Voltaje HashChain fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:222
+#: src/web/graphql/bosminer/configurator/performance.rs:228
 msgid "Invalid hash chain name or hash chain order"
 msgstr "Nombre HashChain u orden de HashChain inválido"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:125
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:131
 msgid "The {} cannot be set in '{}' mode"
 msgstr "El {} no puede ponerse en modo '{}'"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:129
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
 msgid "Temperature control not supported"
 msgstr "Control de temperatura no soportado"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:132
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:138
 msgid "Fan control not supported"
 msgstr "Control de ventilador no soportado"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:154
-msgid "fun speed"
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:160
+#, fuzzy
+msgid "fan speed"
 msgstr "Velocidad del ventilador"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:165
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:175
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:171
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:181
 msgid "target temperature"
 msgstr "temperatura objetivo"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:182
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:188
 msgid "hot temperature"
 msgstr "temperatura caliente"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:189
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:195
 msgid "dangerous temperature"
 msgstr "temperatura peligrosa"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:205
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:211
 msgid "Target temperature value is out of range"
 msgstr "Valor temperatura objetivo fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:211
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:217
 msgid "Hot temperature value is out of range"
 msgstr "Valor temperatura caliente fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:220
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:226
 msgid "Dangerous temperature value is out of range"
 msgstr "Valor temperatura peligrosa fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:224
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:230
 msgid "Fan Speed value is out of range"
 msgstr "Valor Velocidad de ventilador fuera de rango"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:227
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:233
 msgid "Invalid minimal number of fans"
 msgstr "Número mínimo de ventiladores inválido"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:252
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:258
 msgid "Target temperature must be lower than Hot and Dangerous temperature"
 msgstr "La temperatura objetivo debe ser menor que la caliente y la peligrosa"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:261
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:267
 msgid ""
 "Hot temperature must be higher than Target and lower than Dangerous "
 "temperature"
@@ -140,51 +142,63 @@ msgstr ""
 "La temperatura caliente debe ser mayor que la objetivo y menor que la "
 "peligrosa"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:267
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:273
 msgid "Hot temperature must be lower than Dangerous temperature"
 msgstr "La temperatura caliente debe ser menor que la peligrosa"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:278
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:284
 msgid "Dangerous temperature must be higher than Target and Hot temperature"
 msgstr "La temperatura peligrosa debe ser mayor que la objetivo y la caliente"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:283
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:289
 msgid "Dangerous temperature must be Higher than Hot temperature"
 msgstr "La temperatura peligrosa debe ser mayor que la caliente"
 
-#: src/web/graphql/bosminer/configurator.rs:344
+#: src/web/graphql/bosminer/configurator.rs:376
+msgid "Unsupported pool protocol"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:379
+msgid "Invalid format of pool URL"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:384
+msgid "Empty pool user name"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator.rs:515
 msgid "Missing pool with id '{}'!"
 msgstr "¡Falta el pool con id '{}'!"
 
-#: src/web/graphql/bosminer/configurator.rs:503
+#: src/web/graphql/bosminer/configurator.rs:716
 msgid "Missing group with id '{}'"
 msgstr "Falta el grupo con el ID '{}'"
 
-#: src/web/graphql/bosminer/configurator.rs:536
+#: src/web/graphql/bosminer/configurator.rs:750
 msgid "Ambiguous attributes for 'strategy'"
 msgstr "Atributos ambiguos para 'estrategia'"
 
-#: src/web/graphql/bosminer/configurator.rs:544
+#: src/web/graphql/bosminer/configurator.rs:758
 msgid "Duplicate use of the identifier '{}'"
 msgstr "Uso duplicado del identificador '{}'"
 
-#: src/web/graphql/bosminer/configurator.rs:563
+#: src/web/graphql/bosminer/configurator.rs:777
 msgid "Missing mandatory attribute 'name'"
 msgstr "Falta el atributo obligatorio 'name'"
 
-#: src/web/graphql/bosminer/configurator.rs:604
+#: src/web/graphql/bosminer/configurator.rs:833
 msgid "Group name cannot be empty"
 msgstr "Nombre de grupo no puede quedar vacío"
 
-#: src/web/graphql/bosminer/configurator.rs:609
+#: src/web/graphql/bosminer/configurator.rs:838
 msgid "Load balancing strategy cannot be empty!"
 msgstr "¡Estrategia de balanceo de carga no pueden estar vacía!"
 
-#: src/web/graphql/bosminer/configurator.rs:614
+#: src/web/graphql/bosminer/configurator.rs:843
 msgid "The sum of fixed share ratios {} exceeds 1"
 msgstr "La suma de aporte en partes fijas {} excede 1"
 
-#: src/web/graphql/bosminer/configurator.rs:620
+#: src/web/graphql/bosminer/configurator.rs:849
 msgid ""
 "At least one group with quota must be present when sum of all fixed share "
 "ratios is less then 1!"
@@ -192,7 +206,7 @@ msgstr ""
 "¡Al menos un grupo con cuota debe existir cuando la suma de todas los "
 "aportes en parte fija sean menor a 1!"
 
-#: src/web/graphql/bosminer/configurator.rs:626
+#: src/web/graphql/bosminer/configurator.rs:855
 msgid ""
 "You cannot have any quota-based load balancing entries because sum of all "
 "fixed share ratios is 1!"
@@ -224,27 +238,27 @@ msgstr "Corriendo con parámetros fijos"
 msgid "Hashchain refused to start"
 msgstr "Cadena de hash rehusó iniciar"
 
-#: src/web/graphql/bosminer/info.rs:145
+#: src/web/graphql/bosminer/info.rs:159
 msgid "Disabled"
 msgstr "Desactivado"
 
-#: src/web/graphql/bosminer/info.rs:146
+#: src/web/graphql/bosminer/info.rs:160
 msgid "Enabled"
 msgstr "Activado"
 
-#: src/web/graphql/bosminer/info.rs:149
+#: src/web/graphql/bosminer/info.rs:163
 msgid "Power limit lowered to {} W"
 msgstr "Límite de potencia reducido a {} W"
 
-#: src/web/graphql/bosminer/info.rs:156
+#: src/web/graphql/bosminer/info.rs:170
 msgid "Mining shutdown, will start again in {}"
 msgstr "Minería parada, iniciará de nuevo en {}"
 
-#: src/web/graphql/bosminer/info.rs:740
+#: src/web/graphql/bosminer/info.rs:775
 msgid "BOSminer is not running"
 msgstr "BOSminer no está corriendo"
 
-#: src/web/graphql/bosminer.rs:204
+#: src/web/graphql/bosminer.rs:328
 msgid "Restart BOSminer to apply configuration changes!"
 msgstr "¡Reinicie BOSminer para aplicar cambios de configuración!"
 

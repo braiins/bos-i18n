@@ -1921,7 +1921,7 @@ msgctxt "UI"
 msgid "Close All"
 msgstr ""
 
-#: shared/components/Timeline/Timeline.tsx:60 /checksum/ROKxCJgs98
+#: shared/components/Timeline/Timeline.tsx:61 /checksum/ROKxCJgs98
 msgctxt "UI"
 msgid "Toggle the section…"
 msgstr ""
@@ -1930,71 +1930,3 @@ msgstr ""
 msgctxt "UI"
 msgid "Please contact our technical support team."
 msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Get Braiins OS+"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Invalid reponse received!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Submiting changes…"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "An error has occured!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "An error has occured while trying to remove an appeal!"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Please contact our technical support team team."
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Efficiency"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Braiins OS+ Manager"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid ""
-#~ "Batch configure and monitor your devices conveniently over the internet with"
-#~ " Braiins OS+ for free."
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid ""
-#~ "Every device using Braiins OS+ 21.04 or later can easily connect to the "
-#~ "cloud-based platform."
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid ""
-#~ "Braiins OS+ Manager connection is active, many local settings have been "
-#~ "disabled."
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Braiins OS+ Manager connection"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "ID from Braiins OS+ Manager"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Step 1 - Create a Braiins OS+ Manager account"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid ""
-#~ "Create a Braiins OS+ Manager account, confirm your e-mail address and get "
-#~ "the Farm ID."
-#~ msgstr ""

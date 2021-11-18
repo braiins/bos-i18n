@@ -1960,7 +1960,7 @@ msgctxt "UI"
 msgid "Close All"
 msgstr ""
 
-#: shared/components/Timeline/Timeline.tsx:60 /checksum/ROKxCJgs98
+#: shared/components/Timeline/Timeline.tsx:61 /checksum/ROKxCJgs98
 msgctxt "UI"
 msgid "Toggle the section…"
 msgstr ""

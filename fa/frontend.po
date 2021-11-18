@@ -1953,7 +1953,7 @@ msgctxt "UI"
 msgid "Close All"
 msgstr ""
 
-#: shared/components/Timeline/Timeline.tsx:60 /checksum/ROKxCJgs98
+#: shared/components/Timeline/Timeline.tsx:61 /checksum/ROKxCJgs98
 msgctxt "UI"
 msgid "Toggle the section…"
 msgstr ""
@@ -2017,24 +2017,6 @@ msgstr ""
 #~ "disabled."
 #~ msgstr ""
 #~ "اتصال Braiins OS+ Manager فعال است، تمام تنظیمات محلی غیرفعال شده است."
-
-#~ msgctxt "UI"
-#~ msgid "Braiins OS+ Manager connection"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "ID from Braiins OS+ Manager"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid "Step 1 - Create a Braiins OS+ Manager account"
-#~ msgstr ""
-
-#~ msgctxt "UI"
-#~ msgid ""
-#~ "Create a Braiins OS+ Manager account, confirm your e-mail address and get "
-#~ "the Farm ID."
-#~ msgstr ""
 
 #~ msgctxt "UI"
 #~ msgid "Decrease Power Limit Value."
