@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-18 16:48+0000\n"
-"PO-Revision-Date: 2021-06-30 17:34+0000\n"
+"PO-Revision-Date: 2021-11-30 17:50+0000\n"
 "Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
 "braiins-os-boser/es/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7.1-dev\n"
+"X-Generator: Weblate 4.10-dev\n"
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:145
 #: src/web/graphql/bosminer/configurator/performance.rs:147
@@ -93,9 +93,8 @@ msgid "Fan control not supported"
 msgstr "Control de ventilador no soportado"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:160
-#, fuzzy
 msgid "fan speed"
-msgstr "Velocidad del ventilador"
+msgstr "velocidad del ventilador"
 
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:171
 #: src/web/graphql/bosminer/configurator/temp_and_fans.rs:181
@@ -156,15 +155,15 @@ msgstr "La temperatura peligrosa debe ser mayor que la caliente"
 
 #: src/web/graphql/bosminer/configurator.rs:376
 msgid "Unsupported pool protocol"
-msgstr ""
+msgstr "Protocolo de pool no admitido"
 
 #: src/web/graphql/bosminer/configurator.rs:379
 msgid "Invalid format of pool URL"
-msgstr ""
+msgstr "Formato inválido de URL de pool"
 
 #: src/web/graphql/bosminer/configurator.rs:384
 msgid "Empty pool user name"
-msgstr ""
+msgstr "Nombre de usuario de pool vacío"
 
 #: src/web/graphql/bosminer/configurator.rs:515
 msgid "Missing pool with id '{}'!"
