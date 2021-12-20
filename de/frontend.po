@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-24 11:29+0000\n"
-"Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/slushpool/braiins-os/de/>\n"
+"PO-Revision-Date: 2021-12-20 10:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os-frontend/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.10\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -1096,7 +1097,7 @@ msgstr ""
 #: packages/boser/src/pages/System/System.tsx:1059 /checksum/8lnFStJQyT
 msgctxt "UI"
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiviert"
 
 #: packages/boser/src/pages/System/System.tsx:1084
 #: packages/boser/src/pages/System/System.tsx:1085 /checksum/lEXXuDtuML
@@ -1657,7 +1658,7 @@ msgstr ""
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:974 /checksum//uACcOzfn5
 msgctxt "UI"
 msgid "N/A"
-msgstr ""
+msgstr "Nicht Verfügbar"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1093 /checksum/SWDAe6zn55
 msgctxt "UI"
@@ -1705,7 +1706,7 @@ msgstr ""
 #: packages/boser/src/pages/Root/Root.tsx:1530 /checksum/2+dbOcbODn
 msgctxt "UI"
 msgid "Logout"
-msgstr ""
+msgstr "Ausloggen"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:541
 #: packages/boser/src/pages/System/System.tsx:324 /checksum//qDRtKEcqF
