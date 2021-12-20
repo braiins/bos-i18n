@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-12-15 18:53+0000\n"
+"PO-Revision-Date: 2021-12-21 19:53+0000\n"
 "Last-Translator: Artemis3 v <artemis3@gmail.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/braiins-os-frontend/es/>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os-frontend/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 4.10\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -1870,32 +1871,32 @@ msgstr "{num}s"
 #: packages/boser/src/pages/Settings/Settings.tsx:2883 /checksum/D50gPM1Oiw
 msgctxt "UI"
 msgid "Enable Immersion Mode"
-msgstr ""
+msgstr "Activar el modo de inmersión"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2884 /checksum/g1IsqQMNNn
 msgctxt "UI"
 msgid "All fans will be disabled"
-msgstr ""
+msgstr "Todos los ventiladores se desactivarán"
 
 #: shared/components/carbon/Pagination/Pagination.tsx:110 /checksum/GBTcWb/ORF
 msgctxt "UI"
 msgid "Items per page:"
-msgstr ""
+msgstr "Artículos por página:"
 
 #: shared/components/carbon/Pagination/Pagination.tsx:113 /checksum/0V3R5Cf7KK
 msgctxt "UI"
 msgid "{min}–{max} of {total, plural, =1 {# item} other {# items}}"
-msgstr ""
+msgstr "{min}–{max} of {total, plural, =1 {# item} other {# items}}"
 
 #: shared/components/carbon/Pagination/Pagination.tsx:118 /checksum/lqp2V1gpZL
 msgctxt "UI"
 msgid "of {total, plural, =1 {# page} other {# pages}}"
-msgstr ""
+msgstr "of {total, plural, =1 {# page} other {# pages}}"
 
 #: shared/components/carbon/Pagination/Pagination.tsx:127 /checksum/bQ7hzHIr6V
 msgctxt "UI"
 msgid "Fit the screen"
-msgstr ""
+msgstr "Ajuste a la pantalla"
 
 #~ msgctxt "UI"
 #~ msgid "Use <strong>0 for immersion cooling</strong>."
