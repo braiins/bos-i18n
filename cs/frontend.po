@@ -1,15 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-24 08:15+0000\n"
-"Last-Translator: Josef Kubíček <kubijo@gmail.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/slushpool/braiins-os-frontend/cs/>\n"
+"PO-Revision-Date: 2021-12-20 10:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os-frontend/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7.1-dev\n"
+"X-Generator: Weblate 4.10\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -726,12 +727,12 @@ msgstr ""
 #: shared/components/carbon/DatePager/DatePager.tsx:89 /checksum/xku/Ae0wC2
 msgctxt "UI"
 msgid "Previous"
-msgstr ""
+msgstr "Předchozí"
 
 #: shared/components/carbon/DatePager/DatePager.tsx:101 /checksum/FLgviAnpcl
 msgctxt "UI"
 msgid "Next"
-msgstr ""
+msgstr "Další"
 
 #: shared/components/carbon/Select/Select.tsx:19 /checksum/kgY4Q7Zflg
 msgctxt "UI"
@@ -1329,12 +1330,12 @@ msgstr ""
 #: shared/lib/time/calendar.tsx:34 /checksum//8WXbamE8z
 msgctxt "UI"
 msgid "This Week"
-msgstr ""
+msgstr "Tento týden"
 
 #: shared/lib/time/calendar.tsx:48 /checksum/3YK7E7SR3s
 msgctxt "UI"
 msgid "Last Week"
-msgstr ""
+msgstr "Minulý týden"
 
 #: shared/lib/time/calendar.tsx:59 /checksum/j8H6u1xYwy
 msgctxt "UI"
@@ -1380,7 +1381,7 @@ msgstr ""
 #: packages/boser/src/pages/Root/Root.tsx:636 /checksum/aVMj99GIsQ
 msgctxt "UI"
 msgid "Dismiss"
-msgstr ""
+msgstr "Zrušit"
 
 #: packages/boser/src/pages/Root/Root.tsx:788 /checksum/JJdByNqVut
 msgctxt "UI"
@@ -1615,7 +1616,7 @@ msgstr ""
 #: packages/boser/src/pages/Settings/Settings.tsx:3121 /checksum/8M5qzEvpp2
 msgctxt "UI"
 msgid "Name"
-msgstr ""
+msgstr "Jméno"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2984
 #: packages/boser/src/pages/Settings/Settings.tsx:3129 /checksum/AOQi/+Qf1+
@@ -1661,7 +1662,7 @@ msgstr ""
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:974 /checksum//uACcOzfn5
 msgctxt "UI"
 msgid "N/A"
-msgstr ""
+msgstr "Nedostupný"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1093 /checksum/SWDAe6zn55
 msgctxt "UI"
@@ -1691,7 +1692,7 @@ msgstr ""
 #: shared/lib/layout/components/Layout.tsx:230 /checksum/cVJRkxBrxE
 msgctxt "UI"
 msgid "An error has occurred!"
-msgstr ""
+msgstr "Nastala chyba!"
 
 #: packages/boser/src/pages/Root/Root.tsx:581 /checksum/ux85fEMw48
 msgctxt "UI"
@@ -1709,7 +1710,7 @@ msgstr ""
 #: packages/boser/src/pages/Root/Root.tsx:1530 /checksum/2+dbOcbODn
 msgctxt "UI"
 msgid "Logout"
-msgstr ""
+msgstr "Odhlásit se"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:541
 #: packages/boser/src/pages/System/System.tsx:324 /checksum//qDRtKEcqF
