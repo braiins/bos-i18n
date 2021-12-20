@@ -1,15 +1,17 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-07-10 16:34+0000\n"
-"Last-Translator: Iryna Bashkova <iryna.bashkova@braiins.cz>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/slushpool/braiins-os-frontend/ru/>\n"
+"PO-Revision-Date: 2021-12-20 10:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/slushpool/"
+"braiins-os-frontend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.10\n"
 
 #: packages/boser/src/pages/E404.tsx:9 /checksum/SmkgRt8tjK
 msgctxt "UI"
@@ -1715,7 +1717,7 @@ msgstr "Уменьшить значение предела мощности"
 #: shared/lib/layout/components/Layout.tsx:230 /checksum/cVJRkxBrxE
 msgctxt "UI"
 msgid "An error has occurred!"
-msgstr ""
+msgstr "Произошла ошибка!"
 
 #: packages/boser/src/pages/Root/Root.tsx:581 /checksum/ux85fEMw48
 msgctxt "UI"
@@ -1733,7 +1735,7 @@ msgstr ""
 #: packages/boser/src/pages/Root/Root.tsx:1530 /checksum/2+dbOcbODn
 msgctxt "UI"
 msgid "Logout"
-msgstr ""
+msgstr "Выйти"
 
 #: packages/boser/src/pages/Settings/Settings.tsx:541
 #: packages/boser/src/pages/System/System.tsx:324 /checksum//qDRtKEcqF
@@ -1749,7 +1751,7 @@ msgstr ""
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1045 /checksum/AyaZKJyA1l
 msgctxt "UI"
 msgid "Get Braiins OS+‎"
-msgstr ""
+msgstr "Получить Braiins OS+‎"
 
 #: packages/boser/src/pages/Dashboard/Dashboard.tsx:1074 /checksum/DCaTbOD0OU
 msgctxt "UI"
@@ -1781,42 +1783,42 @@ msgstr ""
 #: shared/components/Notifications/Notifications.tsx:244 /checksum/kFuPtdj2PY
 msgctxt "UI"
 msgid "Close All"
-msgstr ""
+msgstr "Закрыть все"
 
 #: shared/components/Timeline/Timeline.tsx:61 /checksum/ROKxCJgs98
 msgctxt "UI"
 msgid "Toggle the section…"
-msgstr ""
+msgstr "Переключить раздел…"
 
 #: shared/components/DidCatch/DidCatch.tsx:30 /checksum/pXgcLZ78lC
 msgctxt "UI"
 msgid "Please contact our technical support team."
-msgstr ""
+msgstr "Обратитесь в нашу службу технической поддержки."
 
 #: shared/components/NotificationsList/NotificationsList.tsx:66
 #: /checksum/Pbq1qG9RJj
 msgctxt "UI"
 msgid "{duration} ago"
-msgstr ""
+msgstr "{duration} назад"
 
 #: shared/components/NotificationsList/NotificationsList.tsx:117
 #: /checksum/Qbz4Ayd28K
 msgctxt "UI"
 msgid "You have no messages…"
-msgstr ""
+msgstr "У вас нет сообщений…"
 
 #: shared/components/NotificationsList/NotificationsList.tsx:118
 #: /checksum/5h3lN9gOZq
 msgctxt "UI"
 msgid "Login to see your notifications…"
-msgstr ""
+msgstr "Войдите, чтобы увидеть свои уведомления…"
 
 #: shared/components/NotificationsList/NotificationsList.tsx:129
 #: shared/components/NotificationsList/NotificationsList.tsx:139
 #: /checksum/gzinhFzBsT
 msgctxt "UI"
 msgid "Notifications"
-msgstr ""
+msgstr "Уведомления"
 
 #: shared/components/NotificationsList/NotificationsList.tsx:136
 #: /checksum/95yIsAOHSY
@@ -1824,43 +1826,45 @@ msgctxt "UI"
 msgid ""
 "{count} unread {count, plural, one {notification} other {notifications}}"
 msgstr ""
+"{count} непрочитанных {count, plural, one {notification} other "
+"{notifications}}"
 
 #: shared/components/carbon/DataTable/DataTable.tsx:464 /checksum/6v3Z6und4K
 msgctxt "UI"
 msgid "Select row"
-msgstr ""
+msgstr "Выбрать строку"
 
 #. One letter format e.g. "1y" (1 year)
 #: shared/components/format/Timesince/Timesince.tsx:21 /checksum/lmDeptUzje
 msgctxt "UI"
 msgid "{num}y"
-msgstr ""
+msgstr "{num}г."
 
 #: shared/components/format/Timesince/Timesince.tsx:22
 #: shared/components/format/Timesince/Timesince.tsx:26 /checksum/jYlc0CZdj9
 msgctxt "UI"
 msgid "{num}m"
-msgstr ""
+msgstr "{num}мес."
 
 #: shared/components/format/Timesince/Timesince.tsx:23 /checksum/6fXvvlhKx/
 msgctxt "UI"
 msgid "{num}w"
-msgstr ""
+msgstr "{num}нед."
 
 #: shared/components/format/Timesince/Timesince.tsx:24 /checksum/4f1923K8Qx
 msgctxt "UI"
 msgid "{num}d"
-msgstr ""
+msgstr "{num}дн."
 
 #: shared/components/format/Timesince/Timesince.tsx:25 /checksum/9JPC6sZmCf
 msgctxt "UI"
 msgid "{num}h"
-msgstr ""
+msgstr "{num}ч."
 
 #: shared/components/format/Timesince/Timesince.tsx:27 /checksum/fJSK2NREFQ
 msgctxt "UI"
 msgid "{num}s"
-msgstr ""
+msgstr "{num}сек."
 
 #: packages/boser/src/pages/Settings/Settings.tsx:2883 /checksum/D50gPM1Oiw
 msgctxt "UI"
