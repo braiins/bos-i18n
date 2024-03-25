@@ -1561,7 +1561,7 @@ msgstr ""
 #: shared/components/carbon/DataTable/DataTable.tsx:253 /checksum/1S7dSi0fw/
 msgctxt "UI"
 msgid "{count, plural, =1 {# item} other {# items}} selected"
-msgstr "{count, plural, = 1 {# item} otros {# items}} seleccionados"
+msgstr "{count, plural, =1 {# artículo} other {# artículos}} seleccionados"
 
 #: shared/components/app/EmailConfirmDialog/EmailConfirmDialog.tsx:37
 #: /checksum/e7Gru/kIEg
@@ -1828,7 +1828,7 @@ msgctxt "UI"
 msgid ""
 "{count} unread {count, plural, one {notification} other {notifications}}"
 msgstr ""
-"{count} sin leer {count, plural, one {notification} otras {notifications}}"
+"{count} sin leer {count, plural, one {notificación} other {notificaciones}}"
 
 #: shared/components/carbon/DataTable/DataTable.tsx:464 /checksum/6v3Z6und4K
 msgctxt "UI"
