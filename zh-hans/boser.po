@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: boser 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-18 16:48+0000\n"
+"POT-Creation-Date: 2024-04-10 09:11+0000\n"
 "PO-Revision-Date: 2021-06-30 17:34+0000\n"
 "Last-Translator: JohnsonWang <johnsonwong@westudyin.cz>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
@@ -19,243 +19,323 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.7.1-dev\n"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:145
-#: src/web/graphql/bosminer/configurator/performance.rs:147
+#: src/bosminer/context.rs:290
+msgid "Restart BOSminer to apply configuration changes!"
+msgstr "重启BOSminer应用配置更改！"
+
+#: src/web/ui.rs:87
+msgid "Actions"
+msgstr ""
+
+#: src/web/ui.rs:93
+msgid "Status"
+msgstr ""
+
+#: src/web/ui.rs:99
+msgid "Network (Advanced)"
+msgstr ""
+
+#: src/web/ui.rs:105
+msgid "Firmware Backup / Flash"
+msgstr ""
+
+#: src/web/ui.rs:111
+msgid "Auto Upgrade"
+msgstr ""
+
+#: src/web/ui.rs:117
+msgid "Nand Install"
+msgstr ""
+
+#: src/web/graphql/bos/network.rs:131 src/web/graphql/bos/network.rs:170
+msgid "Network settings could not be updated"
+msgstr ""
+
+#: src/web/graphql/bos/network.rs:150
+msgid "Invalid IP address syntax: {}"
+msgstr ""
+
+#: src/web/graphql/bos/network.rs:179
+msgid "Invalid IP address syntax"
+msgstr ""
+
+#. FIXME: `self.bos_manager.get_network_config()` should return a proper error type
+#. and `BosQuery::network()` should return a custom error type instead of
+#. `async_graphql::Error`. This should be fixed during the transition to the gRPC API.
+#: src/web/graphql/bos.rs:196
+msgid "Network settings could not be obtained"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:159
+#: src/web/graphql/bosminer/configurator/performance.rs:145
 msgid "Hash chain settings is not supported"
 msgstr "不支持设置算力板"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:149
+#: src/web/graphql/bosminer/configurator/autotuning.rs:163
 msgid "Autotuning not supported"
 msgstr "不支持自动调整"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:152
-msgid "Power scaling not supported"
+#: src/web/graphql/bosminer/configurator/autotuning.rs:167
+#, fuzzy
+msgid "Performance scaling not supported"
 msgstr "不支持动态功率调节"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:155
-#: src/web/graphql/bosminer/configurator/performance.rs:158
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:141
-#: src/web/graphql/bosminer/configurator.rs:369
-#: src/web/graphql/bosminer/configurator.rs:832
+#: src/web/graphql/bosminer/configurator/autotuning.rs:170
+#: src/web/graphql/bosminer/configurator/performance.rs:156
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:150
+#: src/web/graphql/bosminer/configurator.rs:353
+#: src/web/graphql/bosminer/configurator.rs:816
 msgid "Invalid input values!"
 msgstr "输入值无效！"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:161
-msgid "PSU power limit is out of range"
-msgstr "电源功耗限值超出范围"
-
-#: src/web/graphql/bosminer/configurator/autotuning.rs:171
-msgid "Decrease Power Limit value is out of range"
-msgstr "功耗限值降低值超出范围"
+#: src/web/graphql/bosminer/configurator/autotuning.rs:177
+msgid "Unsupported tuner mode"
+msgstr ""
 
 #: src/web/graphql/bosminer/configurator/autotuning.rs:180
-msgid "Minimal PSU Power Limit value is out of range"
+#, fuzzy
+msgid "Power target is out of range"
+msgstr "电源功耗限值超出范围"
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:186
+#, fuzzy
+msgid "Hashrate target is out of range"
+msgstr "算力板电压超出范围"
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:196
+#, fuzzy
+msgid "Decrease Power Target value is out of range"
+msgstr "功耗限值降低值超出范围"
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:205
+#, fuzzy
+msgid "Minimal Power Target value is out of range"
 msgstr "最低电源功耗限值超出范围"
 
-#: src/web/graphql/bosminer/configurator/autotuning.rs:189
+#: src/web/graphql/bosminer/configurator/autotuning.rs:214
+#, fuzzy
+msgid "Decrease Hashrate Target value is out of range"
+msgstr "功耗限值降低值超出范围"
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:223
+#, fuzzy
+msgid "Minimal Hashrate Target value is out of range"
+msgstr "最低电源功耗限值超出范围"
+
+#: src/web/graphql/bosminer/configurator/autotuning.rs:232
 msgid "Shutdown Duration value is out of range"
 msgstr "关机时长值超出范围"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:153
+#: src/web/graphql/bosminer/configurator/performance.rs:151
 msgid "ASIC Boost override not supported"
 msgstr "不支持超控ASIC Boost"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:164
+#: src/web/graphql/bosminer/configurator/performance.rs:162
 msgid "Global Frequency value is out of range"
 msgstr "全局频率超出范围"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:168
+#: src/web/graphql/bosminer/configurator/performance.rs:166
 msgid "Global Voltage value is out of range"
 msgstr "全局电压超出范围"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:197
+#: src/web/graphql/bosminer/configurator/performance.rs:195
 msgid "Hash Chain Frequency value is out of range"
 msgstr "算力板频率超出范围"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:205
+#: src/web/graphql/bosminer/configurator/performance.rs:203
 msgid "Hash Chain Voltage value is out of range"
 msgstr "算力板电压超出范围"
 
-#: src/web/graphql/bosminer/configurator/performance.rs:228
+#: src/web/graphql/bosminer/configurator/performance.rs:226
 msgid "Invalid hash chain name or hash chain order"
 msgstr "算力板名或顺序无效"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:131
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:133
 msgid "The {} cannot be set in '{}' mode"
 msgstr "{} 在 '{}' 模式下无法设置"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:135
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:137
 msgid "Temperature control not supported"
 msgstr "不支持温控"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:138
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:146
 msgid "Fan control not supported"
 msgstr "不支持风扇控制"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:160
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:169
 #, fuzzy
 msgid "fan speed"
 msgstr "风扇速度"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:171
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:181
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:180
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:190
 msgid "target temperature"
 msgstr "目标温度"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:188
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:197
 msgid "hot temperature"
 msgstr "过热温度"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:195
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:204
 msgid "dangerous temperature"
 msgstr "危险温度"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:211
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:220
 msgid "Target temperature value is out of range"
 msgstr "目标温度值超出范围"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:217
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:226
 msgid "Hot temperature value is out of range"
 msgstr "过热温度值超出范围"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:226
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:235
 msgid "Dangerous temperature value is out of range"
 msgstr "危险温度值超出范围"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:230
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:246
 msgid "Fan Speed value is out of range"
 msgstr "风扇速度值超出范围"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:233
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:251
+#, fuzzy
+msgid "Immersion mode is not supported"
+msgstr "不支持设置算力板"
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:257
+msgid "Conflict values for minimal number of fans and immersion mode"
+msgstr ""
+
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:263
 msgid "Invalid minimal number of fans"
 msgstr "最小风扇数无效"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:258
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:290
 msgid "Target temperature must be lower than Hot and Dangerous temperature"
 msgstr "目标温度必须小于过热温度和危险温度"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:267
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:299
 msgid ""
 "Hot temperature must be higher than Target and lower than Dangerous "
 "temperature"
 msgstr "过热温度必须大于目标温度并小于危险温度"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:273
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:305
 msgid "Hot temperature must be lower than Dangerous temperature"
 msgstr "过热温度必须小于危险温度"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:284
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:316
 msgid "Dangerous temperature must be higher than Target and Hot temperature"
 msgstr "危险温度必须大于目标温度和过热温度"
 
-#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:289
+#: src/web/graphql/bosminer/configurator/temp_and_fans.rs:321
 msgid "Dangerous temperature must be Higher than Hot temperature"
 msgstr "危险温度必须大于过热温度"
 
-#: src/web/graphql/bosminer/configurator.rs:376
+#: src/web/graphql/bosminer/configurator.rs:360
 msgid "Unsupported pool protocol"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:379
+#: src/web/graphql/bosminer/configurator.rs:363
 msgid "Invalid format of pool URL"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:384
+#: src/web/graphql/bosminer/configurator.rs:368
 msgid "Empty pool user name"
 msgstr ""
 
-#: src/web/graphql/bosminer/configurator.rs:515
+#: src/web/graphql/bosminer/configurator.rs:499
 msgid "Missing pool with id '{}'!"
 msgstr "缺失ID为 '{}' 的矿池！"
 
-#: src/web/graphql/bosminer/configurator.rs:716
+#: src/web/graphql/bosminer/configurator.rs:700
 msgid "Missing group with id '{}'"
 msgstr "确实ID为 '{}' 的矿池组"
 
-#: src/web/graphql/bosminer/configurator.rs:750
+#: src/web/graphql/bosminer/configurator.rs:734
 msgid "Ambiguous attributes for 'strategy'"
 msgstr "模糊的'策略'项"
 
-#: src/web/graphql/bosminer/configurator.rs:758
+#: src/web/graphql/bosminer/configurator.rs:742
 msgid "Duplicate use of the identifier '{}'"
 msgstr "重复使用识别符 '{}'"
 
-#: src/web/graphql/bosminer/configurator.rs:777
+#: src/web/graphql/bosminer/configurator.rs:761
 msgid "Missing mandatory attribute 'name'"
 msgstr "缺失必须项 '名'"
 
-#: src/web/graphql/bosminer/configurator.rs:833
+#: src/web/graphql/bosminer/configurator.rs:817
 msgid "Group name cannot be empty"
 msgstr "组名不能为空"
 
-#: src/web/graphql/bosminer/configurator.rs:838
+#: src/web/graphql/bosminer/configurator.rs:822
 msgid "Load balancing strategy cannot be empty!"
 msgstr "负载平衡策略不能为空！"
 
-#: src/web/graphql/bosminer/configurator.rs:843
+#: src/web/graphql/bosminer/configurator.rs:827
 msgid "The sum of fixed share ratios {} exceeds 1"
 msgstr "按固定百分比分配算力之和 {} 超过1"
 
-#: src/web/graphql/bosminer/configurator.rs:849
+#: src/web/graphql/bosminer/configurator.rs:833
 msgid ""
 "At least one group with quota must be present when sum of all fixed share "
 "ratios is less then 1!"
 msgstr ""
 "当算力按固定百分比分配之和小于1时，必须至少对一个矿池组设置算力按比值分配！"
 
-#: src/web/graphql/bosminer/configurator.rs:855
+#: src/web/graphql/bosminer/configurator.rs:839
 msgid ""
 "You cannot have any quota-based load balancing entries because sum of all "
 "fixed share ratios is 1!"
 msgstr "按百分比分配算力之和为1，则无法按比值分配算力！"
 
-#: src/web/graphql/bosminer/info.rs:102
+#: src/web/graphql/bosminer/info.rs:94
 msgid "Testing performance profile"
 msgstr "矿机体质测试"
 
-#: src/web/graphql/bosminer/info.rs:104
+#: src/web/graphql/bosminer/info.rs:97
 msgid "Tuning individual chips"
 msgstr "单个芯片调整"
 
-#: src/web/graphql/bosminer/info.rs:105
+#: src/web/graphql/bosminer/info.rs:99
 msgid "Stable"
 msgstr "稳定"
 
-#: src/web/graphql/bosminer/info.rs:106
+#: src/web/graphql/bosminer/info.rs:100
 msgid "Tuner not running"
 msgstr "调整器未运行"
 
-#: src/web/graphql/bosminer/info.rs:108
+#: src/web/graphql/bosminer/info.rs:102
 msgid "Running with fixed settings"
 msgstr "按固定设置运行"
 
-#: src/web/graphql/bosminer/info.rs:111
+#: src/web/graphql/bosminer/info.rs:105
 msgid "Hashchain refused to start"
 msgstr "算力板无法启动"
 
-#: src/web/graphql/bosminer/info.rs:159
+#: src/web/graphql/bosminer/info.rs:152
 msgid "Disabled"
 msgstr "已禁用"
 
-#: src/web/graphql/bosminer/info.rs:160
+#: src/web/graphql/bosminer/info.rs:153 src/web/graphql/bosminer/info.rs:158
 msgid "Enabled"
 msgstr "已启用"
 
-#: src/web/graphql/bosminer/info.rs:163
-msgid "Power limit lowered to {} W"
+#: src/web/graphql/bosminer/info.rs:156
+#, fuzzy
+msgid "Power target changed to {}"
 msgstr "降低功耗限制到 {} 瓦"
 
-#: src/web/graphql/bosminer/info.rs:170
+#: src/web/graphql/bosminer/info.rs:161
+msgid "Hashrate target changed to {}/s"
+msgstr ""
+
+#: src/web/graphql/bosminer/info.rs:169
 msgid "Mining shutdown, will start again in {}"
 msgstr "矿机关机到 {} 再重启"
 
-#: src/web/graphql/bosminer/info.rs:775
+#: src/web/graphql/bosminer/info.rs:605
 msgid "BOSminer is not running"
 msgstr "BOSminer未运行"
-
-#: src/web/graphql/bosminer.rs:328
-msgid "Restart BOSminer to apply configuration changes!"
-msgstr "重启BOSminer应用配置更改！"
 
 #: src/web/graphql/storage.rs:172
 msgid "Cannot save web data to persistent storage"
